@@ -1,0 +1,34 @@
+[INITIALIZATION][CLIENT][INFO] CraftTweaker: Building registry
+[INITIALIZATION][CLIENT][INFO] CraftTweaker: Successfully built item registry
+[INITIALIZATION][CLIENT][INFO] Loading scripts
+[INITIALIZATION][CLIENT][INFO] Ignoring script {[0:crafttweaker]: expert.zs} as current pack mode normal is not in the scripts pack modes [expert]
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: expert.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: normal.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: tweaks.zs}
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <mxtweaks:pink_living_rock>: Takes 69 hours.
+[INITIALIZATION][CLIENT][INFO] Completed script loading in: 1229ms
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Compressed Pink Livingrock with name ct_shaped1758216845
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for The Everlasting Guilty Pool with name ct_shaped48179073
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Chest with name ct_shaped-2093490674
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Stick with name ct_shaped649496343
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Crafting Table with name ct_shaped-1084336767
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Compressed Cobblestone with name ct_shaped-2022315092
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Infinity Stone with name ct_shaped-806949312
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Mana Infusion Recipe(s) for <mxtweaks:mana_petal_white>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Mana Infusion Recipe(s) for <mxtweaks:mana_petal_orange>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Mana Infusion Recipe(s) for <mxtweaks:mana_petal_magenta>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Mana Infusion Recipe(s) for <mxtweaks:mana_petal_lightblue>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Mana Infusion Recipe(s) for <mxtweaks:mana_petal_yellow>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Mana Infusion Recipe(s) for <mxtweaks:mana_petal_lime>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Mana Infusion Recipe(s) for <mxtweaks:mana_petal_pink>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Mana Infusion Recipe(s) for <mxtweaks:mana_petal_gray>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Mana Infusion Recipe(s) for <mxtweaks:mana_petal_lightgray>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Mana Infusion Recipe(s) for <mxtweaks:mana_petal_cyan>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Mana Infusion Recipe(s) for <mxtweaks:mana_petal_purple>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Mana Infusion Recipe(s) for <mxtweaks:mana_petal_blue>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Mana Infusion Recipe(s) for <mxtweaks:mana_petal_brown>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Mana Infusion Recipe(s) for <mxtweaks:mana_petal_green>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Mana Infusion Recipe(s) for <mxtweaks:mana_petal_red>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Mana Infusion Recipe(s) for <mxtweaks:mana_petal_black>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Petal Recipe(s) for <mxtweaks:rune_of_infinity>
+[SERVER_STARTED][CLIENT][INFO] Fixed the RecipeBook

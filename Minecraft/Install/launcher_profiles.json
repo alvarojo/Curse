@@ -1,0 +1,58 @@
+{
+  "profiles": {
+    "8e93aa4f0732fc032b0750b0e5852250": {
+      "type": "latest-release",
+      "lastUsed": "1970-01-01T00:00:00.001Z"
+    },
+    "168686a3079c8951876bcdb1b553a666": {
+      "type": "latest-snapshot",
+      "lastUsed": "1970-01-01T00:00:00.000Z"
+    },
+    "Compaction Think inside the box": {
+      "name": "Compaction Think inside the box",
+      "type": "custom",
+      "created": "2018-09-13T19:22:50.6011174Z",
+      "lastUsed": "2018-09-13T19:23:11.324Z",
+      "lastVersionId": "forge-14.23.4.2747",
+      "resolution": {
+        "width": 1024,
+        "height": 768
+      },
+      "gameDir": "C:\\Users\\Jolvary\\Documents\\Curse\\Minecraft\\Instances\\Compaction Think inside the box\\",
+      "javaArgs": "-Xmx6144m -Xms256m -XX:PermSize=256m -Dminecraft.applet.TargetDirectory=\"C:\\Users\\Jolvary\\Documents\\Curse\\Minecraft\\Instances\\Compaction Think inside the box\" -Dfml.ignorePatchDiscrepancies=true -Dfml.ignoreInvalidMinecraftCertificates=true -Duser.language=en -Duser.country=US"
+    }
+  },
+  "clientToken": "e08835af-1eb5-48df-93bc-510f43b1116d",
+  "authenticationDatabase": {
+    "2f162ba97a084d4c8231497da1b75426": {
+      "accessToken": "94d03c07f90a406abd088a9400b49edc",
+      "username": "jolvi98@hotmail.com",
+      "profiles": {
+        "c8945350839f4c6d8b0ee99df549f3bc": {
+          "displayName": "jolvary98"
+        }
+      }
+    }
+  },
+  "selectedUser": {
+    "account": "2f162ba97a084d4c8231497da1b75426",
+    "profile": "c8945350839f4c6d8b0ee99df549f3bc"
+  },
+  "launcherVersion": {
+    "name": "2.1.1351",
+    "format": 21,
+    "profilesFormat": 2
+  },
+  "selectedProfile": "Compaction Think inside the box",
+  "settings": {
+    "locale": "es-es",
+    "showMenu": false,
+    "keepLauncherOpen": false,
+    "showGameLog": false,
+    "crashAssistance": false,
+    "enableAnalytics": false,
+    "enableAdvanced": true
+  },
+  "analyticsToken": "2a97bfb043a53bd0910d4412b506d62c",
+  "analyticsFailcount": 0
+}

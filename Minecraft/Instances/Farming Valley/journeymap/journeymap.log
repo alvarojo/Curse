@@ -1,0 +1,73 @@
+[13:45:00] [Client thread/INFO] [JMLogger] JourneyMap log initialized.
+[13:45:00] [Client thread/INFO] [JourneymapClient] initialize ENTER
+[13:45:00] [Client thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
+[13:45:00] [Client thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): splashViewed=null
+[13:45:00] [Client thread/INFO] [?] Version: JourneyMap 1.10.2-5.5.2, built with Forge 12.18.3.2316
+Forge: 12.18.3.2511
+Environment: os.name, os.arch, java.version, user.country, user.language=null, game language=en_US, locale=en_us
+Features: 
+	RadarPlayers : singleplayer = true , multiplayer = true
+	RadarAnimals : singleplayer = true , multiplayer = true
+	RadarMobs : singleplayer = true , multiplayer = true
+	RadarVillagers : singleplayer = true , multiplayer = true
+	MapTopo : singleplayer = true , multiplayer = true
+	MapSurface : singleplayer = true , multiplayer = true
+	MapCaves : singleplayer = true , multiplayer = true
+MiniMapProperties{state=Valid, file=journeymap.minimap.config, configVersion=5.5.2, zoomLevel=0, showPlayers=true, frameAlpha=100, compassFontScale=1, terrainAlpha=100, showEntityNames=true, enabled=true, showPlayerHeading=true, showVillagers=true, info2Label=Game Time, sizePercent=30, showDayNight=true, info3Label=Location, showMobs=true, showPets=true, preferredMapType=day, showCompass=true, mobDisplay=Small Dots, showReticle=true, orientation=North, shape=Circle, showSelf=true, info4Label=Biome, locationFormat=xzyv, playerDisplay=Small Dots, showGrid=true, reticleOrientation=Compass, showWaypoints=true, showCaves=true, showAnimals=true, showMobHeading=true, showWaypointLabels=true, locationFormatVerbose=true, position=Top Right, info1Label=Blank, fontScale=1}
+MiniMapProperties{state=Valid, file=journeymap.minimap2.config, configVersion=5.5.2, zoomLevel=0, showPlayers=true, frameAlpha=100, compassFontScale=1, terrainAlpha=100, showEntityNames=true, enabled=true, showPlayerHeading=true, showVillagers=true, info2Label=Game Time, sizePercent=30, showDayNight=true, info3Label=Location, showMobs=true, showPets=true, preferredMapType=day, showCompass=true, mobDisplay=Small Dots, showReticle=true, orientation=North, shape=Rectangle, showSelf=true, info4Label=Biome, locationFormat=xzyv, playerDisplay=Small Dots, showGrid=true, reticleOrientation=Compass, showWaypoints=true, showCaves=true, showAnimals=true, showMobHeading=true, showWaypointLabels=true, locationFormatVerbose=true, position=Top Right, info1Label=Blank, fontScale=1}
+FullMapProperties{state=Valid, file=journeymap.fullmap.config, configVersion=5.5.2, mobDisplay=Small Dots, zoomLevel=0, showPlayers=true, showSelf=true, locationFormat=xzyv, playerDisplay=Small Dots, showGrid=true, showEntityNames=true, showPlayerHeading=true, showVillagers=true, showWaypoints=true, showCaves=true, showAnimals=true, showMobHeading=true, showKeys=true, showWaypointLabels=true, locationFormatVerbose=true, showMobs=true, showPets=true, fontScale=1, preferredMapType=day}
+WaypointProperties{state=Valid, file=journeymap.waypoint.config, configVersion=5.5.2, createDeathpoints=true, showName=true, maxDistance=0, autoHideLabel=true, showStaticBeam=true, minDistance=4, boldLabel=false, textureSmall=true, showDistance=true, showRotatingBeam=true, fontScale=2, showTexture=true, managerEnabled=true, beaconEnabled=true}
+WebMapProperties{state=Valid, file=journeymap.webmap.config, configVersion=5.5.2, zoomLevel=0, showWaypoints=true, showCaves=true, showSelf=true, port=8080, showGrid=true, showEntityNames=true, enabled=false, googleMapApiDomain=.com, preferredMapType=day}
+CoreProperties{state=Valid, file=journeymap.core.config, configVersion=5.5.2, verboseColorPalette=false, maxPlayersData=32, mapSurfaceAboveCaves=true, optionsManagerViewed=null, announceMod=true, colorPassive=#bbbbbb, renderOverlayEventTypeName=ALL, mapBlendWater=false, renderDistanceSurfaceMax=7, radarVerticalDistance=16, mapBlendGrass=true, recordCacheStats=false, hideSneakingEntities=true, revealShape=Circle, alwaysMapSurface=false, colorVillager=#88e188, mapPlants=false, colorPet=#0077ff, radarLateralDistance=64, mapBathymetry=false, mapCrops=true, maxMobsData=32, mapPlantShadows=false, alwaysMapCaves=false, checkUpdates=true, browserPoll=2000, mapBlendFoliage=true, mappingEnabled=true, colorPlayer=#ffffff, tileHighDisplayQuality=true, cacheVillagersData=2200, logLevel=INFO, maxVillagersData=32, maxAnimalsData=32, mapTransparency=true, tileRenderType=1, caveIgnoreGlass=true, mapTopography=true, renderDistanceCaveMax=3, mapAntialiasing=true, colorSelf=#0000ff, cachePlayersData=2000, cacheMobsData=3000, cachePlayerData=1000, splashViewed=null, colorHostile=#ff0000, cacheAnimalsData=3100, themeName=OceanMonument, mapCaveLighting=true, renderDelay=2, renderOverlayPreEvent=true, autoMapPoll=2000}
+[13:45:00] [Client thread/INFO] [ClientAPI] [ClientAPI] built with JourneyMap API 1.4
+[13:45:00] [Client thread/INFO] [PluginHelper] Initializing plugins with Client API: journeymap.client.api.impl.ClientAPI
+[13:45:00] [Client thread/INFO] [JourneymapClient] initialize EXIT, elapsed count 0 avg �ms
+[13:45:22] [Client thread/ERROR] [FileHandler] Couldn't locate icons for Default: C:\Users\Jolvary\Documents\Curse\Minecraft\Instances\Farming%20Valley\mods\journeymap-1.10.2-5.5.2.jar\assets\journeymap\icon\entity
+[13:45:22] [Client thread/INFO] [IconSetFileHandler] Added entity icons from journeymap:icon/entity. Success: false
+[13:45:22] [Client thread/ERROR] [FileHandler] Couldn't locate icons for flat: C:\Users\Jolvary\Documents\Curse\Minecraft\Instances\Farming%20Valley\mods\journeymap-1.10.2-5.5.2.jar\assets\journeymap\theme\flat
+[13:45:22] [Client thread/INFO] [ThemeLoader] Preloaded theme textures: 0
+[13:45:23] [JM-VersionCheck-1/ERROR] [VersionCheck$1] Could not check version URL
+com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 2 column 2
+	at com.google.gson.JsonParser.parse(JsonParser.java:65) ~[JsonParser.class:?]
+	at com.google.gson.JsonParser.parse(JsonParser.java:45) ~[JsonParser.class:?]
+	at journeymap.common.version.VersionCheck$1.run(VersionCheck.java:131) [VersionCheck$1.class:1.10.2-5.5.2]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_51]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_51]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_51]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_51]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_51]
+Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 2 column 2
+	at com.google.gson.stream.JsonReader.syntaxError(JsonReader.java:1505) ~[JsonReader.class:?]
+	at com.google.gson.stream.JsonReader.checkLenient(JsonReader.java:1386) ~[JsonReader.class:?]
+	at com.google.gson.stream.JsonReader.doPeek(JsonReader.java:531) ~[JsonReader.class:?]
+	at com.google.gson.stream.JsonReader.peek(JsonReader.java:414) ~[JsonReader.class:?]
+	at com.google.gson.JsonParser.parse(JsonParser.java:60) ~[JsonParser.class:?]
+	... 7 more
+[13:57:31] [Client thread/INFO] [ModBlockDelegate] Custom modded block handling enabled for bibliocraft
+[13:57:31] [Client thread/INFO] [ModBlockDelegate] Custom modded block handling enabled for biomesoplenty
+[13:57:31] [Client thread/INFO] [ColorManager] Loaded color palette for 1382 blockstates in 2020ms
+[14:03:47] [Client thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
+[14:03:47] [Client thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): splashViewed=null
+[14:03:47] [Client thread/INFO] [TopoRenderer] Loading journeymap.topo.config
+[14:03:48] [Client thread/INFO] [WaypointStore] Loaded 4 waypoints from C:\Users\Jolvary\Documents\Curse\Minecraft\Instances\Farming Valley\journeymap\data\sp\Farmilandia\waypoints
+[14:03:48] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\Jolvary\Documents\Curse\Minecraft\Instances\Farming Valley\journeymap\data\sp\Farmilandia\DIM0. Memory: 3137MB total, 699MB free 
+[14:03:49] [Client thread/INFO] [ChatLog] JourneyMap: Press [M]
+[14:04:52] [Client thread/INFO] [StateTickHandler] jolvary98 died at BlockPos{x=109, y=11, z=141}. Deathpoints enabled: true. Deathpoint created: true
+[14:10:56] [Client thread/WARN] [StatTimer] TileDrawStep.updateRegionTexture was slow: 147.041441 (Warning limit reached)
+[14:10:56] [Client thread/WARN] [StatTimer] TileDrawStep.updateRegionTexture: Avg:     0.03ms, Min:        0ms, Max:     194.69ms, Total:          1 sec, Count:    55969, Canceled:        0, Slow:       10
+[15:08:20] [JM-texture-3/WARN] [TextureCache] Couldn't get a skin at all for techbrew
+[15:08:20] [JM-texture-2/WARN] [TextureCache] Couldn't get a skin at all for mysticdrew
+[15:08:20] [JM-texture-2/WARN] [TextureCache] Couldn't get a skin at all for Davkas
+[15:08:20] [JM-texture-3/WARN] [TextureCache] Couldn't get a skin at all for AlexDurrani
+[15:08:20] [JM-texture-2/WARN] [TextureCache] Couldn't get a skin at all for TECH_GEEK10
+[15:08:20] [JM-texture-3/WARN] [TextureCache] Couldn't get a skin at all for _TheEndless_
+[15:08:20] [JM-texture-2/WARN] [TextureCache] Couldn't get a skin at all for eladjenkins
+[15:08:25] [JM-task-4/INFO] [TopoRenderer] Loading journeymap.topo.config
+[15:14:38] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Jolvary\Documents\Curse\Minecraft\Instances\Farming Valley\journeymap\data\sp\Farmilandia\DIM0
+[15:17:39] [Client thread/INFO] [TopoRenderer] Loading journeymap.topo.config
+[15:17:39] [Client thread/INFO] [WaypointStore] Loaded 0 waypoints from C:\Users\Jolvary\Documents\Curse\Minecraft\Instances\Farming Valley\journeymap\data\sp\Farmilandia\waypoints
+[15:17:39] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\Jolvary\Documents\Curse\Minecraft\Instances\Farming Valley\journeymap\data\sp\Farmilandia\DIM0. Memory: 4005MB total, 1677MB free 
+[15:25:48] [Client thread/INFO] [StateTickHandler] jolvary98 died at BlockPos{x=153, y=70, z=226}. Deathpoints enabled: true. Deathpoint created: true
+[15:32:00] [Client thread/WARN] [StatTimer] TileDrawStep.updateRegionTexture was slow: 97.783721 (Warning limit reached)
+[15:32:00] [Client thread/WARN] [StatTimer] TileDrawStep.updateRegionTexture: Avg:     0.02ms, Min:        0ms, Max:     186.69ms, Total:          2 sec, Count:   140494, Canceled:        0, Slow:       10
+[15:41:04] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Jolvary\Documents\Curse\Minecraft\Instances\Farming Valley\journeymap\data\sp\Farmilandia\DIM0

@@ -1,0 +1,28 @@
+[INITIALIZATION][CLIENT][INFO] CraftTweaker: Building registry
+[INITIALIZATION][CLIENT][INFO] CraftTweaker: Successfully built item registry
+[INITIALIZATION][CLIENT][INFO] Loading scripts
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: gubbins.zs}
+[INITIALIZATION][CLIENT][INFO] Translating tile.sapling.oak.name to Clay Tree Sapling
+[INITIALIZATION][CLIENT][INFO] Translating tile.log.oak.name to Clay Tree Wood
+[INITIALIZATION][CLIENT][INFO] Translating tile.dirt.default.name to Clayful Dirt
+[INITIALIZATION][CLIENT][INFO] Translating icbm.explosive.redMatter.name to Clay Matter Explosives
+[INITIALIZATION][CLIENT][INFO] Translating icbm.missile.redMatter.name to Clay Matter Missile
+[INITIALIZATION][CLIENT][INFO] Translating item.draconicevolution:draconium_dust.name to [Restricted Item Please Ignore]
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: recipes.zs}
+[INITIALIZATION][CLIENT][INFO] Completed script loading in: 1071ms
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Spawn Parrot with name ct_shapeless1618303828
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for End Portal with name ct_shaped-1558094990
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Clay Matter Explosives with name ct_shaped953465950
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Sand Chicken with name ct_shapeless118548023
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Log Chicken with name ct_shapeless680868042
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Clay Matter Explosives with name ct_shaped-562479366
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Clay Axe with name ct_shaped-831484889
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Clay Shovel with name ct_shaped-867637162
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Clay Pickaxe with name ct_shaped-1115418808
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for [Restricted Item Please Ignore] with name ct_shaped2020150097
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Balancing Table with name ct_shaped-721988464
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Tasty Clay with name ct_shapeless-1540446769
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Clay Tree Sapling with name ct_shapeless-1984082516
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Clayful Dirt with name ct_shapeless1114785466
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Philosopher's Clay with name ct_shapeless-1288707817
+[SERVER_STARTED][CLIENT][INFO] Fixed the RecipeBook

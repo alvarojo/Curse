@@ -1,0 +1,1101 @@
+[17:16:49] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[17:16:50] [main/INFO]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[17:16:50] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[17:16:50] [main/INFO]: Forge Mod Loader version 14.23.4.2705 for Minecraft 1.12.2 loading
+[17:16:50] [main/INFO]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_51, running on Windows 10:amd64:10.0, installed at C:\Users\Jolvary\Documents\Curse\Minecraft\Install\runtime\jre-x64\1.8.0_51
+[17:16:59] [main/INFO]: Searching C:\Users\Jolvary\Documents\Curse\Minecraft\Instances\Garden of Glass (Questbook Edition)\mods for mods
+[17:16:59] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in Blur-1.0.4-14.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[17:16:59] [main/WARN]: The coremod com.tterrag.blur.BlurPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[17:16:59] [main/WARN]: The coremod BlurPlugin (com.tterrag.blur.BlurPlugin) is not signed!
+[17:16:59] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in CTM-MC1.12.2-0.3.2.18.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[17:16:59] [main/WARN]: The coremod team.chisel.ctm.client.asm.CTMCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[17:16:59] [main/WARN]: The coremod CTMCorePlugin (team.chisel.ctm.client.asm.CTMCorePlugin) is not signed!
+[17:16:59] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in InventoryTweaks-1.63.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[17:17:00] [main/WARN]: The coremod invtweaks.forge.asm.FMLPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[17:17:00] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in ResourceLoader-MC1.12.1-1.5.3.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[17:17:00] [main/WARN]: The coremod lumien.resourceloader.asm.LoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[17:17:00] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[17:17:00] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[17:17:00] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[17:17:00] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[17:17:00] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:17:07] [main/INFO]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[17:17:07] [main/INFO]: Found valid fingerprint for Minecraft. Certificate fingerprint cd99959656f753dc28d863b46769f7f8fbaefcfc
+[17:17:07] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:17:07] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[17:17:10] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:17:11] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:17:11] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:17:11] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:17:11] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[17:17:11] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[17:17:11] [main/INFO]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[17:17:12] [main/INFO]: [com.tterrag.blur.BlurTransformer:transform:30]: Transforming Class [net.minecraft.client.gui.GuiScreen], Method [drawWorldBackground]
+[17:17:12] [main/INFO]: [com.tterrag.blur.BlurTransformer:transform:52]: Modifying GUI background darkness... 
+[17:17:12] [main/INFO]: [com.tterrag.blur.BlurTransformer:transform:72]: Transforming net.minecraft.client.gui.GuiScreen Finished.
+[17:17:14] [main/INFO]: Setting user: jolvary98
+[17:17:16] [main/INFO]: [team.chisel.ctm.client.asm.CTMTransformer:preTransform:229]: Transforming Class [net.minecraft.block.Block], Method [getExtendedState]
+[17:17:16] [main/INFO]: [team.chisel.ctm.client.asm.CTMTransformer:finishTransform:241]: Transforming net.minecraft.block.Block Finished.
+[17:17:26] [main/INFO]: LWJGL Version: 2.9.4
+[17:17:39] [main/INFO]: -- System Details --
+Details:
+	Minecraft Version: 1.12.2
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 1.8.0_51, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 123699424 bytes (117 MB) / 583532544 bytes (556 MB) up to 5726797824 bytes (5461 MB)
+	JVM Flags: 4 total; -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xmx6144m -Xms256m -XX:PermSize=256m
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: 
+	Loaded coremods (and transformers): 
+Inventory Tweaks Coremod (InventoryTweaks-1.63.jar)
+  invtweaks.forge.asm.ContainerTransformer
+BlurPlugin (Blur-1.0.4-14.jar)
+  com.tterrag.blur.BlurTransformer
+CTMCorePlugin (CTM-MC1.12.2-0.3.2.18.jar)
+  team.chisel.ctm.client.asm.CTMTransformer
+LoadingPlugin (ResourceLoader-MC1.12.1-1.5.3.jar)
+  lumien.resourceloader.asm.ClassTransformer
+	GL info: ' Vendor: 'Intel' Version: '4.3.0 - Build 20.19.15.4624' Renderer: 'Intel(R) HD Graphics 4400'
+[17:17:40] [main/INFO]: MinecraftForge v14.23.4.2705 Initialized
+[17:17:40] [main/INFO]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[17:17:40] [main/INFO]: Replaced 1036 ore ingredients
+[17:17:42] [main/INFO]: Searching C:\Users\Jolvary\Documents\Curse\Minecraft\Instances\Garden of Glass (Questbook Edition)\mods for mods
+[17:17:44] [Thread-3/INFO]: Using sync timing. 200 frames of Display.update took 747483252 nanos
+[17:17:47] [main/WARN]: Mod betterbuilderswands is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 0.12.0
+[17:17:49] [main/WARN]: Mod codechickenlib is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 3.2.0.345
+[17:17:50] [main/WARN]: Mod craftingtweaks is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 8.1.9
+[17:17:51] [main/WARN]: Mod defaultoptions is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 9.2.7
+[17:17:51] [main/WARN]: Mod forgivingvoid is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.0.17
+[17:17:53] [main/WARN]: Mod ironchest is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-7.0.44.829
+[17:17:57] [main/WARN]: Mod bq_standard is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 3.4.143
+[17:17:58] [main/INFO]: Forge Mod Loader has identified 56 mods to load
+[17:18:01] [main/INFO]: Attempting connection with missing mods [minecraft, mcp, FML, forge, charcoalblock, aiotbotania, appleskin, baubles, betteradvancements, betterbuilderswands, betterquesting, blur, botania, carryon, chisel, codechickenlib, controlling, craftingtweaks, ctgui, crafttweaker, crafttweakerjei, ctm, custommainmenu, defaultoptions, defaultworldgenerator-port, fastleafdecay, forgivingvoid, ftblib, ftbutilities, fw, gardenofglass, gobblecore, gravestone, harvest, ingameinfoxml, inventorytweaks, ironchest, jei, journeymap, jeresources, lunatriuscore, modtweaker, morpheus, mousetweaks, mtlib, mxtweaks, netherportalfix, nei, oreexcavation, packmode, questbook, resourceloader, bq_standard, theoneprobe, ts2k16, reauth] at CLIENT
+[17:18:01] [main/INFO]: Attempting connection with missing mods [minecraft, mcp, FML, forge, charcoalblock, aiotbotania, appleskin, baubles, betteradvancements, betterbuilderswands, betterquesting, blur, botania, carryon, chisel, codechickenlib, controlling, craftingtweaks, ctgui, crafttweaker, crafttweakerjei, ctm, custommainmenu, defaultoptions, defaultworldgenerator-port, fastleafdecay, forgivingvoid, ftblib, ftbutilities, fw, gardenofglass, gobblecore, gravestone, harvest, ingameinfoxml, inventorytweaks, ironchest, jei, journeymap, jeresources, lunatriuscore, modtweaker, morpheus, mousetweaks, mtlib, mxtweaks, netherportalfix, nei, oreexcavation, packmode, questbook, resourceloader, bq_standard, theoneprobe, ts2k16, reauth] at SERVER
+[17:18:06] [main/INFO]: [team.chisel.ctm.client.asm.CTMTransformer:preTransform:229]: Transforming Class [net.minecraft.client.renderer.texture.TextureMap], Method [registerSprite]
+[17:18:06] [main/INFO]: [team.chisel.ctm.client.asm.CTMTransformer:finishTransform:241]: Transforming net.minecraft.client.renderer.texture.TextureMap Finished.
+[17:18:08] [main/ERROR]: java.io.FileNotFoundException: Source 'C:\Users\Jolvary\Documents\Curse\Minecraft\Instances\Garden of Glass (Questbook Edition)\config\defaultoptions\servers.dat' does not exist
+[17:18:08] [main/WARN]: Skipping bad option: lastServer:
+[17:18:12] [main/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:A Block of Charcoal, FMLFileResourcePack:AIOT Botania, FMLFileResourcePack:AppleSkin, FMLFileResourcePack:Baubles, FMLFileResourcePack:Better Advancements, FMLFileResourcePack:Better Builder's Wands, FMLFileResourcePack:Better Questing, FMLFileResourcePack:Blur, FMLFileResourcePack:Botania, FMLFileResourcePack:Carry On, FMLFileResourcePack:Chisel, FMLFileResourcePack:CodeChicken Lib, FMLFileResourcePack:Controlling, FMLFileResourcePack:Crafting Tweaks, FMLFileResourcePack:CT-GUI, FMLFileResourcePack:CraftTweaker2, FMLFileResourcePack:CraftTweaker JEI Support, FMLFileResourcePack:CTM, FMLFileResourcePack:Custom Main Menu, FMLFileResourcePack:Default Options, FMLFileResourcePack:Default World Generator, FMLFileResourcePack:Fast Leaf Decay, FMLFileResourcePack:Forgiving Void, FMLFileResourcePack:FTBLib, FMLFileResourcePack:FTB Utilities, FMLFileResourcePack:Fullscreen Windowed, FMLFileResourcePack:Garden of Glass, FMLFileResourcePack:Gobble Core, FMLFileResourcePack:Gravestone, FMLFileResourcePack:Harvest, FMLFileResourcePack:InGame Info XML, FMLFileResourcePack:Inventory Tweaks, FMLFileResourcePack:Iron Chest, FMLFileResourcePack:Just Enough Items, FMLFileResourcePack:JourneyMap, FMLFileResourcePack:Just Enough Resources, FMLFileResourcePack:LunatriusCore, FMLFileResourcePack:Mod Tweaker, FMLFileResourcePack:Morpheus, FMLFileResourcePack:Mouse Tweaks, FMLFileResourcePack:MTLib, FMLFileResourcePack:MelanX Tweaks, FMLFileResourcePack:NetherPortalFix, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:OreExcavation, FMLFileResourcePack:PackMode, FMLFileResourcePack:Better Questing Quest Book, FMLFileResourcePack:Resource Loader, FMLFileResourcePack:Standard Expansion, FMLFileResourcePack:The One Probe, FMLFileResourcePack:Twerk-Sim 2K16, FMLFileResourcePack:ReAuth, Blur dummy resource pack, CustomResources, CustomOverridingResources
+[17:18:13] [main/INFO]: Processing ObjectHolder annotations
+[17:18:13] [main/INFO]: Found 1277 ObjectHolder annotations
+[17:18:13] [main/INFO]: Identifying ItemStackHolder annotations
+[17:18:14] [main/INFO]: Found 0 ItemStackHolder annotations
+[17:18:14] [main/INFO]: Configured a dormant chunk cache size of 0
+[17:18:14] [Forge Version Check/INFO]: [nei] Starting version check at http://chickenbones.net/Files/notification/version.php?query=forge&version=1.12&file=NotEnoughItems
+[17:18:16] [Forge Version Check/INFO]: [nei] Found status: BETA Target: null
+[17:18:16] [Forge Version Check/INFO]: [carryon] Starting version check at https://gist.githubusercontent.com/Tschipp/dccadee7c90d7a34e6e76a35d9d6fa2e/raw/
+[17:18:21] [main/INFO]: [de.melanx.aiotbotania.AIOTBotania:preInit:73]: aiotbotania is loading
+[17:18:23] [main/INFO]: Access transform success createStackedBlock (func_180643_i).
+[17:18:23] [main/INFO]: Loaded configs...
+[17:18:24] [Forge Version Check/INFO]: [mousetweaks] Starting version check at http://play.sourceruns.org/yalter/MouseTweaks/update.json
+[17:18:24] [main/INFO]: [team.chisel.ctm.client.asm.CTMTransformer:preTransform:229]: Transforming Class [net.minecraft.client.renderer.texture.TextureAtlasSprite], Method [updateAnimationInterpolated]
+[17:18:24] [main/INFO]: [team.chisel.ctm.client.asm.CTMTransformer:finishTransform:241]: Transforming net.minecraft.client.renderer.texture.TextureAtlasSprite Finished.
+[17:18:24] [main/INFO]: [team.chisel.ctm.client.asm.CTMTransformer:preTransform:229]: Transforming Class [net.minecraftforge.client.model.ModelLoader$VanillaModelWrapper], Method [getTextures]
+[17:18:24] [main/INFO]: [team.chisel.ctm.client.asm.CTMTransformer:finishTransform:241]: Transforming net.minecraftforge.client.model.ModelLoader$VanillaModelWrapper Finished.
+[17:18:24] [main/INFO]: Applying holder lookups
+[17:18:24] [main/INFO]: Holder lookups applied
+[17:18:25] [main/INFO]: InvTweaks: successfully transformed setFocused/func_146195_b
+[17:18:25] [Forge Version Check/INFO]: [fastleafdecay] Starting version check at http://www.olafkeijsers.net/fastleafdecay-update.json
+[17:18:25] [Forge Version Check/INFO]: [fastleafdecay] Found status: UP_TO_DATE Target: null
+[17:18:25] [Forge Version Check/INFO]: [codechickenlib] Starting version check at http://chickenbones.net/Files/notification/version.php?query=forge&version=1.12&file=CodeChickenLib
+[17:18:25] [Forge Version Check/INFO]: [codechickenlib] Found status: BETA Target: null
+[17:18:25] [Forge Version Check/INFO]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[17:18:26] [Forge Version Check/INFO]: [forge] Found status: UP_TO_DATE Target: null
+[17:18:26] [Forge Version Check/INFO]: [aiotbotania] Starting version check at https://raw.githubusercontent.com/MelanX/aiotbotania/9c76294a8165e474cdb29fe6445fce4f8671574c/update/Update.json
+[17:18:26] [Forge Version Check/INFO]: [aiotbotania] Found status: AHEAD Target: null
+[17:18:26] [Forge Version Check/INFO]: [gravestone] Starting version check at https://raw.githubusercontent.com/NightKosh/GraveStone-mod/master/update.json
+[17:18:26] [Forge Version Check/INFO]: [gravestone] Found status: BETA Target: null
+[17:18:26] [main/INFO]: Found @journeymap.client.api.ClientPlugin: com.feed_the_beast.ftbutilities.integration.JourneyMapIntegration
+[17:18:27] [main/INFO]: Loading FTBLib, DevEnv:false
+[17:18:27] [main/WARN]: Replacing com.feed_the_beast.ftblib.lib.config.DefaultRankConfigHandler with com.feed_the_beast.ftbutilities.ranks.FTBUtilitiesPermissionHandler
+[17:18:27] [main/WARN]: Replacing net.minecraftforge.server.permission.DefaultPermissionHandler with com.feed_the_beast.ftbutilities.ranks.FTBUtilitiesPermissionHandler
+[17:18:28] [main/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `gravestonete`, expected `gravestone`. This could be a intended override, but in most cases indicates a broken mod.
+[17:18:28] [main/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `gravestoneverticalplatete`, expected `gravestone`. This could be a intended override, but in most cases indicates a broken mod.
+[17:18:28] [main/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `gravestonecrosste`, expected `gravestone`. This could be a intended override, but in most cases indicates a broken mod.
+[17:18:28] [main/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `gravestoneobeliskte`, expected `gravestone`. This could be a intended override, but in most cases indicates a broken mod.
+[17:18:28] [main/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `gravestonecelticcrosste`, expected `gravestone`. This could be a intended override, but in most cases indicates a broken mod.
+[17:18:28] [main/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `gravestonehorizontalplatete`, expected `gravestone`. This could be a intended override, but in most cases indicates a broken mod.
+[17:18:28] [main/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `gravestonevillagerstatuete`, expected `gravestone`. This could be a intended override, but in most cases indicates a broken mod.
+[17:18:28] [main/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `gravestonedogstatuete`, expected `gravestone`. This could be a intended override, but in most cases indicates a broken mod.
+[17:18:28] [main/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `gravestonecatstatuete`, expected `gravestone`. This could be a intended override, but in most cases indicates a broken mod.
+[17:18:28] [main/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `gravestonehorsestatuete`, expected `gravestone`. This could be a intended override, but in most cases indicates a broken mod.
+[17:18:28] [main/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `gravestonecreeperstatuete`, expected `gravestone`. This could be a intended override, but in most cases indicates a broken mod.
+[17:18:28] [main/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `gravestonestarvedcorpsete`, expected `gravestone`. This could be a intended override, but in most cases indicates a broken mod.
+[17:18:28] [main/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `gravestonewitheredcorpsete`, expected `gravestone`. This could be a intended override, but in most cases indicates a broken mod.
+[17:18:28] [main/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `gravestoneswordte`, expected `gravestone`. This could be a intended override, but in most cases indicates a broken mod.
+[17:18:29] [main/WARN]: The config 'InGameInfo.xml' does not exist
+[17:18:29] [main/INFO]: Loading configs..
+[17:18:29] [main/INFO]: Updating ModMetaData...
+[17:18:29] [main/INFO]: Providing API...
+[17:18:29] [main/INFO]: Loading configuration
+[17:18:29] [main/INFO]: [de.melanx.mxtweaks.mxtweaks:preInit:53]: mxtweaks is loading
+[17:18:30] [main/INFO]: Loading config file.
+[17:18:30] [main/INFO]: Loaded configs...
+[17:18:30] [main/INFO]: The One Probe Detected Baubles: enabling support
+[17:18:31] [ReAuth-VersionChecker/INFO]: Looking for Updates
+[17:18:31] [ReAuth-VersionChecker/INFO]: Looking for Updates - Finished
+[17:18:31] [main/INFO]: [de.melanx.aiotbotania.AIOTBotania$RegistrationHandler:registerBlocks:59]: aiotbotania:superfarmland
+[17:18:31] [main/INFO]: Loading blocks...
+[17:18:32] [main/INFO]: Skipping feature bloodMagic as its required mod bloodmagic was missing.
+[17:18:32] [main/INFO]: 71 Feature's blocks loaded.
+[17:18:32] [main/INFO]: Loading Tile Entities...
+[17:18:32] [main/INFO]: Tile Entities loaded.
+[17:18:32] [main/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.iron`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[17:18:32] [main/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.gold`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[17:18:32] [main/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.diamond`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[17:18:32] [main/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.copper`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[17:18:32] [main/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.silver`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[17:18:32] [main/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.crystal`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[17:18:32] [main/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.obsidian`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[17:18:32] [main/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.dirtchest9000`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[17:18:32] [main/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.iron`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[17:18:32] [main/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.gold`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[17:18:32] [main/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.diamond`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[17:18:32] [main/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.copper`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[17:18:32] [main/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.silver`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[17:18:32] [main/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.crystal`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[17:18:32] [main/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.obsidian`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[17:18:32] [main/INFO]: Applying holder lookups
+[17:18:32] [main/INFO]: Holder lookups applied
+[17:18:34] [main/INFO]: [de.melanx.aiotbotania.AIOTBotania$RegistrationHandler:registerItems:49]: aiotbotania:manasteelhoe
+[17:18:34] [main/INFO]: [de.melanx.aiotbotania.AIOTBotania$RegistrationHandler:registerItems:49]: aiotbotania:manasteelaiot
+[17:18:34] [main/INFO]: [de.melanx.aiotbotania.AIOTBotania$RegistrationHandler:registerItems:49]: aiotbotania:elementiumhoe
+[17:18:34] [main/INFO]: [de.melanx.aiotbotania.AIOTBotania$RegistrationHandler:registerItems:49]: aiotbotania:elementiumaiot
+[17:18:34] [main/INFO]: Loading items...
+[17:18:34] [main/INFO]: Skipping feature bloodMagic as its required mod bloodmagic was missing.
+[17:18:34] [main/INFO]: 71 Feature's items loaded.
+[17:18:34] [main/INFO]: Applying holder lookups
+[17:18:34] [main/INFO]: Holder lookups applied
+[17:18:34] [main/INFO]: Applying holder lookups
+[17:18:34] [main/INFO]: Holder lookups applied
+[17:18:34] [main/INFO]: OBJLoader: Domain botania has been added.
+[17:18:34] [main/INFO]: [team.chisel.ctm.client.asm.CTMTransformer:preTransform:229]: Transforming Class [net.minecraftforge.client.ForgeHooksClient], Method [getDamageModel]
+[17:18:34] [main/INFO]: [team.chisel.ctm.client.asm.CTMTransformer:finishTransform:241]: Transforming net.minecraftforge.client.ForgeHooksClient Finished.
+[17:18:34] [main/INFO]: Applying holder lookups
+[17:18:34] [main/INFO]: Holder lookups applied
+[17:18:34] [main/INFO]: Injecting itemstacks
+[17:18:34] [main/INFO]: Itemstack injection complete
+[17:20:24] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[17:20:25] [Thread-5/INFO]: Initializing LWJGL OpenAL
+[17:20:25] [Thread-5/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[17:20:25] [Thread-5/INFO]: OpenAL initialized.
+[17:20:25] [Sound Library Loader/INFO]: Sound engine started
+[17:20:59] [main/INFO]: Max texture size: 8192
+[17:21:29] [main/INFO]: Created: 2048x2048 textures-atlas
+[17:21:38] [main/INFO]: Loading recipes...
+[17:21:38] [main/INFO]: Skipping feature bloodMagic as its required mod bloodmagic was missing.
+[17:21:38] [main/INFO]: 71 Feature's recipes loaded.
+[17:21:40] [main/INFO]: Applying holder lookups
+[17:21:40] [main/INFO]: Holder lookups applied
+[17:21:40] [main/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `submit_station`, expected `betterquesting`. This could be a intended override, but in most cases indicates a broken mod.
+[17:21:41] [main/INFO]: JourneyMap log initialized.
+[17:21:41] [main/INFO]: initialize ENTER
+[17:21:42] [main/ERROR]: Couldn't locate icons for flat: C:\Users\Jolvary\Documents\Curse\Minecraft\Instances\Garden%20of%20Glass%20(Questbook%20Edition)\mods\journeymap-1.12.2-5.5.2.jar\assets\journeymap\theme\flat
+[17:21:42] [main/ERROR]: Default theme not found in C:\Users\Jolvary\Documents\Curse\Minecraft\Instances\Garden of Glass (Questbook Edition)\journeymap\icon\theme\flat\OceanMonument.theme2.json: OceanMonument (SUPPRESSED)
+[17:21:42] [main/INFO]: core (FirstLoaded) Setting config file to version "5.5.2": journeymap.core.config
+[17:21:42] [main/INFO]: core (Valid) Creating config file: C:\Users\Jolvary\Documents\Curse\Minecraft\Instances\Garden of Glass (Questbook Edition)\journeymap\config\5.5\journeymap.core.config
+[17:21:42] [main/INFO]: fullmap (FirstLoaded) Setting config file to version "5.5.2": journeymap.fullmap.config
+[17:21:42] [main/INFO]: fullmap (Valid) Creating config file: C:\Users\Jolvary\Documents\Curse\Minecraft\Instances\Garden of Glass (Questbook Edition)\journeymap\config\5.5\journeymap.fullmap.config
+[17:21:42] [main/INFO]: minimap (Initialized) Setting config file to version "5.5.2": journeymap.minimap.config
+[17:21:42] [main/INFO]: minimap (Valid) Creating config file: C:\Users\Jolvary\Documents\Curse\Minecraft\Instances\Garden of Glass (Questbook Edition)\journeymap\config\5.5\journeymap.minimap.config
+[17:21:42] [main/INFO]: minimap2 (FirstLoaded) Setting config file to version "5.5.2": journeymap.minimap2.config
+[17:21:42] [main/INFO]: minimap2 (Valid) Creating config file: C:\Users\Jolvary\Documents\Curse\Minecraft\Instances\Garden of Glass (Questbook Edition)\journeymap\config\5.5\journeymap.minimap2.config
+[17:21:42] [main/INFO]: topo (FirstLoaded) Setting config file to version "5.5.2": journeymap.topo.config
+[17:21:42] [main/INFO]: topo (Valid) Creating config file: C:\Users\Jolvary\Documents\Curse\Minecraft\Instances\Garden of Glass (Questbook Edition)\journeymap\config\5.5\journeymap.topo.config
+[17:21:42] [main/INFO]: webmap (FirstLoaded) Setting config file to version "5.5.2": journeymap.webmap.config
+[17:21:42] [main/INFO]: webmap (Valid) Creating config file: C:\Users\Jolvary\Documents\Curse\Minecraft\Instances\Garden of Glass (Questbook Edition)\journeymap\config\5.5\journeymap.webmap.config
+[17:21:43] [main/INFO]: waypoint (FirstLoaded) Setting config file to version "5.5.2": journeymap.waypoint.config
+[17:21:43] [main/INFO]: waypoint (Valid) Creating config file: C:\Users\Jolvary\Documents\Curse\Minecraft\Instances\Garden of Glass (Questbook Edition)\journeymap\config\5.5\journeymap.waypoint.config
+[17:21:43] [main/INFO]: [ClientAPI] built with JourneyMap API 1.4
+[17:21:43] [main/INFO]: Initializing plugins with Client API: journeymap.client.api.impl.ClientAPI
+[17:21:43] [main/INFO]: Initialized IClientPlugin: com.feed_the_beast.ftbutilities.integration.JourneyMapIntegration
+[17:21:43] [main/INFO]: initialize EXIT, elapsed count 0 avg ?ms
+[17:21:45] [main/INFO]: Mod initialized
+[17:21:45] [main/INFO]: [yalter.mousetweaks.Logger:Log:6]: [Mouse Tweaks] A call to initialize, entry point: FORGE.
+[17:21:45] [main/INFO]: [yalter.mousetweaks.Logger:Log:6]: [Mouse Tweaks] Reflecting GuiContainer...
+[17:21:45] [main/INFO]: [yalter.mousetweaks.Logger:Log:6]: [Mouse Tweaks] Detected obfuscation: FORGE.
+[17:21:45] [main/INFO]: [yalter.mousetweaks.Logger:Log:6]: [Mouse Tweaks] Success.
+[17:21:45] [main/INFO]: [yalter.mousetweaks.Logger:Log:6]: [Mouse Tweaks] Minecraft Forge is installed.
+[17:21:45] [main/INFO]: [yalter.mousetweaks.Logger:Log:6]: [Mouse Tweaks] LiteLoader is not installed.
+[17:21:45] [main/INFO]: [yalter.mousetweaks.Logger:Log:6]: [Mouse Tweaks] Using Forge for the mod operation.
+[17:21:45] [main/INFO]: [yalter.mousetweaks.Logger:Log:6]: [Mouse Tweaks] Mouse Tweaks has been initialized.
+[17:21:45] [main/INFO]: Injecting itemstacks
+[17:21:45] [main/INFO]: Itemstack injection complete
+[17:21:45] [main/INFO]: The Lexica Botania has 27074 words.
+[17:21:45] [main/INFO]: [de.melanx.aiotbotania.AIOTBotania:postInit:84]: aiotbotania is finished.
+[17:21:45] [main/INFO]: Added 'minecraft:lapis_ore/0=>1*minecraft:lapis_ore/4=>minecraft:lapis_ore/0' to mapping
+[17:21:45] [main/INFO]: Added 'minecraft:lit_redstone_ore/0=>1*minecraft:redstone_ore/0=>minecraft:lit_redstone_ore/0' to mapping
+[17:21:45] [main/INFO]: Added 'minecraft:grass/0=>1*minecraft:grass/0=>minecraft:grass/0' to mapping
+[17:21:45] [main/INFO]: Added 'minecraft:grass/0=>1*minecraft:dirt/0=>minecraft:dirt/0' to mapping
+[17:21:45] [main/INFO]: Added 'minecraft:dirt/1=>1*minecraft:dirt/1=>minecraft:dirt/1' to mapping
+[17:21:45] [main/INFO]: Added 'minecraft:dirt/1=>1*minecraft:dirt/0=>minecraft:dirt/0' to mapping
+[17:21:45] [main/INFO]: Added 'minecraft:dirt/2=>1*minecraft:dirt/2=>minecraft:dirt/2' to mapping
+[17:21:45] [main/INFO]: Added 'minecraft:dirt/2=>1*minecraft:dirt/0=>minecraft:dirt/0' to mapping
+[17:21:47] [main/ERROR]: Couldn't locate icons for Default: C:\Users\Jolvary\Documents\Curse\Minecraft\Instances\Garden%20of%20Glass%20(Questbook%20Edition)\mods\journeymap-1.12.2-5.5.2.jar\assets\journeymap\icon\entity
+[17:21:47] [main/INFO]: Added entity icons from journeymap:icon/entity. Success: false
+[17:21:47] [main/ERROR]: Couldn't locate icons for flat: C:\Users\Jolvary\Documents\Curse\Minecraft\Instances\Garden%20of%20Glass%20(Questbook%20Edition)\mods\journeymap-1.12.2-5.5.2.jar\assets\journeymap\theme\flat
+[17:21:47] [main/INFO]: Preloaded theme textures: 0
+[17:21:47] [JM-VersionCheck-1/ERROR]: Could not check version URL
+com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 2 column 2 path $
+	at com.google.gson.JsonParser.parse(JsonParser.java:65) ~[JsonParser.class:?]
+	at com.google.gson.JsonParser.parse(JsonParser.java:45) ~[JsonParser.class:?]
+	at journeymap.common.version.VersionCheck$1.run(VersionCheck.java:134) [VersionCheck$1.class:1.12.2-5.5.2]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_51]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_51]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_51]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_51]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_51]
+Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 2 column 2 path $
+	at com.google.gson.stream.JsonReader.syntaxError(JsonReader.java:1559) ~[JsonReader.class:?]
+	at com.google.gson.stream.JsonReader.checkLenient(JsonReader.java:1401) ~[JsonReader.class:?]
+	at com.google.gson.stream.JsonReader.doPeek(JsonReader.java:542) ~[JsonReader.class:?]
+	at com.google.gson.stream.JsonReader.peek(JsonReader.java:425) ~[JsonReader.class:?]
+	at com.google.gson.JsonParser.parse(JsonParser.java:60) ~[JsonParser.class:?]
+	... 7 more
+[17:21:48] [main/INFO]: Registered 471 tags.
+[17:21:48] [main/INFO]: [de.melanx.mxtweaks.mxtweaks:postInit:64]: mxtweaks is finished.
+[17:21:48] [main/INFO]: Starting JEI...
+[17:21:49] [main/INFO]: Registering recipe categories...
+[17:21:49] [main/INFO]: Registering recipe categories took 147.0 ms
+[17:21:49] [main/INFO]: Registering mod plugins...
+[17:21:51] [main/INFO]: Registering mod plugins took 1.927 s
+[17:21:51] [main/INFO]: Building recipe registry...
+[17:21:52] [main/INFO]: Building recipe registry took 690.1 ms
+[17:21:52] [main/INFO]: Building ingredient list...
+[17:21:52] [main/INFO]: Building ingredient list took 153.6 ms
+[17:21:52] [main/INFO]: Building ingredient filter...
+[17:21:53] [main/INFO]: Building ingredient filter took 1.658 s
+[17:21:53] [main/INFO]: Building runtime...
+[17:21:54] [main/INFO]: Building runtime took 235.5 ms
+[17:21:54] [main/INFO]: Starting JEI took 5.544 s
+[17:21:54] [main/INFO]: Loading NEI.
+[17:21:54] [main/INFO]: Finished NEI Initialization after 342 ms
+[17:21:56] [main/INFO]: Forge Mod Loader has successfully loaded 56 mods
+[17:21:56] [main/WARN]: Skipping bad option: lastServer:
+[17:21:56] [main/INFO]: Narrator library for x64 successfully loaded
+[17:21:56] [main/ERROR]: +=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+[17:21:56] [main/ERROR]: The following texture errors were found.
+[17:21:56] [main/ERROR]: ==================================================
+[17:21:56] [main/ERROR]:   DOMAIN chisel
+[17:21:56] [main/ERROR]: --------------------------------------------------
+[17:21:56] [main/ERROR]:   domain chisel is missing 7 textures
+[17:21:56] [main/ERROR]:     domain chisel has 1 location:
+[17:21:56] [main/ERROR]:       mod chisel resources at C:\Users\Jolvary\Documents\Curse\Minecraft\Instances\Garden of Glass (Questbook Edition)\mods\Chisel-MC1.12.2-0.2.0.31.jar
+[17:21:56] [main/ERROR]: -------------------------
+[17:21:56] [main/ERROR]:     The missing resources for domain chisel are:
+[17:21:56] [main/ERROR]:       textures/blocks/ironpane/barbedwire.png
+[17:21:56] [main/ERROR]:       textures/blocks/ironpane/spikes.png
+[17:21:56] [main/ERROR]:       textures/blocks/ironpane/terrain-glass-ornatesteel.png
+[17:21:56] [main/ERROR]:       textures/blocks/ironpane/fenceirontop.png
+[17:21:56] [main/ERROR]:       textures/blocks/ironpane/bars.png
+[17:21:56] [main/ERROR]:       textures/blocks/ironpane/terrain-glass-thingrid.png
+[17:21:56] [main/ERROR]:       textures/blocks/ironpane/cage.png
+[17:21:56] [main/ERROR]: -------------------------
+[17:21:56] [main/ERROR]:     No other errors exist for domain chisel
+[17:21:56] [main/ERROR]: ==================================================
+[17:21:56] [main/ERROR]: +=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+[17:22:22] [main/INFO]: Changed world type to botania-skyblock
+[17:23:08] [main/INFO]: New World Click
+[17:23:10] [Server thread/INFO]: Starting integrated minecraft server version 1.12.2
+[17:23:10] [Server thread/INFO]: Generating keypair
+[17:23:11] [Server thread/INFO]: Generating new runtime file for the world
+[17:23:11] [Server thread/INFO]: Loading Data For: StringTypeNode{value=Garden of Glass}
+[17:23:11] [Server thread/INFO]: Injecting existing registry data into this server instance
+[17:23:12] [Server thread/INFO]: Applying holder lookups
+[17:23:12] [Server thread/INFO]: Holder lookups applied
+[17:23:12] [Server thread/INFO]: Loading dimension 0 (Garden Of Quests) (net.minecraft.server.integrated.IntegratedServer@b84c091)
+[17:23:17] [Server thread/INFO]: Loaded 536 advancements
+[17:23:21] [Server thread/INFO]: Loading dimension 1 (Garden Of Quests) (net.minecraft.server.integrated.IntegratedServer@b84c091)
+[17:23:22] [Server thread/INFO]: Loaded 38 quests
+[17:23:22] [Server thread/INFO]: Loaded 6 quest lines
+[17:23:22] [Server thread/INFO]: Loaded 0 parties
+[17:23:22] [Server thread/INFO]: Loaded 0 names
+[17:23:28] [Server thread/ERROR]: Data not found. Trying to load backup data.
+[17:23:29] [Server thread/INFO]: Loading dimension -1 (Garden Of Quests) (net.minecraft.server.integrated.IntegratedServer@b84c091)
+[17:23:29] [Server thread/ERROR]: Data not found. Trying to load backup data.
+[17:23:29] [Server thread/INFO]: Loaded 536 advancements
+[17:23:29] [Server thread/INFO]: Reloaded server in 24ms
+[17:23:29] [Server thread/ERROR]: Data not found. Trying to load backup data.
+[17:23:29] [Server thread/INFO]: Preparing start region for level 0
+[17:23:30] [Server thread/INFO]: Preparing spawn area: 68%
+[17:23:31] [Server thread/INFO]: global (FirstLoaded) Setting config file to version "5.5.2": journeymap.server.global.config
+[17:23:31] [Server thread/INFO]: global (Valid) Creating config file: C:\Users\Jolvary\Documents\Curse\Minecraft\Instances\Garden of Glass (Questbook Edition)\journeymap\server\5.5\journeymap.server.global.config
+[17:23:31] [Server thread/INFO]: dim-1 (Initialized) Setting config file to version "5.5.2": journeymap.server.dim-1.config
+[17:23:31] [Server thread/INFO]: dim-1 (Valid) Creating config file: C:\Users\Jolvary\Documents\Curse\Minecraft\Instances\Garden of Glass (Questbook Edition)\journeymap\server\5.5\journeymap.server.dim-1.config
+[17:23:31] [Server thread/INFO]: dim1 (Initialized) Setting config file to version "5.5.2": journeymap.server.dim1.config
+[17:23:31] [Server thread/INFO]: dim1 (Valid) Creating config file: C:\Users\Jolvary\Documents\Curse\Minecraft\Instances\Garden of Glass (Questbook Edition)\journeymap\server\5.5\journeymap.server.dim1.config
+[17:23:31] [Server thread/INFO]: dim0 (Initialized) Setting config file to version "5.5.2": journeymap.server.dim0.config
+[17:23:31] [Server thread/INFO]: dim0 (Valid) Creating config file: C:\Users\Jolvary\Documents\Curse\Minecraft\Instances\Garden of Glass (Questbook Edition)\journeymap\server\5.5\journeymap.server.dim0.config
+[17:23:32] [Server thread/INFO]: Verify Tweaks
+[17:23:32] [Server thread/INFO]: Backups folder - C:\Users\Jolvary\Documents\Curse\Minecraft\Instances\Garden of Glass (Questbook Edition)\backups
+[17:23:32] [Server thread/WARN]: Command command.botania.botania-skyblock-spread (class: vazkii.botania.common.core.command.CommandSkyblockSpread) has invalid usage language key: <player> [<range>]
+[17:23:32] [Server thread/WARN]: Command command.morpheus.morpheus (class: net.quetzi.morpheus.commands.CommandMorpheus) has invalid usage language key: /morpheus <alert : version> | /morpheus percent <percentage> | /morpheus disable <dimension number>
+[17:23:32] [Server thread/WARN]: Command command.baubles.baubles (class: baubles.common.event.CommandBaubles) has invalid usage language key: /baubles <action> [<player> [<params>]]
+[17:23:32] [Server thread/WARN]: Command command.baubles.baubles (class: baubles.common.event.CommandBaubles) has invalid usage language key: /baubles <action> [<player> [<params>]]
+[17:23:32] [Server thread/WARN]: Command command.jeresources.profile (class: jeresources.profiling.ProfileCommand) has invalid usage language key: profile [chunks|stop] [all]
+[17:23:32] [Server thread/WARN]: Command command.betterquesting.bq_admin (class: betterquesting.commands.BQ_CommandAdmin) has invalid usage language key: /bq_admin edit [true|false], /bq_admin hardcore [true|false], /bq_admin reset [all|<quest_id>] [username|uuid], /bq_admin complete <quest_id> [username|uuid], /bq_admin delete [all|<quest_id>], /bq_admin default [save|load|set] [file_name], /bq_admin lives [add|set|max|default] <value> [username|uuid]
+[17:23:32] [Server thread/WARN]: Command command.morpheus.morpheus (class: net.quetzi.morpheus.commands.CommandMorpheus) has invalid usage language key: /morpheus <alert : version> | /morpheus percent <percentage> | /morpheus disable <dimension number>
+[17:23:32] [Server thread/WARN]: Command command.carryon.carryon (class: tschipp.carryon.common.command.CommandCarryOn) has invalid usage language key: /carryon <mode>
+[17:23:32] [Server thread/WARN]: Command command.carryon.reloadscripts (class: tschipp.carryon.common.command.CommandCarryOnReload) has invalid usage language key: /reloadscripts
+[17:23:32] [Server thread/WARN]: Command command.crafttweaker.crafttweaker (class: crafttweaker.mc1120.commands.CTChatCommand) has invalid usage language key: /crafttweaker biomeTypes | biomes | blockinfo | blocks | botania | botbrews | botlexcats | botlexentries | botlexpages | botlextypes | botorechid | bugs | chiselGroups | conflict | copy | discord | docs | dumpzs | entities | exportzs | hand | help | inventory | liquids | log | mods | names | nbt | oredict | potions | recipeNames | recipes | reload | scripts | seeds | syntax | wiki | zslint
+[17:23:32] [Server thread/WARN]: Command command.betterbuilderswands.wandoops (class: portablejim.bbw.core.OopsCommand) has invalid usage language key: /wandOops
+[17:23:32] [Server thread/WARN]: Command command.journeymap.jtp (class: journeymap.common.command.CommandJTP) has invalid usage language key: /jtp <x y z dim>
+[17:23:32] [Server thread/WARN]: Command command.crafttweaker.crafttweaker (class: crafttweaker.mc1120.commands.CTChatCommand) has invalid usage language key: /crafttweaker biomeTypes | biomes | blockinfo | blocks | botania | botbrews | botlexcats | botlexentries | botlexpages | botlextypes | botorechid | bugs | chiselGroups | conflict | copy | discord | docs | dumpzs | entities | exportzs | hand | help | inventory | liquids | log | mods | names | nbt | oredict | potions | recipeNames | recipes | reload | scripts | seeds | syntax | wiki | zslint
+[17:23:32] [Server thread/WARN]: Command command.bq_standard.bqs_loot (class: bq_standard.commands.BQS_Commands) has invalid usage language key: /bq_loot default [save|load], /bq_loot delete [all|<loot_index>]
+[17:23:32] [Server thread/WARN]: Command command.oreexcavation.excavate_undo (class: oreexcavation.core.CommandUndo) has invalid usage language key: /excavate_undo
+[17:23:32] [Server thread/WARN]: Command command.crafttweaker.ctgui (class: com.blamejared.ctgui.commands.CommandCTGUI) has invalid usage language key: CTGUI <id>
+[17:23:32] [Server thread/WARN]: Command command.gravestone.gravestone (class: nightkosh.gravestone.core.commands.CommandGravestone) has invalid usage language key: /Gravestone <command> <command parameters> (Type "/GS commands_list" for commands list)
+[17:23:32] [Server thread/WARN]: Command command.crafttweaker.crafttweaker (class: crafttweaker.mc1120.commands.CTChatCommand) has invalid usage language key: /crafttweaker biomeTypes | biomes | blockinfo | blocks | botania | botbrews | botlexcats | botlexentries | botlexpages | botlextypes | botorechid | bugs | chiselGroups | conflict | copy | discord | docs | dumpzs | entities | exportzs | hand | help | inventory | liquids | log | mods | names | nbt | oredict | potions | recipeNames | recipes | reload | scripts | seeds | syntax | wiki | zslint
+[17:23:32] [Server thread/WARN]: Command command.crafttweaker.crafttweaker (class: crafttweaker.mc1120.commands.CTChatCommand) has invalid usage language key: /crafttweaker biomeTypes | biomes | blockinfo | blocks | botania | botbrews | botlexcats | botlexentries | botlexpages | botlextypes | botorechid | bugs | chiselGroups | conflict | copy | discord | docs | dumpzs | entities | exportzs | hand | help | inventory | liquids | log | mods | names | nbt | oredict | potions | recipeNames | recipes | reload | scripts | seeds | syntax | wiki | zslint
+[17:23:32] [Server thread/WARN]: Command command.baubles.baubles (class: baubles.common.event.CommandBaubles) has invalid usage language key: /baubles <action> [<player> [<params>]]
+[17:23:32] [Server thread/WARN]: Command command.gravestone.gravestone (class: nightkosh.gravestone.core.commands.CommandGravestoneLowerCase) has invalid usage language key: /gravestone <command> <command parameters> (Type "/GS commands_list" for commands list)
+[17:23:32] [Server thread/WARN]: Command command.betterquesting.bq_user (class: betterquesting.commands.BQ_CommandUser) has invalid usage language key: /bq_user help, /bq_user refresh, /bq_user hardcore
+[17:23:32] [Server thread/WARN]: Command command.crafttweaker.ctgui (class: com.blamejared.ctgui.commands.CommandCTGUI) has invalid usage language key: CTGUI <id>
+[17:23:32] [Server thread/WARN]: Command command.gravestone.gs (class: nightkosh.gravestone.core.commands.Command) has invalid usage language key: /GS <command> <command parameters> (Type "/GS commands_list" for commands list)
+[17:23:32] [Server thread/WARN]: Command command.gravestone.gs (class: nightkosh.gravestone.core.commands.CommandLowerCase) has invalid usage language key: /gs <command> <command parameters> (Type "/GS commands_list" for commands list)
+[17:23:32] [Server thread/WARN]: Command command.packmode.packmode (class: io.sommers.packmode.PackModeCommand) has invalid usage language key: /packmode <name> Sets the Packmode. Current valid packmodes are normal , expert
+[17:23:32] [Server thread/INFO]: Overridden 107 commands
+[17:23:32] [Server thread/ERROR]: ExecutionException in getPlayer: com.google.common.util.concurrent.UncheckedExecutionException: java.lang.NullPointerException
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2217)
+	at com.google.common.cache.LocalCache.get(LocalCache.java:4154)
+	at com.google.common.cache.LocalCache.getOrLoad(LocalCache.java:4158)
+	at com.google.common.cache.LocalCache$LocalLoadingCache.get(LocalCache.java:5147)
+	at journeymap.client.data.DataCache.getPlayer(DataCache.java:303)
+	at journeymap.client.data.DataCache.getPlayer(DataCache.java:190)
+	at journeymap.client.forge.event.WorldEventHandler.onUnload(WorldEventHandler.java:33)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_471_WorldEventHandler_onUnload_Unload.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraftforge.common.DimensionManager.unloadWorlds(DimensionManager.java:381)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:788)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+	at net.minecraft.server.integrated.IntegratedServer.func_71217_p(IntegratedServer.java:185)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: java.lang.NullPointerException
+	at com.google.common.base.Preconditions.checkNotNull(Preconditions.java:770)
+	at com.google.common.cache.LocalCache.get(LocalCache.java:4153)
+	at com.google.common.cache.LocalCache.getOrLoad(LocalCache.java:4158)
+	at com.google.common.cache.LocalCache$LocalLoadingCache.get(LocalCache.java:5147)
+	at com.google.common.cache.LocalCache$LocalLoadingCache.getUnchecked(LocalCache.java:5153)
+	at journeymap.client.data.DataCache.getEntityDTO(DataCache.java:441)
+	at journeymap.client.data.PlayerData.load(PlayerData.java:86)
+	at journeymap.client.data.PlayerData.load(PlayerData.java:30)
+	at com.google.common.cache.LocalCache$LoadingValueReference.loadFuture(LocalCache.java:3716)
+	at com.google.common.cache.LocalCache$Segment.loadSync(LocalCache.java:2424)
+	at com.google.common.cache.LocalCache$Segment.lockedGetOrLoad(LocalCache.java:2298)
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2211)
+	... 15 more
+
+[17:23:32] [Server thread/ERROR]: Error handling WorldEvent.Unload
+java.lang.NullPointerException: null
+	at journeymap.client.forge.event.WorldEventHandler.onUnload(WorldEventHandler.java:33) [WorldEventHandler.class:1.12.2-5.5.2]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_471_WorldEventHandler_onUnload_Unload.invoke(.dynamic) [?:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90) [ASMEventHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182) [EventBus.class:?]
+	at net.minecraftforge.common.DimensionManager.unloadWorlds(DimensionManager.java:381) [DimensionManager.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:788) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.integrated.IntegratedServer.func_71217_p(IntegratedServer.java:185) [chd.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_51]
+[17:23:33] [Server thread/INFO]: Unloading dimension -1
+[17:23:33] [Server thread/ERROR]: ExecutionException in getPlayer: com.google.common.util.concurrent.UncheckedExecutionException: java.lang.NullPointerException
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2217)
+	at com.google.common.cache.LocalCache.get(LocalCache.java:4154)
+	at com.google.common.cache.LocalCache.getOrLoad(LocalCache.java:4158)
+	at com.google.common.cache.LocalCache$LocalLoadingCache.get(LocalCache.java:5147)
+	at journeymap.client.data.DataCache.getPlayer(DataCache.java:303)
+	at journeymap.client.data.DataCache.getPlayer(DataCache.java:190)
+	at journeymap.client.forge.event.WorldEventHandler.onUnload(WorldEventHandler.java:33)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_471_WorldEventHandler_onUnload_Unload.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraftforge.common.DimensionManager.unloadWorlds(DimensionManager.java:381)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:788)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+	at net.minecraft.server.integrated.IntegratedServer.func_71217_p(IntegratedServer.java:185)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: java.lang.NullPointerException
+	at com.google.common.base.Preconditions.checkNotNull(Preconditions.java:770)
+	at com.google.common.cache.LocalCache.get(LocalCache.java:4153)
+	at com.google.common.cache.LocalCache.getOrLoad(LocalCache.java:4158)
+	at com.google.common.cache.LocalCache$LocalLoadingCache.get(LocalCache.java:5147)
+	at com.google.common.cache.LocalCache$LocalLoadingCache.getUnchecked(LocalCache.java:5153)
+	at journeymap.client.data.DataCache.getEntityDTO(DataCache.java:441)
+	at journeymap.client.data.PlayerData.load(PlayerData.java:86)
+	at journeymap.client.data.PlayerData.load(PlayerData.java:30)
+	at com.google.common.cache.LocalCache$LoadingValueReference.loadFuture(LocalCache.java:3716)
+	at com.google.common.cache.LocalCache$Segment.loadSync(LocalCache.java:2424)
+	at com.google.common.cache.LocalCache$Segment.lockedGetOrLoad(LocalCache.java:2298)
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2211)
+	... 15 more
+
+[17:23:33] [Server thread/ERROR]: Error handling WorldEvent.Unload
+java.lang.NullPointerException: null
+	at journeymap.client.forge.event.WorldEventHandler.onUnload(WorldEventHandler.java:33) [WorldEventHandler.class:1.12.2-5.5.2]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_471_WorldEventHandler_onUnload_Unload.invoke(.dynamic) [?:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90) [ASMEventHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182) [EventBus.class:?]
+	at net.minecraftforge.common.DimensionManager.unloadWorlds(DimensionManager.java:381) [DimensionManager.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:788) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.integrated.IntegratedServer.func_71217_p(IntegratedServer.java:185) [chd.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_51]
+[17:23:33] [Server thread/INFO]: Unloading dimension 1
+[17:23:33] [Server thread/INFO]: Changing view distance to 12, from 10
+[17:23:37] [Netty Local Client IO #0/INFO]: Server protocol version 2
+[17:23:37] [Netty Server IO #1/INFO]: Client protocol version 2
+[17:23:37] [Netty Server IO #1/INFO]: Client attempting to join with 56 mods : ts2k16@1.2.9,ctgui@1.0.0,aiotbotania@0.4,netherportalfix@5.3.13,mxtweaks@b-0.5.1,questbook@3.1.1-1.12,jei@4.11.0.204,defaultworldgenerator-port@1.12-2.3,custommainmenu@2.0.8,nei@2.4.1,mcp@9.42,betterquesting@3.5.262,ctm@MC1.12.2-0.3.2.18,controlling@3.0.6,journeymap@1.12.2-5.5.2,reauth@3.6.0,gardenofglass@sqrt(-1),inventorytweaks@1.63+release.109.220f184,forgivingvoid@1.0.17,charcoalblock@1.1,betterbuilderswands@0.12.0,morpheus@1.12-3.3.2,ftblib@5.2.0.25,carryon@1.9.2,crafttweaker@4.1.9,jeresources@0.8.6.28,bq_standard@3.4.143,forge@14.23.4.2705,ftbutilities@5.2.0.30,ironchest@1.12.2-7.0.44.829,craftingtweaks@8.1.9,minecraft@1.12.2,crafttweakerjei@2.0.2,theoneprobe@1.4.23,mousetweaks@2.8,mtlib@3.0.5,baubles@1.5.2,blur@1.0.4-14,modtweaker@4.0.13,botania@r1.10-354,fw@1.6.0,resourceloader@1.5.3,gobblecore@1.12-0.1.6.35,gravestone@1.0.16,lunatriuscore@1.2.0.42,oreexcavation@1.4.119,harvest@1.12-1.2.6-18,FML@8.0.99.99,appleskin@1.0.9,ingameinfoxml@2.8.2.94,chisel@MC1.12.2-0.2.0.31,codechickenlib@3.2.0.345,fastleafdecay@v14,packmode@1.2.0,betteradvancements@0.0.5.17,defaultoptions@9.2.7
+[17:23:37] [Netty Server IO #1/INFO]: Sending config sync packet to player.
+[17:23:37] [Netty Local Client IO #0/INFO]: [Netty Local Client IO #0] Client side modded connection established
+[17:23:37] [Server thread/INFO]: [Server thread] Server side modded connection established
+[17:23:37] [Server thread/INFO]: jolvary98[local:E:52640b95] logged in with entity id 71 at (-174.5, 86.0, -283.5)
+[17:23:37] [Server thread/INFO]: jolvary98 joined the game
+[17:23:41] [Server thread/INFO]: Saving and pausing game...
+[17:23:41] [Server thread/INFO]: Saving chunks for level 'Garden Of Quests'/overworld
+[17:23:43] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5680ms behind, skipping 113 tick(s)
+[17:23:44] [main/WARN]: core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
+[17:23:44] [main/WARN]: core (Initialized) Bad configField entry during updateFrom(): splashViewed=null
+[17:23:44] [main/INFO]: Loading journeymap.topo.config
+[17:23:44] [main/INFO]: Loaded 0 waypoints from C:\Users\Jolvary\Documents\Curse\Minecraft\Instances\Garden of Glass (Questbook Edition)\journeymap\data\sp\Garden Of Quests\waypoints
+[17:23:44] [main/INFO]: Mapping started in C:\Users\Jolvary\Documents\Curse\Minecraft\Instances\Garden of Glass (Questbook Edition)\journeymap\data\sp\Garden Of Quests\DIM0. Memory: 1864MB total, 1012MB free 
+[17:23:44] [main/INFO]: [CHAT] §eJourneyMap:§f Press [§bJ§f]
+[17:23:44] [main/INFO]: JourneyMap: Press [J]
+[17:24:03] [Server thread/INFO]: jolvary98 has made the advancement [A Realistical Logical Ideologist]
+[17:24:04] [main/INFO]: [CHAT] jolvary98 has made the advancement [A Realistical Logical Ideologist]
+[17:24:04] [main/INFO]: Loaded 4 advancements
+[17:24:06] [Server thread/INFO]: Saving and pausing game...
+[17:24:06] [Server thread/INFO]: Saving chunks for level 'Garden Of Quests'/overworld
+[17:24:21] [Server thread/INFO]: Saving and pausing game...
+[17:24:21] [Server thread/INFO]: Saving chunks for level 'Garden Of Quests'/overworld
+[17:26:11] [main/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.IllegalArgumentException: ID cannot be negative
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_51]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_51]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:47) [h.class:?]
+	at net.minecraft.client.Minecraft.func_71411_J(Minecraft.java:1086) [bib.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:397) [bib.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+Caused by: java.lang.IllegalArgumentException: ID cannot be negative
+	at betterquesting.api2.storage.BigDatabase.add(BigDatabase.java:69) ~[BigDatabase.class:?]
+	at betterquesting.network.handlers.PktHandlerQuestSync.handleClient(PktHandlerQuestSync.java:36) ~[PktHandlerQuestSync.class:?]
+	at betterquesting.network.PacketQuesting$HandleClient$1.run(PacketQuesting.java:124) ~[PacketQuesting$HandleClient$1.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_51]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_51]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) ~[h.class:?]
+	... 9 more
+[17:28:33] [main/INFO]: Automatic stack replacement.
+[17:29:10] [Server thread/INFO]: jolvary98 has made the advancement [Stone Age]
+[17:29:10] [main/INFO]: [CHAT] jolvary98 has made the advancement [Stone Age]
+[17:29:10] [main/INFO]: Loaded 19 advancements
+[17:30:57] [main/INFO]: Loaded 25 advancements
+[17:34:49] [main/INFO]: Handling crafting slots.
+[17:34:49] [main/INFO]: Merging stacks.
+[17:34:49] [main/INFO]: Applying rules.
+[17:34:49] [main/INFO]: Locking stacks.
+[17:34:49] [main/INFO]: Default sorting.
+[17:34:49] [main/INFO]: Sorting done in 15775721ns
+[17:34:50] [main/INFO]: Handling crafting slots.
+[17:34:50] [main/INFO]: Merging stacks.
+[17:34:50] [main/INFO]: Applying rules.
+[17:34:50] [main/INFO]: Locking stacks.
+[17:34:50] [main/INFO]: Default sorting.
+[17:34:50] [main/INFO]: Sorting done in 4891932ns
+[17:34:51] [main/INFO]: Handling crafting slots.
+[17:34:51] [main/INFO]: Merging stacks.
+[17:34:51] [main/INFO]: Applying rules.
+[17:34:51] [main/INFO]: Locking stacks.
+[17:34:51] [main/INFO]: Default sorting.
+[17:34:51] [main/INFO]: Sorting done in 2657013ns
+[17:37:11] [main/INFO]: Automatic stack replacement.
+[17:41:05] [Server thread/INFO]: Saving and pausing game...
+[17:41:05] [Server thread/INFO]: Saving chunks for level 'Garden Of Quests'/overworld
+[17:47:09] [main/INFO]: Loaded 26 advancements
+[17:48:18] [main/INFO]: Loaded 33 advancements
+[17:49:06] [main/INFO]: Loaded 35 advancements
+[17:49:06] [main/INFO]: Loaded 45 advancements
+[17:49:23] [main/INFO]: Loaded 51 advancements
+[17:49:35] [Server thread/INFO]: jolvary98 has made the advancement [Getting an Upgrade]
+[17:49:35] [main/INFO]: [CHAT] jolvary98 has made the advancement [Getting an Upgrade]
+[17:49:35] [main/INFO]: Loaded 55 advancements
+[17:55:01] [main/INFO]: Automatic stack replacement.
+[17:56:37] [main/INFO]: Automatic stack replacement.
+[17:58:43] [Server thread/INFO]: jolvary98 has made the advancement [Sky of Beginning]
+[17:58:43] [main/INFO]: [CHAT] jolvary98 has made the advancement [Sky of Beginning]
+[17:58:43] [main/INFO]: Loaded 71 advancements
+[18:00:28] [Server thread/INFO]: jolvary98 has made the advancement [Monster Hunter]
+[18:00:28] [main/INFO]: [CHAT] jolvary98 has made the advancement [Monster Hunter]
+[18:00:28] [main/INFO]: Loaded 81 advancements
+[18:00:32] [main/INFO]: Loaded 81 advancements
+[18:00:33] [main/INFO]: Loaded 82 advancements
+[18:00:33] [Server thread/INFO]: jolvary98 was shot by Skeleton
+[18:00:33] [main/INFO]: [CHAT] jolvary98 was shot by Skeleton
+[18:00:34] [main/INFO]: jolvary98 died at BlockPos{x=-177, y=80, z=-270}. Deathpoints enabled: true. Deathpoint created: true
+[18:00:35] [main/INFO]: [CHAT] Your home bed was missing or obstructed
+[18:01:27] [Server thread/INFO]: jolvary98 was slain by Zombie
+[18:01:27] [main/INFO]: [CHAT] jolvary98 was slain by Zombie
+[18:01:28] [main/INFO]: jolvary98 died at BlockPos{x=-176, y=80, z=-284}. Deathpoints enabled: true. Deathpoint created: true
+[18:01:57] [Server thread/INFO]: jolvary98 was shot by Skeleton
+[18:01:57] [main/INFO]: [CHAT] jolvary98 was shot by Skeleton
+[18:01:58] [main/INFO]: jolvary98 died at BlockPos{x=-180, y=80, z=-284}. Deathpoints enabled: true. Deathpoint created: true
+[18:02:21] [Server thread/INFO]: Saving and pausing game...
+[18:02:21] [Server thread/INFO]: Saving chunks for level 'Garden Of Quests'/overworld
+[18:02:21] [JM-texture-3/WARN]: Couldn't get a skin at all for mysticdrew
+[18:02:21] [JM-texture-2/WARN]: Couldn't get a skin at all for techbrew
+[18:02:21] [JM-texture-3/WARN]: Couldn't get a skin at all for AlexDurrani
+[18:02:21] [JM-texture-2/WARN]: Couldn't get a skin at all for Davkas
+[18:02:21] [JM-texture-2/WARN]: Couldn't get a skin at all for _TheEndless_
+[18:02:21] [JM-texture-3/WARN]: Couldn't get a skin at all for TECH_GEEK10
+[18:02:22] [JM-texture-2/WARN]: Couldn't get a skin at all for eladjenkins
+[18:02:27] [Server thread/INFO]: Saving and pausing game...
+[18:02:27] [Server thread/INFO]: Saving chunks for level 'Garden Of Quests'/overworld
+[18:02:38] [Server thread/INFO]: [jolvary98: Set the time to 1000]
+[18:02:38] [main/INFO]: [CHAT] Set the time to 1000
+[18:02:59] [main/INFO]: Loaded 83 advancements
+[18:03:22] [main/INFO]: Loaded 83 advancements
+[18:03:46] [Server thread/INFO]: jolvary98 was slain by Enderman
+[18:03:46] [main/INFO]: [CHAT] jolvary98 was slain by Enderman
+[18:03:47] [main/INFO]: jolvary98 died at BlockPos{x=-179, y=80, z=-285}. Deathpoints enabled: true. Deathpoint created: true
+[18:03:58] [main/INFO]: Loaded 83 advancements
+[18:08:32] [main/INFO]: TileDrawStep.updateRegionTexture hit max count, 1000000
+[18:08:32] [main/INFO]: TileDrawStep.draw(low) hit max count, 1000000
+[18:08:41] [main/INFO]: Handling crafting slots.
+[18:08:41] [main/INFO]: Merging stacks.
+[18:08:41] [main/INFO]: Applying rules.
+[18:08:41] [main/INFO]: Locking stacks.
+[18:08:41] [main/INFO]: Default sorting.
+[18:08:41] [main/INFO]: Sorting done in 4686230ns
+[18:08:42] [main/INFO]: Handling crafting slots.
+[18:08:42] [main/INFO]: Merging stacks.
+[18:08:42] [main/INFO]: Applying rules.
+[18:08:42] [main/INFO]: Locking stacks.
+[18:08:42] [main/INFO]: Default sorting.
+[18:08:42] [main/INFO]: Sorting done in 5342252ns
+[18:08:43] [main/INFO]: Handling crafting slots.
+[18:08:43] [main/INFO]: Merging stacks.
+[18:08:43] [main/INFO]: Applying rules.
+[18:08:43] [main/INFO]: Locking stacks.
+[18:08:43] [main/INFO]: Default sorting.
+[18:08:43] [main/INFO]: Sorting done in 4714455ns
+[18:13:44] [Server thread/INFO]: Saving and pausing game...
+[18:13:44] [Server thread/INFO]: Saving chunks for level 'Garden Of Quests'/overworld
+[18:17:15] [main/INFO]: [CHAT] You have started your tutorial, follow the red arrows and read the contents to be guided through the basics of Botania!
+[18:17:20] [Server thread/INFO]: Saving and pausing game...
+[18:17:20] [Server thread/INFO]: Saving chunks for level 'Garden Of Quests'/overworld
+[18:21:48] [main/INFO]: [CHAT] Your tutorial is over, you should now have a basic idea of how Botania works. Make sure to read through the other pages at your leisure to learn more ways of using the mod.
+[18:26:42] [main/INFO]: Loaded 84 advancements
+[18:26:44] [main/INFO]: Loaded 85 advancements
+[18:27:00] [main/INFO]: Default sorting.
+[18:27:00] [main/INFO]: Sorting done in 52688232ns
+[18:27:00] [main/INFO]: Handling crafting slots.
+[18:27:00] [main/INFO]: Merging stacks.
+[18:27:00] [main/INFO]: Applying rules.
+[18:27:00] [main/INFO]: Locking stacks.
+[18:27:00] [main/INFO]: Default sorting.
+[18:27:00] [main/INFO]: Sorting done in 14842581ns
+[18:27:01] [main/INFO]: Applying rules.
+[18:27:01] [main/INFO]: Rule : arrow(3103993)
+[18:27:01] [main/INFO]: Rule : stonePickaxe(3103986)
+[18:27:01] [main/INFO]: Rule : cobblestone(3103938)
+[18:27:01] [main/INFO]: Rule : dirt(3103924)
+[18:27:01] [main/INFO]: Rule : cobblestoneSlab(3104658)
+[18:27:01] [main/INFO]: Rule : bone(3102529)
+[18:27:01] [main/INFO]: Rule : gunpowder(3102524)
+[18:27:01] [main/INFO]: Rule : enderPearl(3102522)
+[18:27:01] [main/INFO]: Rule : bowl(3102448)
+[18:27:01] [main/INFO]: Rule : rottenFlesh(3103364)
+[18:27:01] [main/INFO]: Rule : oakSapling(3103332)
+[18:27:01] [main/INFO]: Rule : spruceSapling(3103331)
+[18:27:01] [main/INFO]: Rule : botania:manaresource(3100160)
+[18:27:01] [main/INFO]: Rule : botania:manaresource-21(3100160)
+[18:27:01] [main/INFO]: Rule : botania:flower(3100156)
+[18:27:01] [main/INFO]: Rule : botania:flower-6(3100156)
+[18:27:01] [main/INFO]: Rule : stuff(1099160)
+[18:27:01] [main/INFO]: Locking stacks.
+[18:27:01] [main/INFO]: Default sorting.
+[18:27:01] [main/INFO]: Sorting done in 12673948ns
+[18:27:01] [main/INFO]: Handling crafting slots.
+[18:27:01] [main/INFO]: Merging stacks.
+[18:27:01] [main/INFO]: Applying rules.
+[18:27:01] [main/INFO]: Locking stacks.
+[18:27:01] [main/INFO]: Default sorting.
+[18:27:01] [main/INFO]: Sorting done in 8175030ns
+[18:27:02] [main/INFO]: Applying rules.
+[18:27:02] [main/INFO]: Rule : arrow(2103993)
+[18:27:02] [main/INFO]: Rule : stonePickaxe(2103986)
+[18:27:02] [main/INFO]: Rule : cobblestone(2103938)
+[18:27:02] [main/INFO]: Rule : dirt(2103924)
+[18:27:02] [main/INFO]: Rule : cobblestoneSlab(2104658)
+[18:27:02] [main/INFO]: Rule : bone(2102529)
+[18:27:02] [main/INFO]: Rule : gunpowder(2102524)
+[18:27:02] [main/INFO]: Rule : enderPearl(2102522)
+[18:27:02] [main/INFO]: Rule : bowl(2102448)
+[18:27:02] [main/INFO]: Rule : rottenFlesh(2103364)
+[18:27:02] [main/INFO]: Rule : oakSapling(2103332)
+[18:27:02] [main/INFO]: Rule : spruceSapling(2103331)
+[18:27:02] [main/INFO]: Rule : botania:manaresource(2100160)
+[18:27:02] [main/INFO]: Rule : botania:manaresource-21(2100160)
+[18:27:02] [main/INFO]: Rule : botania:flower(2100156)
+[18:27:02] [main/INFO]: Rule : botania:flower-6(2100156)
+[18:27:02] [main/INFO]: Rule : stuff(1099160)
+[18:27:02] [main/INFO]: Locking stacks.
+[18:27:02] [main/INFO]: Default sorting.
+[18:27:02] [main/INFO]: Sorting done in 12269815ns
+[18:27:02] [main/INFO]: Handling crafting slots.
+[18:27:02] [main/INFO]: Merging stacks.
+[18:27:02] [main/INFO]: Applying rules.
+[18:27:02] [main/INFO]: Locking stacks.
+[18:27:02] [main/INFO]: Default sorting.
+[18:27:02] [main/INFO]: Sorting done in 6882661ns
+[18:27:04] [main/INFO]: Default sorting.
+[18:27:04] [main/INFO]: Sorting done in 3849312ns
+[18:27:04] [main/INFO]: Handling crafting slots.
+[18:27:04] [main/INFO]: Merging stacks.
+[18:27:04] [main/INFO]: Applying rules.
+[18:27:04] [main/INFO]: Locking stacks.
+[18:27:04] [main/INFO]: Default sorting.
+[18:27:04] [main/INFO]: Sorting done in 6217231ns
+[18:27:05] [main/INFO]: Applying rules.
+[18:27:05] [main/INFO]: Rule : arrow(3103993)
+[18:27:05] [main/INFO]: Rule : stonePickaxe(3103986)
+[18:27:05] [main/INFO]: Rule : cobblestone(3103938)
+[18:27:05] [main/INFO]: Rule : dirt(3103924)
+[18:27:05] [main/INFO]: Rule : cobblestoneSlab(3104658)
+[18:27:05] [main/INFO]: Rule : bone(3102529)
+[18:27:05] [main/INFO]: Rule : gunpowder(3102524)
+[18:27:05] [main/INFO]: Rule : enderPearl(3102522)
+[18:27:05] [main/INFO]: Rule : bowl(3102448)
+[18:27:05] [main/INFO]: Rule : rottenFlesh(3103364)
+[18:27:05] [main/INFO]: Rule : oakSapling(3103332)
+[18:27:05] [main/INFO]: Rule : spruceSapling(3103331)
+[18:27:05] [main/INFO]: Rule : botania:manaresource(3100160)
+[18:27:05] [main/INFO]: Rule : botania:manaresource-21(3100160)
+[18:27:05] [main/INFO]: Rule : botania:flower(3100156)
+[18:27:05] [main/INFO]: Rule : botania:flower-6(3100156)
+[18:27:05] [main/INFO]: Rule : stuff(1099160)
+[18:27:05] [main/INFO]: Locking stacks.
+[18:27:05] [main/INFO]: Default sorting.
+[18:27:05] [main/INFO]: Sorting done in 6213810ns
+[18:27:05] [main/INFO]: Handling crafting slots.
+[18:27:05] [main/INFO]: Merging stacks.
+[18:27:05] [main/INFO]: Applying rules.
+[18:27:05] [main/INFO]: Locking stacks.
+[18:27:05] [main/INFO]: Default sorting.
+[18:27:05] [main/INFO]: Sorting done in 6316447ns
+[18:27:07] [main/INFO]: Applying rules.
+[18:27:07] [main/INFO]: Rule : arrow(2103993)
+[18:27:07] [main/INFO]: Rule : stonePickaxe(2103986)
+[18:27:07] [main/INFO]: Rule : cobblestone(2103938)
+[18:27:07] [main/INFO]: Rule : dirt(2103924)
+[18:27:07] [main/INFO]: Rule : cobblestoneSlab(2104658)
+[18:27:07] [main/INFO]: Rule : bone(2102529)
+[18:27:07] [main/INFO]: Rule : gunpowder(2102524)
+[18:27:07] [main/INFO]: Rule : enderPearl(2102522)
+[18:27:07] [main/INFO]: Rule : bowl(2102448)
+[18:27:07] [main/INFO]: Rule : rottenFlesh(2103364)
+[18:27:07] [main/INFO]: Rule : oakSapling(2103332)
+[18:27:07] [main/INFO]: Rule : spruceSapling(2103331)
+[18:27:07] [main/INFO]: Rule : botania:manaresource(2100160)
+[18:27:07] [main/INFO]: Rule : botania:manaresource-21(2100160)
+[18:27:07] [main/INFO]: Rule : botania:flower(2100156)
+[18:27:07] [main/INFO]: Rule : botania:flower-6(2100156)
+[18:27:07] [main/INFO]: Rule : stuff(1099160)
+[18:27:07] [main/INFO]: Locking stacks.
+[18:27:07] [main/INFO]: Default sorting.
+[18:27:07] [main/INFO]: Sorting done in 19546772ns
+[18:27:07] [main/INFO]: Handling crafting slots.
+[18:27:07] [main/INFO]: Merging stacks.
+[18:27:07] [main/INFO]: Applying rules.
+[18:27:07] [main/INFO]: Locking stacks.
+[18:27:07] [main/INFO]: Default sorting.
+[18:27:07] [main/INFO]: Sorting done in 5223791ns
+[18:27:09] [main/INFO]: Default sorting.
+[18:27:09] [main/INFO]: Sorting done in 1906908ns
+[18:27:17] [main/INFO]: Default sorting.
+[18:27:17] [main/INFO]: Sorting done in 9515297ns
+[18:27:20] [main/INFO]: Default sorting.
+[18:27:20] [main/INFO]: Sorting done in 60954780ns
+[18:27:22] [main/INFO]: Default sorting.
+[18:27:22] [main/INFO]: Sorting done in 22661375ns
+[18:30:04] [Server thread/INFO]: Saving and pausing game...
+[18:30:05] [Server thread/INFO]: Saving chunks for level 'Garden Of Quests'/overworld
+[18:30:07] [main/INFO]: Updating ingredient filter...
+[18:30:07] [main/INFO]: Updated  ingredient filter in 1 ms
+[18:30:08] [Server thread/INFO]: [jolvary98: Given [Seeds] * 1 to jolvary98]
+[18:30:08] [main/INFO]: [CHAT] Given [Seeds] * 1 to jolvary98
+[18:30:08] [Server thread/INFO]: [jolvary98: Given [Seeds] * 1 to jolvary98]
+[18:30:08] [main/INFO]: [CHAT] Given [Seeds] * 1 to jolvary98
+[18:30:08] [Server thread/INFO]: [jolvary98: Given [Seeds] * 1 to jolvary98]
+[18:30:08] [main/INFO]: [CHAT] Given [Seeds] * 1 to jolvary98
+[18:30:08] [Server thread/INFO]: [jolvary98: Given [Seeds] * 1 to jolvary98]
+[18:30:08] [main/INFO]: [CHAT] Given [Seeds] * 1 to jolvary98
+[18:30:09] [Server thread/INFO]: [jolvary98: Given [Seeds] * 1 to jolvary98]
+[18:30:09] [main/INFO]: [CHAT] Given [Seeds] * 1 to jolvary98
+[18:30:09] [Server thread/INFO]: [jolvary98: Given [Seeds] * 1 to jolvary98]
+[18:30:09] [main/INFO]: [CHAT] Given [Seeds] * 1 to jolvary98
+[18:30:09] [Server thread/INFO]: [jolvary98: Given [Seeds] * 1 to jolvary98]
+[18:30:09] [main/INFO]: [CHAT] Given [Seeds] * 1 to jolvary98
+[18:30:09] [Server thread/INFO]: [jolvary98: Given [Seeds] * 1 to jolvary98]
+[18:30:09] [main/INFO]: [CHAT] Given [Seeds] * 1 to jolvary98
+[18:30:09] [Server thread/INFO]: [jolvary98: Given [Seeds] * 1 to jolvary98]
+[18:30:09] [main/INFO]: [CHAT] Given [Seeds] * 1 to jolvary98
+[18:30:09] [Server thread/INFO]: [jolvary98: Given [Seeds] * 1 to jolvary98]
+[18:30:09] [main/INFO]: [CHAT] Given [Seeds] * 1 to jolvary98
+[18:30:09] [Server thread/INFO]: [jolvary98: Given [Seeds] * 1 to jolvary98]
+[18:30:09] [main/INFO]: [CHAT] Given [Seeds] * 1 to jolvary98
+[18:30:11] [Server thread/INFO]: [jolvary98: Given [Seeds] * 1 to jolvary98]
+[18:30:11] [main/INFO]: [CHAT] Given [Seeds] * 1 to jolvary98
+[18:30:11] [Server thread/INFO]: [jolvary98: Given [Seeds] * 1 to jolvary98]
+[18:30:11] [main/INFO]: [CHAT] Given [Seeds] * 1 to jolvary98
+[18:30:11] [Server thread/INFO]: [jolvary98: Given [Seeds] * 1 to jolvary98]
+[18:30:11] [main/INFO]: [CHAT] Given [Seeds] * 1 to jolvary98
+[18:30:11] [Server thread/INFO]: [jolvary98: Given [Seeds] * 1 to jolvary98]
+[18:30:11] [main/INFO]: [CHAT] Given [Seeds] * 1 to jolvary98
+[18:30:12] [Server thread/INFO]: [jolvary98: Given [Seeds] * 1 to jolvary98]
+[18:30:12] [main/INFO]: [CHAT] Given [Seeds] * 1 to jolvary98
+[18:32:27] [main/INFO]: Handling crafting slots.
+[18:32:27] [main/INFO]: Merging stacks.
+[18:32:27] [main/INFO]: Applying rules.
+[18:32:27] [main/INFO]: Locking stacks.
+[18:32:27] [main/INFO]: Default sorting.
+[18:32:27] [main/INFO]: Sorting done in 2948245ns
+[18:40:23] [Server thread/INFO]: jolvary98 has made the advancement [Vivid Wave]
+[18:40:23] [main/INFO]: [CHAT] jolvary98 has made the advancement [Vivid Wave]
+[18:40:23] [main/INFO]: Loaded 100 advancements
+[18:41:46] [Server thread/INFO]: jolvary98 has made the advancement [An Ecstatic Vivace]
+[18:41:46] [main/INFO]: [CHAT] jolvary98 has made the advancement [An Ecstatic Vivace]
+[18:41:46] [main/INFO]: Loaded 100 advancements
+[18:45:19] [main/INFO]: Loaded 104 advancements
+[18:47:06] [main/INFO]: Handling crafting slots.
+[18:47:06] [main/INFO]: Merging stacks.
+[18:47:06] [main/INFO]: Applying rules.
+[18:47:06] [main/INFO]: Locking stacks.
+[18:47:06] [main/INFO]: Default sorting.
+[18:47:06] [main/INFO]: Sorting done in 8094632ns
+[18:47:52] [Server thread/INFO]: [jolvary98: Given [Mana Tablet] * 1 to jolvary98]
+[18:47:52] [main/INFO]: [CHAT] Given [Mana Tablet] * 1 to jolvary98
+[18:47:55] [Server thread/INFO]: Saving and pausing game...
+[18:47:55] [Server thread/INFO]: Saving chunks for level 'Garden Of Quests'/overworld
+[18:47:56] [main/INFO]: Updating ingredient filter...
+[18:47:56] [main/INFO]: Updated  ingredient filter in 1 ms
+[18:53:59] [Server thread/INFO]: jolvary98 has made the advancement [Acquire Hardware]
+[18:53:59] [main/INFO]: [CHAT] jolvary98 has made the advancement [Acquire Hardware]
+[18:53:59] [main/INFO]: Loaded 126 advancements
+[18:54:53] [Server thread/INFO]: jolvary98 has made the advancement [Isn't It Iron Pick]
+[18:54:54] [main/INFO]: [CHAT] jolvary98 has made the advancement [Isn't It Iron Pick]
+[18:54:54] [main/INFO]: Loaded 128 advancements
+[18:54:58] [main/INFO]: Loaded 134 advancements
+[18:55:03] [main/INFO]: Loaded 136 advancements
+[19:01:10] [main/INFO]: Loaded 138 advancements
+[19:02:40] [Server thread/INFO]: jolvary98 has made the advancement [Electric Magic]
+[19:02:40] [main/INFO]: [CHAT] jolvary98 has made the advancement [Electric Magic]
+[19:02:40] [main/INFO]: Loaded 138 advancements
+[19:02:45] [main/INFO]: Automatic stack replacement.
+[19:04:06] [main/INFO]: Loaded 143 advancements
+[19:04:45] [main/INFO]: Default sorting.
+[19:04:45] [main/INFO]: Sorting done in 2149388ns
+[19:04:58] [main/INFO]: Default sorting.
+[19:04:58] [main/INFO]: Sorting done in 1132427ns
+[19:09:50] [main/INFO]: Loaded 145 advancements
+[19:10:47] [main/INFO]: Loaded 147 advancements
+[19:11:28] [Server thread/INFO]: jolvary98 has made the advancement [Diamonds!]
+[19:11:28] [main/INFO]: [CHAT] jolvary98 has made the advancement [Diamonds!]
+[19:11:28] [main/INFO]: Loaded 157 advancements
+[19:15:49] [main/INFO]: Loaded 157 advancements
+[19:16:49] [Server thread/INFO]: jolvary98 drowned
+[19:16:49] [main/INFO]: [CHAT] jolvary98 drowned
+[19:16:50] [main/INFO]: jolvary98 died at BlockPos{x=-176, y=80, z=-284}. Deathpoints enabled: true. Deathpoint created: true
+[19:18:57] [main/INFO]: Automatic stack replacement.
+[19:23:29] [Server thread/INFO]: Server Backup started!
+[19:23:29] [File IO Thread/INFO]: Backing up 41 files...
+[19:23:29] [File IO Thread/INFO]: Compressing 41 files...
+[19:23:29] [File IO Thread/INFO]: Done compressing in 485ms seconds (441.0KB)!
+[19:23:29] [File IO Thread/INFO]: Created C:\Users\Jolvary\Documents\Curse\Minecraft\Instances\Garden of Glass (Questbook Edition)\backups\2018-09-13-19-23-29.zip from C:\Users\Jolvary\Documents\Curse\Minecraft\Instances\Garden of Glass (Questbook Edition)\saves\Garden Of Quests
+[19:25:35] [main/INFO]: Loaded 169 advancements
+[19:25:47] [main/INFO]: Default sorting.
+[19:25:47] [main/INFO]: Sorting done in 44417834ns
+[19:28:45] [Server thread/INFO]: Saving and pausing game...
+[19:28:45] [Server thread/INFO]: Saving chunks for level 'Garden Of Quests'/overworld
+[19:37:09] [main/INFO]: Automatic stack replacement.
+[19:41:05] [main/INFO]: Automatic stack replacement.
+[19:45:14] [Server thread/INFO]: jolvary98 has made the advancement [Drop Pop Candy]
+[19:45:14] [main/INFO]: [CHAT] jolvary98 has made the advancement [Drop Pop Candy]
+[19:45:14] [main/INFO]: Loaded 171 advancements
+[19:49:53] [main/INFO]: Automatic stack replacement.
+[19:52:41] [Server thread/INFO]: jolvary98 has made the advancement [Suit Up]
+[19:52:41] [main/INFO]: [CHAT] jolvary98 has made the advancement [Suit Up]
+[19:52:41] [main/INFO]: Loaded 171 advancements
+[19:53:31] [main/INFO]: [CHAT] announceAdvancements, commandBlockOutput, disableElytraMovementCheck, doDaylightCycle, doEntityDrops, doFireTick, doLimitedCrafting, doMobLoot, doMobSpawning, doTileDrops, doWeatherCycle, gameLoopFunction, keepInventory, logAdminCommands, maxCommandChainLength, maxEntityCramming, mobGriefing, naturalRegeneration, randomTickSpeed, reducedDebugInfo, sendCommandFeedback, showDeathMessages, spawnRadius and spectatorsGenerateChunks
+[19:53:44] [Server thread/INFO]: [jolvary98: Game rule mobGriefing has been updated to false]
+[19:53:44] [main/INFO]: [CHAT] Game rule mobGriefing has been updated to false
+[19:54:24] [main/INFO]: Loaded 171 advancements
+[19:55:21] [Server thread/INFO]: jolvary98 was blown up by Creeper
+[19:55:21] [main/INFO]: [CHAT] jolvary98 was blown up by Creeper
+[19:55:22] [main/INFO]: jolvary98 died at BlockPos{x=-179, y=81, z=-253}. Deathpoints enabled: true. Deathpoint created: true
+[19:56:02] [main/INFO]: Loaded 173 advancements
+[19:56:31] [main/INFO]: Handling crafting slots.
+[19:56:31] [main/INFO]: Merging stacks.
+[19:56:31] [main/INFO]: Applying rules.
+[19:56:31] [main/INFO]: Locking stacks.
+[19:56:31] [main/INFO]: Default sorting.
+[19:56:31] [main/INFO]: Sorting done in 5475251ns
+[20:00:03] [Server thread/INFO]: Saving and pausing game...
+[20:00:03] [Server thread/INFO]: Saving chunks for level 'Garden Of Quests'/overworld
+[20:00:05] [main/INFO]: Updating ingredient filter...
+[20:00:05] [main/INFO]: Updated  ingredient filter in 0 ms
+[20:00:07] [Server thread/INFO]: [jolvary98: Given [Grass Block] * 1 to jolvary98]
+[20:00:07] [main/INFO]: [CHAT] Given [Grass Block] * 1 to jolvary98
+[20:00:38] [Server thread/INFO]: Saving and pausing game...
+[20:00:38] [Server thread/INFO]: Saving chunks for level 'Garden Of Quests'/overworld
+[20:00:41] [main/INFO]: Updating ingredient filter...
+[20:00:41] [main/INFO]: Updated  ingredient filter in 0 ms
+[20:19:53] [Server thread/INFO]: Saving and pausing game...
+[20:19:53] [Server thread/INFO]: Saving chunks for level 'Garden Of Quests'/overworld
+[20:23:50] [main/INFO]: Default sorting.
+[20:23:50] [main/INFO]: Sorting done in 9765047ns
+[20:25:30] [main/INFO]: Loaded 173 advancements
+[20:27:08] [main/INFO]: Loaded 174 advancements
+[20:27:10] [main/INFO]: Loaded 178 advancements
+[20:30:52] [Server thread/INFO]: [jolvary98: Set own game mode to Creative Mode]
+[20:30:52] [main/INFO]: [CHAT] Your game mode has been updated to Creative Mode
+[20:31:02] [main/INFO]: Handling crafting slots.
+[20:31:02] [main/INFO]: Merging stacks.
+[20:31:02] [main/INFO]: Applying rules.
+[20:31:02] [main/INFO]: Locking stacks.
+[20:31:02] [main/INFO]: Default sorting.
+[20:31:02] [main/INFO]: Sorting done in 4714456ns
+[20:31:04] [main/INFO]: Handling crafting slots.
+[20:31:04] [main/INFO]: Merging stacks.
+[20:31:04] [main/INFO]: Applying rules.
+[20:31:04] [main/INFO]: Locking stacks.
+[20:31:04] [main/INFO]: Default sorting.
+[20:31:04] [main/INFO]: Sorting done in 4858148ns
+[20:31:04] [main/INFO]: Handling crafting slots.
+[20:31:04] [main/INFO]: Merging stacks.
+[20:31:04] [main/INFO]: Applying rules.
+[20:31:04] [main/INFO]: Locking stacks.
+[20:31:04] [main/INFO]: Default sorting.
+[20:31:04] [main/INFO]: Sorting done in 5379884ns
+[20:31:06] [main/INFO]: Handling crafting slots.
+[20:31:06] [main/INFO]: Merging stacks.
+[20:31:06] [main/INFO]: Applying rules.
+[20:31:06] [main/INFO]: Locking stacks.
+[20:31:06] [main/INFO]: Default sorting.
+[20:31:06] [main/INFO]: Sorting done in 4681099ns
+[20:31:06] [main/INFO]: Handling crafting slots.
+[20:31:06] [main/INFO]: Merging stacks.
+[20:31:06] [main/INFO]: Applying rules.
+[20:31:06] [main/INFO]: Locking stacks.
+[20:31:06] [main/INFO]: Default sorting.
+[20:31:06] [main/INFO]: Sorting done in 4833771ns
+[20:31:07] [main/INFO]: Handling crafting slots.
+[20:31:07] [main/INFO]: Merging stacks.
+[20:31:07] [main/INFO]: Applying rules.
+[20:31:07] [main/INFO]: Locking stacks.
+[20:31:07] [main/INFO]: Default sorting.
+[20:31:07] [main/INFO]: Sorting done in 4025933ns
+[20:31:07] [main/INFO]: Handling crafting slots.
+[20:31:07] [main/INFO]: Merging stacks.
+[20:31:07] [main/INFO]: Applying rules.
+[20:31:07] [main/INFO]: Locking stacks.
+[20:31:07] [main/INFO]: Default sorting.
+[20:31:07] [main/INFO]: Sorting done in 5635622ns
+[20:31:07] [main/INFO]: Handling crafting slots.
+[20:31:07] [main/INFO]: Merging stacks.
+[20:31:07] [main/INFO]: Applying rules.
+[20:31:07] [main/INFO]: Locking stacks.
+[20:31:07] [main/INFO]: Default sorting.
+[20:31:07] [main/INFO]: Sorting done in 4131563ns
+[20:31:08] [main/INFO]: Handling crafting slots.
+[20:31:08] [main/INFO]: Merging stacks.
+[20:31:08] [main/INFO]: Applying rules.
+[20:31:08] [main/INFO]: Locking stacks.
+[20:31:08] [main/INFO]: Default sorting.
+[20:31:08] [main/INFO]: Sorting done in 4527571ns
+[20:31:08] [main/INFO]: Handling crafting slots.
+[20:31:08] [main/INFO]: Merging stacks.
+[20:31:08] [main/INFO]: Applying rules.
+[20:31:08] [main/INFO]: Locking stacks.
+[20:31:08] [main/INFO]: Default sorting.
+[20:31:08] [main/INFO]: Sorting done in 3806547ns
+[20:31:09] [Server thread/INFO]: Saving and pausing game...
+[20:31:09] [Server thread/INFO]: Saving chunks for level 'Garden Of Quests'/overworld
+[20:31:27] [main/INFO]: Handling crafting slots.
+[20:31:27] [main/INFO]: Merging stacks.
+[20:31:27] [main/INFO]: Applying rules.
+[20:31:27] [main/INFO]: Locking stacks.
+[20:31:27] [main/INFO]: Default sorting.
+[20:31:27] [main/INFO]: Sorting done in 3028645ns
+[20:31:29] [Server thread/INFO]: Saving and pausing game...
+[20:31:29] [Server thread/INFO]: Saving chunks for level 'Garden Of Quests'/overworld
+[20:31:45] [main/INFO]: Handling crafting slots.
+[20:31:45] [main/INFO]: Merging stacks.
+[20:31:45] [main/INFO]: Applying rules.
+[20:31:45] [main/INFO]: Locking stacks.
+[20:31:45] [main/INFO]: Default sorting.
+[20:31:45] [main/INFO]: Sorting done in 4395426ns
+[20:31:46] [main/INFO]: Handling crafting slots.
+[20:31:46] [main/INFO]: Merging stacks.
+[20:31:46] [main/INFO]: Applying rules.
+[20:31:46] [main/INFO]: Locking stacks.
+[20:31:46] [main/INFO]: Default sorting.
+[20:31:46] [main/INFO]: Sorting done in 4425789ns
+[20:31:46] [main/INFO]: Handling crafting slots.
+[20:31:46] [main/INFO]: Merging stacks.
+[20:31:46] [main/INFO]: Applying rules.
+[20:31:46] [main/INFO]: Locking stacks.
+[20:31:46] [main/INFO]: Default sorting.
+[20:31:46] [main/INFO]: Sorting done in 4569054ns
+[20:33:10] [Server thread/INFO]: [jolvary98: Set own game mode to Survival Mode]
+[20:33:10] [main/INFO]: [CHAT] Your game mode has been updated to Survival Mode
+[20:33:18] [main/INFO]: Loaded 185 advancements
+[20:33:47] [main/INFO]: Loaded 186 advancements
+[20:33:49] [main/INFO]: Loaded 187 advancements
+[20:36:28] [Server thread/INFO]: Saving and pausing game...
+[20:36:28] [Server thread/INFO]: Saving chunks for level 'Garden Of Quests'/overworld
+[20:40:26] [Server thread/INFO]: [jolvary98: Set own game mode to Creative Mode]
+[20:40:26] [main/INFO]: [CHAT] Your game mode has been updated to Creative Mode
+[20:43:50] [Server thread/INFO]: [jolvary98: Set own game mode to Survival Mode]
+[20:43:50] [main/INFO]: [CHAT] Your game mode has been updated to Survival Mode
+[20:43:52] [main/INFO]: Handling crafting slots.
+[20:43:52] [main/INFO]: Merging stacks.
+[20:43:52] [main/INFO]: Applying rules.
+[20:43:52] [main/INFO]: Locking stacks.
+[20:43:52] [main/INFO]: Default sorting.
+[20:43:52] [main/INFO]: Sorting done in 59806530ns
+[20:43:52] [main/WARN]: Recipe Wrapper lookup is slow: 11 ms. class mezz.jei.recipes.InternalRecipeRegistryPlugin
+[20:43:52] [main/WARN]: Recipe Wrapper lookup is slow: 26 ms. class mezz.jei.recipes.InternalRecipeRegistryPlugin
+[20:45:17] [Server thread/INFO]: [jolvary98: Set own game mode to Creative Mode]
+[20:45:17] [main/INFO]: [CHAT] Your game mode has been updated to Creative Mode
+[20:46:00] [main/INFO]: Loaded 188 advancements
+[20:46:26] [Server thread/INFO]: [jolvary98: Set own game mode to Survival Mode]
+[20:46:26] [main/INFO]: [CHAT] Your game mode has been updated to Survival Mode
+[20:46:55] [Server thread/INFO]: jolvary98 has made the advancement [A Seedy Place]
+[20:46:55] [main/INFO]: [CHAT] jolvary98 has made the advancement [A Seedy Place]
+[20:46:55] [main/INFO]: Loaded 188 advancements
+[20:51:22] [main/INFO]: Loaded 189 advancements
+[20:51:27] [main/INFO]: Loaded 191 advancements
+[20:51:51] [main/INFO]: Handling crafting slots.
+[20:51:51] [main/INFO]: Merging stacks.
+[20:51:51] [main/INFO]: Applying rules.
+[20:51:51] [main/INFO]: Locking stacks.
+[20:51:51] [main/INFO]: Default sorting.
+[20:51:51] [main/INFO]: Sorting done in 8181017ns
+[20:52:38] [Server thread/INFO]: Saving and pausing game...
+[20:52:38] [Server thread/INFO]: Saving chunks for level 'Garden Of Quests'/overworld
+[20:52:41] [main/INFO]: Updating ingredient filter...
+[20:52:41] [main/INFO]: Updated  ingredient filter in 0 ms
+[20:52:42] [Server thread/INFO]: [jolvary98: Given [Pumpkin] * 1 to jolvary98]
+[20:52:43] [main/INFO]: [CHAT] Given [Pumpkin] * 1 to jolvary98
+[20:52:44] [main/INFO]: Loaded 194 advancements
+[20:52:47] [Server thread/INFO]: Saving and pausing game...
+[20:52:47] [Server thread/INFO]: Saving chunks for level 'Garden Of Quests'/overworld
+[20:52:49] [main/INFO]: Updating ingredient filter...
+[20:52:49] [main/INFO]: Updated  ingredient filter in 0 ms
+[20:53:22] [Server thread/INFO]: Saving and pausing game...
+[20:53:22] [Server thread/INFO]: Saving chunks for level 'Garden Of Quests'/overworld
+[20:53:37] [main/INFO]: Handling crafting slots.
+[20:53:37] [main/INFO]: Merging stacks.
+[20:53:37] [main/INFO]: Applying rules.
+[20:53:37] [main/INFO]: Locking stacks.
+[20:53:37] [main/INFO]: Default sorting.
+[20:53:37] [main/INFO]: Sorting done in 4511748ns
+[20:53:44] [main/INFO]: Handling crafting slots.
+[20:53:44] [main/INFO]: Merging stacks.
+[20:53:44] [main/INFO]: Applying rules.
+[20:53:44] [main/INFO]: Locking stacks.
+[20:53:44] [main/INFO]: Default sorting.
+[20:53:44] [main/INFO]: Sorting done in 3251024ns
+[20:53:46] [main/INFO]: Handling crafting slots.
+[20:53:46] [main/INFO]: Merging stacks.
+[20:53:46] [main/INFO]: Applying rules.
+[20:53:46] [main/INFO]: Locking stacks.
+[20:53:46] [main/INFO]: Default sorting.
+[20:53:46] [main/INFO]: Sorting done in 3734701ns
+[20:53:58] [main/INFO]: Handling crafting slots.
+[20:53:58] [main/INFO]: Merging stacks.
+[20:53:58] [main/INFO]: Applying rules.
+[20:53:58] [main/INFO]: Locking stacks.
+[20:53:58] [main/INFO]: Default sorting.
+[20:53:58] [main/INFO]: Sorting done in 5192145ns
+[20:54:30] [main/INFO]: Handling crafting slots.
+[20:54:30] [main/INFO]: Merging stacks.
+[20:54:30] [main/INFO]: Applying rules.
+[20:54:30] [main/INFO]: Locking stacks.
+[20:54:30] [main/INFO]: Default sorting.
+[20:54:30] [main/INFO]: Sorting done in 3674829ns
+[20:54:38] [main/INFO]: Handling crafting slots.
+[20:54:38] [main/INFO]: Merging stacks.
+[20:54:38] [main/INFO]: Applying rules.
+[20:54:38] [main/INFO]: Locking stacks.
+[20:54:38] [main/INFO]: Default sorting.
+[20:54:38] [main/INFO]: Sorting done in 3792861ns
+[20:54:43] [main/INFO]: Handling crafting slots.
+[20:54:43] [main/INFO]: Merging stacks.
+[20:54:43] [main/INFO]: Applying rules.
+[20:54:43] [main/INFO]: Locking stacks.
+[20:54:43] [main/INFO]: Default sorting.
+[20:54:43] [main/INFO]: Sorting done in 6079099ns
+[20:54:47] [main/INFO]: Handling crafting slots.
+[20:54:47] [main/INFO]: Merging stacks.
+[20:54:47] [main/INFO]: Applying rules.
+[20:54:47] [main/INFO]: Locking stacks.
+[20:54:47] [main/INFO]: Default sorting.
+[20:54:47] [main/INFO]: Sorting done in 4664847ns
+[20:54:57] [main/INFO]: Loaded 194 advancements
+[20:55:29] [Server thread/INFO]: Saving and pausing game...
+[20:55:29] [Server thread/INFO]: Saving chunks for level 'Garden Of Quests'/overworld
+[20:55:31] [main/INFO]: Updating ingredient filter...
+[20:55:31] [main/INFO]: Updated  ingredient filter in 0 ms
+[20:55:37] [Server thread/INFO]: [jolvary98: Given [Endoflame] * 1 to jolvary98]
+[20:55:37] [main/INFO]: [CHAT] Given [Endoflame] * 1 to jolvary98
+[20:55:54] [Server thread/INFO]: [jolvary98: Given [Rosa Arcana] * 1 to jolvary98]
+[20:55:54] [main/INFO]: [CHAT] Given [Rosa Arcana] * 1 to jolvary98
+[20:55:59] [main/INFO]: Automatic stack replacement.
+[20:56:10] [Server thread/INFO]: [jolvary98: Given [Block of Coal] * 1 to jolvary98]
+[20:56:10] [main/INFO]: [CHAT] Given [Block of Coal] * 1 to jolvary98
+[20:56:11] [main/INFO]: Handling crafting slots.
+[20:56:11] [main/INFO]: Merging stacks.
+[20:56:11] [main/INFO]: Applying rules.
+[20:56:11] [main/INFO]: Locking stacks.
+[20:56:11] [main/INFO]: Default sorting.
+[20:56:11] [main/INFO]: Sorting done in 6195421ns
+[20:56:11] [Server thread/INFO]: [jolvary98: Given [Block of Coal] * 64 to jolvary98]
+[20:56:11] [main/INFO]: [CHAT] Given [Block of Coal] * 64 to jolvary98
+[20:56:16] [main/INFO]: Automatic stack replacement.
+[20:56:34] [Server thread/INFO]: Saving and pausing game...
+[20:56:34] [Server thread/INFO]: Saving chunks for level 'Garden Of Quests'/overworld
+[20:56:38] [main/INFO]: Updating ingredient filter...
+[20:56:38] [main/INFO]: Updated  ingredient filter in 0 ms
+[20:57:37] [main/WARN]: Recipe Wrapper lookup is slow: 26 ms. class mezz.jei.recipes.InternalRecipeRegistryPlugin
+[20:57:37] [main/WARN]: Recipe Wrapper lookup is slow: 14 ms. class mezz.jei.recipes.InternalRecipeRegistryPlugin
+[21:00:51] [main/WARN]: Recipe Category lookup is slow: 43 ms. class mezz.jei.recipes.InternalRecipeRegistryPlugin
+[21:01:04] [main/WARN]: Recipe Category lookup is slow: 59 ms. class mezz.jei.recipes.InternalRecipeRegistryPlugin
+[21:10:07] [Server thread/INFO]: Saving and pausing game...
+[21:10:07] [Server thread/INFO]: Saving chunks for level 'Garden Of Quests'/overworld
+[21:10:09] [main/INFO]: Mapping halted in C:\Users\Jolvary\Documents\Curse\Minecraft\Instances\Garden of Glass (Questbook Edition)\journeymap\data\sp\Garden Of Quests\DIM0
+[21:10:10] [Server thread/INFO]: Stopping server
+[21:10:10] [Server thread/INFO]: Saving players
+[21:10:11] [Server thread/INFO]: jolvary98 lost connection: Disconnected
+[21:10:11] [Server thread/INFO]: jolvary98 left the game
+[21:10:11] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[21:10:11] [Server thread/INFO]: Saving worlds
+[21:10:11] [Server thread/INFO]: Saving chunks for level 'Garden Of Quests'/overworld
+[21:10:11] [Server thread/INFO]: Unloading dimension 0
+[21:10:15] [Server thread/INFO]: Applying holder lookups
+[21:10:15] [Server thread/INFO]: Holder lookups applied
+[21:11:07] [ReAuth-VersionChecker/INFO]: Looking for Updates
+[21:11:07] [ReAuth-VersionChecker/INFO]: Looking for Updates - Finished
+[21:11:09] [main/INFO]: Stopping!
+[21:11:09] [main/INFO]: SoundSystem shutting down...
+[21:11:10] [main/WARN]: Author: Paul Lamb, www.paulscode.com

@@ -1,0 +1,232 @@
+---- Minecraft Crash Report ----
+
+WARNING: coremods are present:
+  Inventory Tweaks Coremod (InventoryTweaks-1.63.jar)
+  BNBGamingCore (BNBGamingCore-1.12-0.5.4.jar)
+  OpenModsCorePlugin (OpenModsLib-1.12.2-0.11.5.jar)
+  LoadingPlugin (ResourceLoader-MC1.12.1-1.5.3.jar)
+  LoadingPlugin (Quark-r1.4-123.jar)
+  EnderCorePlugin (EnderCore-1.12.2-0.5.18.jar)
+Contact their authors BEFORE contacting forge
+
+// Don't do that.
+
+Time: 9/12/18 3:42 PM
+Description: Ticking entity
+
+java.lang.OutOfMemoryError: Java heap space
+	at java.util.HashMap.resize(HashMap.java:703)
+	at java.util.HashMap.putVal(HashMap.java:662)
+	at java.util.HashMap.put(HashMap.java:611)
+	at java.util.HashSet.add(HashSet.java:219)
+	at net.minecraft.world.Explosion.func_77278_a(Explosion.java:113)
+	at net.minecraft.world.WorldServer.func_72885_a(WorldServer.java:1169)
+	at net.minecraft.entity.projectile.EntityLargeFireball.func_70227_a(SourceFile:35)
+	at net.minecraft.entity.projectile.EntityFireball.func_70071_h_(EntityFireball.java:98)
+	at net.minecraft.world.World.func_72866_a(World.java:1990)
+	at net.minecraft.world.WorldServer.func_72866_a(WorldServer.java:832)
+	at net.minecraft.world.World.func_72870_g(World.java:1952)
+	at net.minecraft.world.World.func_72939_s(World.java:1756)
+	at net.minecraft.world.WorldServer.func_72939_s(WorldServer.java:613)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:765)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:666)
+	at net.minecraft.server.integrated.IntegratedServer.func_71217_p(IntegratedServer.java:185)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:524)
+	at java.lang.Thread.run(Thread.java:745)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Server thread
+Stacktrace:
+	at java.util.HashMap.resize(HashMap.java:703)
+	at java.util.HashMap.putVal(HashMap.java:662)
+	at java.util.HashMap.put(HashMap.java:611)
+	at java.util.HashSet.add(HashSet.java:219)
+	at net.minecraft.world.Explosion.func_77278_a(Explosion.java:113)
+	at net.minecraft.world.WorldServer.func_72885_a(WorldServer.java:1169)
+	at net.minecraft.entity.projectile.EntityLargeFireball.func_70227_a(SourceFile:35)
+	at net.minecraft.entity.projectile.EntityFireball.func_70071_h_(EntityFireball.java:98)
+	at net.minecraft.world.World.func_72866_a(World.java:1990)
+	at net.minecraft.world.WorldServer.func_72866_a(WorldServer.java:832)
+	at net.minecraft.world.World.func_72870_g(World.java:1952)
+
+-- Entity being ticked --
+Details:
+	Entity Type: minecraft:fireball (net.minecraft.entity.projectile.EntityLargeFireball)
+	Entity ID: 12609
+	Entity Name: punch me to end it all
+	Entity's Exact location: -998.61, 56.80, -998.87
+	Entity's Block location: World: (-999,56,-999), Chunk: (at 9,3,9 in -63,-63; contains blocks -1008,0,-1008 to -993,255,-993), Region: (-2,-2; contains chunks -64,-64 to -33,-33, blocks -1024,0,-1024 to -513,255,-513)
+	Entity's Momentum: -0.06, -0.11, 1.08
+	Entity's Passengers: []
+	Entity's Vehicle: ~~ERROR~~ NullPointerException: null
+Stacktrace:
+	at net.minecraft.world.World.func_72939_s(World.java:1756)
+	at net.minecraft.world.WorldServer.func_72939_s(WorldServer.java:613)
+
+-- Affected level --
+Details:
+	Level name: SkyBalance 2
+	All players: 1 total; [EntityPlayerMP['jolvary98'/5, l='SkyBalance 2', x=-998.48, y=57.00, z=-1002.76]]
+	Chunk stats: ServerChunkCache: 642 Drop: 0
+	Level seed: -5744907515214694522
+	Level generator: ID 06 - voidworld, ver 0. Features enabled: true
+	Level generator options: {"diamondSize":8,"lapisCenterHeight":16,"lavaLakeChance":80,"redstoneMaxHeight":16,"diamondMaxHeight":16,"coalMaxHeight":128,"coalMinHeight":0,"seaLevel":63,"graniteCount":10,"riverSize":4,"gravelMinHeight":0,"graniteSize":33,"redstoneSize":8,"fixedBiome":-1,"waterLakeChance":4,"dioriteMinHeight":0,"andesiteCount":10,"graniteMaxHeight":80,"redstoneMinHeight":0,"lapisSize":7,"dirtCount":10,"ironMinHeight":0,"dioriteMaxHeight":80,"coalCount":20,"gravelCount":8,"coalSize":17,"gravelSize":33,"ironMaxHeight":64,"lapisSpread":16,"dioriteCount":10,"andesiteSize":33,"biomeSize":4,"graniteMinHeight":0,"goldCount":2,"diamondCount":1,"dirtSize":33,"gravelMaxHeight":256,"goldSize":9,"ironCount":20,"diamondMinHeight":0,"ironSize":9,"redstoneCount":8,"andesiteMinHeight":0,"dioriteSize":33,"goldMaxHeight":32,"dungeonChance":8,"andesiteMaxHeight":80,"dirtMinHeight":0,"lapisCount":1,"goldMinHeight":0,"dirtMaxHeight":256,"lowerLimitScale":512.0,"biomeDepthOffset":0.0,"upperLimitScale":512.0,"heightScale":684.412,"biomeScaleWeight":1.0,"biomeDepthWeight":1.0,"mainNoiseScaleZ":80.0,"mainNoiseScaleY":160.0,"depthNoiseScaleX":200.0,"mainNoiseScaleX":80.0,"baseSize":8.5,"depthNoiseScaleZ":200.0,"stretchY":12.0,"depthNoiseScaleExponent":0.5,"biomeScaleOffset":0.0,"coordinateScale":684.412,"useStrongholds":true,"useMineShafts":true,"useTemples":true,"useLavaOceans":false,"useCaves":true,"useWaterLakes":true,"useLavaLakes":true,"useMonuments":true,"useRavines":true,"useDungeons":true,"useVillages":true}
+	Level spawn location: World: (0,56,0), Chunk: (at 0,3,0 in 0,0; contains blocks 0,0,0 to 15,255,15), Region: (0,0; contains chunks 0,0 to 31,31, blocks 0,0,0 to 511,255,511)
+	Level time: 169645 game time, 169645 day time
+	Level dimension: 0
+	Level storage version: 0x04ABD - Anvil
+	Level weather: Rain time: 42469 (now: false), thunder time: 57109 (now: false)
+	Level game mode: Game mode: survival (ID 0). Hardcore: false. Cheats: true
+Stacktrace:
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:765)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:666)
+	at net.minecraft.server.integrated.IntegratedServer.func_71217_p(IntegratedServer.java:185)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:524)
+	at java.lang.Thread.run(Thread.java:745)
+
+-- System Details --
+Details:
+	Minecraft Version: 1.12.2
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 1.8.0_51, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 459465736 bytes (438 MB) / 4745854976 bytes (4526 MB) up to 5726797824 bytes (5461 MB)
+	JVM Flags: 4 total; -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xmx6144m -Xms256m -XX:PermSize=256m
+	IntCache: cache: 0, tcache: 0, allocated: 13, tallocated: 95
+	FML: MCP 9.42 Powered by Forge 14.23.2.2641 62 mods loaded, 62 mods active
+	States: 'U' = Unloaded 'L' = Loaded 'C' = Constructed 'H' = Pre-initialized 'I' = Initialized 'J' = Post-initialized 'A' = Available 'D' = Disabled 'E' = Errored
+
+	| State     | ID                         | Version                  | Source                                           | Signature                                |
+	|:--------- |:-------------------------- |:------------------------ |:------------------------------------------------ |:---------------------------------------- |
+	| UCHIJAAAA | minecraft                  | 1.12.2                   | minecraft.jar                                    | None                                     |
+	| UCHIJAAAA | mcp                        | 9.42                     | minecraft.jar                                    | None                                     |
+	| UCHIJAAAA | FML                        | 8.0.99.99                | forge-1.12.2-14.23.2.2641.jar                    | e3c3d50c7c986df74c645c0ac54639741c90a557 |
+	| UCHIJAAAA | forge                      | 14.23.2.2641             | forge-1.12.2-14.23.2.2641.jar                    | e3c3d50c7c986df74c645c0ac54639741c90a557 |
+	| UCHIJAAAA | openmodscore               | 0.11.5                   | minecraft.jar                                    | None                                     |
+	| UCHIJAAAA | bnbgamingcore              | 0.5.4                    | minecraft.jar                                    | None                                     |
+	| UCHIJAAAA | quark                      | r1.4-123                 | Quark-r1.4-123.jar                               | None                                     |
+	| UCHIJAAAA | autoreglib                 | 1.3-16                   | AutoRegLib-1.3-16.jar                            | None                                     |
+	| UCHIJAAAA | balancedclaytools          | 0.1.0                    | BalancedClayTools-0.1.0.jar                      | None                                     |
+	| UCHIJAAAA | bdlib                      | 1.14.3.12                | bdlib-1.14.3.12-mc1.12.2.jar                     | None                                     |
+	| UCHIJAAAA | betteradvancements         | 0.0.5.17                 | BetterAdvancements-1.12.2-0.0.5.17.jar           | None                                     |
+	| UCHIJAAAA | bnbgaminglib               | 2.10.1                   | BNBGamingLib-1.12-2.10.1.jar                     | None                                     |
+	| UCHIJAAAA | codechickenlib             | 3.1.6.339                | CodeChickenLib-1.12.2-3.1.6.339-universal.jar    | f1850c39b2516232a2108a7bd84d1cb5df93b261 |
+	| UCHIJAAAA | redstoneflux               | 2.0.1                    | RedstoneFlux-1.12-2.0.1.2-universal.jar          | d4f1503fbacd9b9fb767720420c5395104239ec9 |
+	| UCHIJAAAA | brandonscore               | 2.4.0                    | BrandonsCore-1.12-2.4.0.152-universal.jar        | None                                     |
+	| UCHIJAAAA | chickens                   | 6.0.4                    | chickens-6.0.4.jar                               | None                                     |
+	| UCHIJAAAA | chiselsandbits             | 14.16                    | chiselsandbits-14.16.jar                         | None                                     |
+	| UCHIJAAAA | claybucket                 | 1.1                      | ClayBucket-1.12-1.1.jar                          | None                                     |
+	| UCHIJAAAA | sanlib                     | 1.4.1                    | SanLib-1.12.2-1.4.1.jar                          | None                                     |
+	| UCHIJAAAA | claysoldiers               | 3.0.0-alpha.9.1          | ClaySoldiersMod-1.12.2-3.0.0-alpha.9.1.jar       | None                                     |
+	| UCHIJAAAA | crafttweaker               | 4.1.6                    | CraftTweaker2-1.12-4.1.6.jar                     | None                                     |
+	| UCHIJAAAA | ctgui                      | 1.0.0                    | CraftTweaker2-1.12-4.1.6.jar                     | None                                     |
+	| UCHIJAAAA | jei                        | 4.8.5.159                | jei_1.12.2-4.8.5.159.jar                         | None                                     |
+	| UCHIJAAAA | crafttweakerjei            | 2.0.0                    | CraftTweaker2-1.12-4.1.6.jar                     | None                                     |
+	| UCHIJAAAA | custombackgrounds          | 1.0                      | CustomBackgrounds-MC1.12-1.1.1.jar               | None                                     |
+	| UCHIJAAAA | custommainmenu             | 2.0.8                    | CustomMainMenu-MC1.12.2-2.0.8.jar                | None                                     |
+	| UCHIJAAAA | cyclicmagic                | 1.14.7                   | Cyclic-1.12.2-1.14.7.jar                         | None                                     |
+	| UCHIJAAAA | ding                       | 1.0.1                    | Ding-1.12.1-1.0.1.jar                            | None                                     |
+	| UCHIJAAAA | draconicevolution          | 2.3.10                   | Draconic-Evolution-1.12-2.3.10.284-universal.jar | None                                     |
+	| UCHIJAAAA | easypickings               | %gradle.version%         | easypickings-1.4.1.jar                           | None                                     |
+	| UCHIJAAAA | endercore                  | 1.12.2-0.5.18            | EnderCore-1.12.2-0.5.18.jar                      | None                                     |
+	| UCHIJAAAA | enderio                    | 5.0.20                   | EnderIO-1.12.2-5.0.20.jar                        | None                                     |
+	| UCHIJAAAA | enderiointegrationtic      | 5.0.20                   | EnderIO-1.12.2-5.0.20.jar                        | None                                     |
+	| UCHIJAAAA | enderiobase                | 5.0.20                   | EnderIO-1.12.2-5.0.20.jar                        | None                                     |
+	| UCHIJAAAA | enderioconduits            | 5.0.20                   | EnderIO-1.12.2-5.0.20.jar                        | None                                     |
+	| UCHIJAAAA | forestry                   | 5.8.0.259                | forestry_1.12.2-5.8.0.259.jar                    | None                                     |
+	| UCHIJAAAA | enderiointegrationforestry | 5.0.20                   | EnderIO-1.12.2-5.0.20.jar                        | None                                     |
+	| UCHIJAAAA | enderiointegrationticlate  | 5.0.20                   | EnderIO-1.12.2-5.0.20.jar                        | None                                     |
+	| UCHIJAAAA | enderiomachines            | 5.0.20                   | EnderIO-1.12.2-5.0.20.jar                        | None                                     |
+	| UCHIJAAAA | enderiopowertools          | 5.0.20                   | EnderIO-1.12.2-5.0.20.jar                        | None                                     |
+	| UCHIJAAAA | ftblib                     | 5.0.0.14                 | FTBLib-5.0.0.14.jar                              | None                                     |
+	| UCHIJAAAA | ftbutilities               | 5.0.0.11                 | FTBUtilities-5.0.0.11.jar                        | None                                     |
+	| UCHIJAAAA | gendustry                  | 1.6.5.8                  | gendustry-1.6.5.8-mc1.12.2.jar                   | None                                     |
+	| UCHIJAAAA | gogskybox                  | 1.1-3                    | GoGSkybox 1.1-3.jar                              | None                                     |
+	| UCHIJAAAA | icbmclassic                | 1.12.2-3.0.0.22          | ICBM-classic-1.12.2-3.0.0b22.jar                 | None                                     |
+	| UCHIJAAAA | inventorytweaks            | 1.63+release.109.220f184 | InventoryTweaks-1.63.jar                         | 55d2cd4f5f0961410bf7b91ef6c6bf00a766dcbe |
+	| UCHIJAAAA | jeibees                    | 0.9.0.5                  | jeibees-0.9.0.5-mc1.12.2.jar                     | None                                     |
+	| UCHIJAAAA | morebees                   | 1.12.2-1.4.4             | morebees-1.12.2-1.4.4.jar                        | None                                     |
+	| UCHIJAAAA | openmods                   | 0.11.5                   | OpenModsLib-1.12.2-0.11.5.jar                    | d2a9a8e8440196e26a268d1f3ddc01b2e9c572a5 |
+	| UCHIJAAAA | openblocks                 | 1.7.6                    | OpenBlocks-1.12.2-1.7.6.jar                      | d2a9a8e8440196e26a268d1f3ddc01b2e9c572a5 |
+	| UCHIJAAAA | oreexcavation              | 1.4.113                  | OreExcavation-1.4.113.jar                        | None                                     |
+	| UCHIJAAAA | parrotpower                | %gradle.version%         | parrotpower-1.12.2-1.2.0.jar                     | None                                     |
+	| UCHIJAAAA | peacefulskeletons          | 1.0                      | PeacefulSkeletons-1.9-1.12-1.0.jar               | None                                     |
+	| UCHIJAAAA | projecte                   | 1.12-PE1.0.0             | ProjectE-1.12-PE1.2.0.jar                        | None                                     |
+	| UCHIJAAAA | resourceloader             | 1.5.3                    | ResourceLoader-MC1.12.1-1.5.3.jar                | d72e0dd57935b3e9476212aea0c0df352dd76291 |
+	| UCHIJAAAA | sanplayermodel             | 1.0.3                    | SanLib-1.12.2-1.4.1.jar                          | None                                     |
+	| UCHIJAAAA | theoneprobe                | 1.4.21                   | theoneprobe-1.12-1.4.21.jar                      | None                                     |
+	| UCHIJAAAA | triumph                    | 1.10.1                   | Triumph-1.12.2-1.10.1.jar                        | None                                     |
+	| UCHIJAAAA | trumpetskeleton            | 1.12-1.0.2.0             | trumpetskeleton-1.12-1.0.2.0.jar                 | None                                     |
+	| UCHIJAAAA | ts2k16                     | 1.2.8                    | TS2K16-1.2.8.jar                                 | None                                     |
+	| UCHIJAAAA | voidislandcontrol          | 1.3.2                    | voidislandcontrol-1.3.2.jar                      | None                                     |
+	| UCHIJAAAA | weeeflowers                | 1.12.2b                  | Weee! Flowers 1.12.2b.jar                        | None                                     |
+
+	Loaded coremods (and transformers): 
+Inventory Tweaks Coremod (InventoryTweaks-1.63.jar)
+  invtweaks.forge.asm.ContainerTransformer
+BNBGamingCore (BNBGamingCore-1.12-0.5.4.jar)
+  com.bloodnbonesgaming.bnbgamingcore.core.BNBGamingCoreClassTransformer
+OpenModsCorePlugin (OpenModsLib-1.12.2-0.11.5.jar)
+  openmods.core.OpenModsClassTransformer
+LoadingPlugin (ResourceLoader-MC1.12.1-1.5.3.jar)
+  lumien.resourceloader.asm.ClassTransformer
+LoadingPlugin (Quark-r1.4-123.jar)
+  vazkii.quark.base.asm.ClassTransformer
+EnderCorePlugin (EnderCore-1.12.2-0.5.18.jar)
+  com.enderio.core.common.transform.EnderCoreTransformer
+	GL info: ~~ERROR~~ RuntimeException: No OpenGL context found in the current thread.
+	OpenModsLib class transformers: [llama_null_fix:FINISHED],[horse_base_null_fix:FINISHED],[pre_world_render_hook:FINISHED],[player_render_hook:FINISHED],[horse_null_fix:FINISHED]
+	List of loaded APIs: 
+		* betteradvancements|API (0.0.5.17) from BetterAdvancements-1.12.2-0.0.5.17.jar
+		* BetterWithModsAPI (Beta 0.6) from Quark-r1.4-123.jar
+		* ChiselsAndBitsAPI (13.8.0) from chiselsandbits-14.16.jar
+		* claysoldiers_api (1.0.0-alpha.4) from ClaySoldiersMod-1.12.2-3.0.0-alpha.9.1.jar
+		* DraconicEvolution|API (1.3) from Draconic-Evolution-1.12-2.3.10.284-universal.jar
+		* enderioapi (4.0.0) from EnderIO-1.12.2-5.0.20.jar
+		* enderioapi|addon (4.0.0) from EnderIO-1.12.2-5.0.20.jar
+		* enderioapi|capacitor (4.0.0) from EnderIO-1.12.2-5.0.20.jar
+		* enderioapi|conduits (4.0.0) from EnderIO-1.12.2-5.0.20.jar
+		* enderioapi|farm (4.0.0) from EnderIO-1.12.2-5.0.20.jar
+		* enderioapi|redstone (4.0.0) from EnderIO-1.12.2-5.0.20.jar
+		* enderioapi|teleport (4.0.0) from EnderIO-1.12.2-5.0.20.jar
+		* enderioapi|tools (4.0.0) from EnderIO-1.12.2-5.0.20.jar
+		* enderioapi|upgrades (4.0.0) from EnderIO-1.12.2-5.0.20.jar
+		* ForestryAPI|apiculture (5.0.0) from forestry_1.12.2-5.8.0.259.jar
+		* ForestryAPI|arboriculture (4.3.0) from forestry_1.12.2-5.8.0.259.jar
+		* ForestryAPI|circuits (3.1.0) from forestry_1.12.2-5.8.0.259.jar
+		* ForestryAPI|climate (5.0.0) from forestry_1.12.2-5.8.0.259.jar
+		* ForestryAPI|core (5.7.0) from forestry_1.12.2-5.8.0.259.jar
+		* ForestryAPI|farming (5.8.0) from forestry_1.12.2-5.8.0.259.jar
+		* ForestryAPI|food (1.1.0) from forestry_1.12.2-5.8.0.259.jar
+		* ForestryAPI|fuels (3.0.0) from forestry_1.12.2-5.8.0.259.jar
+		* ForestryAPI|genetics (5.7.0) from forestry_1.12.2-5.8.0.259.jar
+		* ForestryAPI|greenhouse (5.2.0) from forestry_1.12.2-5.8.0.259.jar
+		* ForestryAPI|hives (4.1.0) from forestry_1.12.2-5.8.0.259.jar
+		* ForestryAPI|lepidopterology (1.4.0) from forestry_1.12.2-5.8.0.259.jar
+		* ForestryAPI|mail (3.1.0) from forestry_1.12.2-5.8.0.259.jar
+		* ForestryAPI|modules (5.7.0) from forestry_1.12.2-5.8.0.259.jar
+		* ForestryAPI|multiblock (3.0.0) from forestry_1.12.2-5.8.0.259.jar
+		* ForestryAPI|recipes (5.4.0) from forestry_1.12.2-5.8.0.259.jar
+		* ForestryAPI|storage (5.0.0) from forestry_1.12.2-5.8.0.259.jar
+		* ForestryAPI|world (2.1.0) from forestry_1.12.2-5.8.0.259.jar
+		* gendustryAPI (2.3.0) from gendustry-1.6.5.8-mc1.12.2.jar
+		* JustEnoughItemsAPI (4.13.0) from jei_1.12.2-4.8.5.159.jar
+		* openblocks|api (1.2) from OpenBlocks-1.12.2-1.7.6.jar
+		* projecteapi (1.11.2-1.0.0) from ProjectE-1.12-PE1.2.0.jar
+		* QuarkAPI (2) from Quark-r1.4-123.jar
+		* theoneprobe_api (1.4.4) from theoneprobe-1.12-1.4.21.jar
+	Ender IO: No known problems detected.
+
+	!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+	!!!You are looking at the diagnostics information, not at the crash.       !!!
+	!!!Scroll up until you see the line with '---- Minecraft Crash Report ----'!!!
+	!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+	Profiler Position: N/A (disabled)
+	Player Count: 1 / 8; [EntityPlayerMP['jolvary98'/5, l='SkyBalance 2', x=-998.48, y=57.00, z=-1002.76]]
+	Type: Integrated Server (map_client.txt)
+	Is Modded: Definitely; Client brand changed to 'fml,forge'

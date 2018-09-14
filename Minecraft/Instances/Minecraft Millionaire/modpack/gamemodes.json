@@ -1,0 +1,8 @@
+{
+  "modes": [
+    "normal",
+    "prog"
+  ],
+  "default": "normal",
+  "common": "common"
+}

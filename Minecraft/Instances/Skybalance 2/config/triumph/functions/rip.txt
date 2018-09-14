@@ -1,0 +1,2 @@
+summon Fireball ~ ~1 ~ {direction:[0.0,0.0,0.0],ExplosionPower:1000000,CustomName:"punch me to end it all",CustomNameVisible:1}
+tp @e[type=Fireball] @p

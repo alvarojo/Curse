@@ -1,0 +1,2034 @@
+ERROR: system: AutoSpawner is already defined in that package
+INFO: MineTweaker: Building registry
+INFO: MineTweaker: Sucessfully built item registry
+INFO: Adding command minetweaker
+INFO: Adding minetweaker command tooltips
+INFO: 
+INFO: Adding minetweaker command appeng
+INFO: Adding minetweaker command lexiconCategories
+INFO: Adding minetweaker command lexiconPages
+INFO: Adding minetweaker command botaniaBrews
+INFO: Adding minetweaker command lexiconKnowledgeTypes
+INFO: Adding minetweaker command botaniaOrechid
+INFO: Adding minetweaker command botania
+INFO: Adding minetweaker command chiselGroups
+INFO: Adding minetweaker command chiselVariations
+INFO: Adding minetweaker command gases
+INFO: Adding minetweaker command mekanism
+INFO: Adding minetweaker command materials
+INFO: Adding minetweaker command modifiers
+INFO: Adding minetweaker command tconstruct
+INFO: Adding minetweaker command research
+INFO: Adding minetweaker command aspectList
+INFO: Adding minetweaker command thermalexpansion
+INFO: Adding minetweaker command mfr
+INFO: tried to remove command: mfr failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: thermalexpansion failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: aspectList failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: research failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: tconstruct failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: modifiers failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: materials failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: mekanism failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: gases failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: chiselVariations failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: chiselGroups failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: botania failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: botaniaOrechid failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: lexiconKnowledgeTypes failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: botaniaBrews failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: lexiconPages failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: lexiconCategories failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: appeng failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: entities failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: tooltips failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: minetweaker failed. THIS IS NOT AN ERROR!
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: Adding recipe for Sugarcane Seeds
+INFO: Adding recipe for Cactus Seeds
+INFO: Adding recipe for Pumpkin Seeds
+INFO: Adding recipe for Melon Seeds
+INFO: Adding recipe for Poppy Seeds
+INFO: Adding recipe for Dandelion Seeds
+INFO: Adding recipe for Blue Orchid Seeds
+INFO: Adding recipe for Allium Seeds
+INFO: Adding recipe for Red Tulip Seeds
+INFO: Adding recipe for Orange Tulip Seeds
+INFO: Adding recipe for White Tulip Seeds
+INFO: Adding recipe for Pink Tulip Seeds
+INFO: Adding recipe for Daisy Seeds
+INFO: Adding recipe for Red Mushroom Spores
+INFO: Adding recipe for Brown Mushroom Spores
+INFO: Adding recipe for Mystical Red Flower Seeds
+INFO: Adding recipe for Mystical Yellow Flower Seeds
+INFO: Adding recipe for Mystical Blue Flower Seeds
+INFO: Adding recipe for Mystical Orange Flower Seeds
+INFO: Adding recipe for Mystical Purple Flower Seeds
+INFO: Adding recipe for Mystical Green Flower Seeds
+INFO: Adding recipe for Mystical Magenta Flower Seeds
+INFO: Adding recipe for Mystical Pink Flower Seeds
+INFO: Adding recipe for Mystical Lime Flower Seeds
+INFO: Adding recipe for Mystical Cyan Flower Seeds
+INFO: Adding recipe for Mystical Light Blue Flower Seeds
+INFO: Adding recipe for Mystical Black Flower Seeds
+INFO: Adding recipe for Mystical White Flower Seeds
+INFO: Adding recipe for Mystical Gray Flower Seeds
+INFO: Adding recipe for Mystical Light Gray Flower Seeds
+INFO: Adding recipe for Mystical Brown Flower Seeds
+INFO: Adding recipe for Artichoke Seed
+INFO: Adding recipe for Asparagus Seed
+INFO: Adding recipe for Bamboo Shoot Seed
+INFO: Adding recipe for Bean Seed
+INFO: Adding recipe for Beet Seed
+INFO: Adding recipe for Bellpepper Seed
+INFO: Adding recipe for Blackberry Seed
+INFO: Adding recipe for Blueberry Seed
+INFO: Adding recipe for Broccoli Seed
+INFO: Adding recipe for Brussel Sprout Seed
+INFO: Adding recipe for Cabbage Seed
+INFO: Adding recipe for Cactus Fruit Seed
+INFO: Adding recipe for Candleberry Seed
+INFO: Adding recipe for Cantaloupe Seed
+INFO: Adding recipe for Cauliflower Seed
+INFO: Adding recipe for Celery Seed
+INFO: Adding recipe for Chili Pepper Seed
+INFO: Adding recipe for Coffee Seed
+INFO: Adding recipe for Cranberry Seed
+INFO: Adding recipe for Cucumber Seed
+INFO: Adding recipe for Eggplant Seed
+INFO: Adding recipe for Garlic Seed
+INFO: Adding recipe for Ginger Seed
+INFO: Adding recipe for Grape Seed
+INFO: Adding recipe for Kiwi Seed
+INFO: Adding recipe for Leek Seed
+INFO: Adding recipe for Lettuce Seed
+INFO: Adding recipe for Spinach Seed
+INFO: Adding recipe for Mustard Seed
+INFO: Adding recipe for Oats Seed
+INFO: Adding recipe for Okra Seed
+INFO: Adding recipe for Onion Seed
+INFO: Adding recipe for Parsnip Seed
+INFO: Adding recipe for Peanut Seed
+INFO: Adding recipe for Peas Seed
+INFO: Adding recipe for Pineapple Seed
+INFO: Adding recipe for Radish Seed
+INFO: Adding recipe for Strawberry Seed
+INFO: Adding recipe for Raspberry Seed
+INFO: Adding recipe for Rhubarb Seed
+INFO: Adding recipe for Rice Seed
+INFO: Adding recipe for Rutabaga Seed
+INFO: Adding recipe for Scallion Seed
+INFO: Adding recipe for Seaweed Seed
+INFO: Adding recipe for Soybean Seed
+INFO: Adding recipe for Spice Leaf Seed
+INFO: Adding recipe for Sweet Potato Seed
+INFO: Adding recipe for Tea Seed
+INFO: Adding recipe for Tomato Seed
+INFO: Adding recipe for Turnip Seed
+INFO: Adding recipe for Winter Squash Seed
+INFO: Adding recipe for Zucchini Seed
+INFO: Adding recipe for White Mushroom Spore
+INFO: Adding recipe for Curry Leaf Seed
+INFO: Adding recipe for Sesame Seeds Seed
+INFO: Adding recipe for Water Chestnut Seed
+INFO: Adding recipe for Barley Seed
+INFO: Adding recipe for Corn Seed
+INFO: Adding recipe for Rye Seed
+INFO: Adding recipe for Cotton Seed
+INFO: Adding recipe for Cinderpearl Seeds
+INFO: Adding recipe for Shimmerleaf Seeds
+INFO: Adding recipe for Vishroom Spores
+INFO: Adding recipe for Taint Root Seeds
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill25>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill100>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill100>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill100>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <minecraft:rotten_flesh>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <minecraft:bone>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <minecraft:gunpowder>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <minecraft:ender_pearl>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <minecraft:blaze_rod>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <minecraft:ghast_tear>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <minecraft:arrow>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <minecraft:string>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <minecraft:spider_eye>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <minecraft:slime_ball>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill100>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill100>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill100>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill100>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill25>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill100>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill10>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill10>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill100>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill100>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill100>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill25>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill100>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill100>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Botania:overgrowthSeed>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Botania:blackLotus:1>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill100>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:IronCard>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:IronCard>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:IronCard>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:IronCard>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill25>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill50>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill10>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill10>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill50>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill200>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill200>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill10>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill10>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill200>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill200>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill25>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill25>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill10>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill25>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill50>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill25>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill50>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <minecraft:iron_ore>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <minecraft:gold_ore>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <minecraft:coal_ore>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <minecraft:redstone_ore>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <minecraft:lapis_ore>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <minecraft:diamond_ore>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <minecraft:emerald_ore>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <minecraft:quartz_ore>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <appliedenergistics2:tile.OreQuartz>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <ThermalFoundation:Ore:1>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <ThermalFoundation:Ore>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <ThermalFoundation:Ore:2>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <ThermalFoundation:Ore:3>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <ThermalFoundation:Ore:5>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <TConstruct:GravelOre:4>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <ThermalFoundation:Ore:4>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <BigReactors:BRIngot>
+INFO: Adding recipe for Potato Seeds
+INFO: Adding recipe for Carrot Seeds
+INFO: Adding recipe for Sugarcane Seeds
+INFO: Adding recipe for Dandelion Seeds
+INFO: Adding recipe for Poppy Seeds
+INFO: Adding recipe for Blue Orchid Seeds
+INFO: Adding recipe for Allium Seeds
+INFO: Adding recipe for Red Tulip Seeds
+INFO: Adding recipe for Orange Tulip Seeds
+INFO: Adding recipe for White Tulip Seeds
+INFO: Adding recipe for Pink Tulip Seeds
+INFO: Adding recipe for Daisy Seeds
+INFO: Adding recipe for Cactus Seeds
+INFO: Adding recipe for Red Mushroom Spores
+INFO: Adding recipe for Brown Mushroom Spores
+INFO: Adding recipe for Seeds
+INFO: Adding recipe for Pumpkin Seeds
+INFO: Adding recipe for Melon Seeds
+INFO: Adding recipe for Asparagus Seed
+INFO: Adding recipe for Barley Seed
+INFO: Adding recipe for Bean Seed
+INFO: Adding recipe for Beet Seed
+INFO: Adding recipe for Broccoli Seed
+INFO: Adding recipe for Cauliflower Seed
+INFO: Adding recipe for Celery Seed
+INFO: Adding recipe for Cranberry Seed
+INFO: Adding recipe for Garlic Seed
+INFO: Adding recipe for Ginger Seed
+INFO: Adding recipe for Leek Seed
+INFO: Adding recipe for Lettuce Seed
+INFO: Adding recipe for Oats Seed
+INFO: Adding recipe for Onion Seed
+INFO: Adding recipe for Parsnip Seed
+INFO: Adding recipe for Peanut Seed
+INFO: Adding recipe for Pineapple Seed
+INFO: Adding recipe for Radish Seed
+INFO: Adding recipe for Rye Seed
+INFO: Adding recipe for Scallion Seed
+INFO: Adding recipe for Soybean Seed
+INFO: Adding recipe for Spice Leaf Seed
+INFO: Adding recipe for Sunflower Seeds
+INFO: Adding recipe for Sweet Potato Seed
+INFO: Adding recipe for Tea Seed
+INFO: Adding recipe for Turnip Seed
+INFO: Adding recipe for White Mushroom Spore
+INFO: Adding recipe for Bellpepper Seed
+INFO: Adding recipe for Blackberry Seed
+INFO: Adding recipe for Blueberry Seed
+INFO: Adding recipe for Cactus Fruit Seed
+INFO: Adding recipe for Cantaloupe Seed
+INFO: Adding recipe for Chili Pepper Seed
+INFO: Adding recipe for Coffee Seed
+INFO: Adding recipe for Corn Seed
+INFO: Adding recipe for Cucumber Seed
+INFO: Adding recipe for Eggplant Seed
+INFO: Adding recipe for Grape Seed
+INFO: Adding recipe for Kiwi Seed
+INFO: Adding recipe for Mustard Seed
+INFO: Adding recipe for Peas Seed
+INFO: Adding recipe for Raspberry Seed
+INFO: Adding recipe for Rhubarb Seed
+INFO: Adding recipe for Seaweed Seed
+INFO: Adding recipe for Strawberry Seed
+INFO: Adding recipe for Tomato Seed
+INFO: Adding recipe for Winter Squash Seed
+INFO: Adding recipe for Zucchini Seed
+INFO: Adding recipe for Bamboo Shoot Seed
+INFO: Adding recipe for Spinach Seed
+INFO: Adding recipe for Curry Leaf Seed
+INFO: Adding recipe for Sesame Seeds Seed
+INFO: Adding recipe for Water Chestnut Seed
+INFO: Adding recipe for Cinderpearl Seeds
+INFO: Adding recipe for Shimmerleaf Seeds
+INFO: Adding recipe for Vishroom Spores
+INFO: Adding recipe for Taint Root Seeds
+INFO: Adding recipe for Mystical White Flower Seeds
+INFO: Adding recipe for Mystical Orange Flower Seeds
+INFO: Adding recipe for Mystical Magenta Flower Seeds
+INFO: Adding recipe for Mystical Light Blue Flower Seeds
+INFO: Adding recipe for Mystical Yellow Flower Seeds
+INFO: Adding recipe for Mystical Lime Flower Seeds
+INFO: Adding recipe for Mystical Pink Flower Seeds
+INFO: Adding recipe for Mystical Gray Flower Seeds
+INFO: Adding recipe for Mystical Light Gray Flower Seeds
+INFO: Adding recipe for Mystical Cyan Flower Seeds
+INFO: Adding recipe for Mystical Purple Flower Seeds
+INFO: Adding recipe for Mystical Blue Flower Seeds
+INFO: Adding recipe for Mystical Brown Flower Seeds
+INFO: Adding recipe for Mystical Green Flower Seeds
+INFO: Adding recipe for Mystical Red Flower Seeds
+INFO: Adding recipe for Mystical Black Flower Seeds
+INFO: Adding recipe for Industrial Hemp Seeds
+INFO: Adding recipe for Canola Seeds
+INFO: Adding recipe for Cotton Seed
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill25>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill10>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill10>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill50>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill100>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:SteelCard>
+INFO: Adding recipe for 200 Credit Bill
+INFO: Adding recipe for 200 Credit Bill
+INFO: Adding recipe for 10 Credit Bill
+INFO: Adding recipe for Iron Card
+INFO: Adding recipe for Bronze Card
+INFO: Adding recipe for Gold Card
+INFO: Adding recipe for Iron Card
+INFO: Adding recipe for Silver Card
+INFO: Removing Xtreme Crafting Recipe for Neutron Collector
+INFO: Removing Xtreme Crafting Recipe for Neutronium Compressor
+INFO: Adding recipe for Infinity Catalyst
+INFO: Adding recipe for Creative Energy Cell
+INFO: Adding recipe for Creative Energy Cell
+INFO: Adding recipe for Creative Capacitor Bank
+INFO: Adding recipe for Creative Energy Cube
+INFO: Adding recipe for Creative Energy Cell
+INFO: Adding Xtreme Crafting Recipe for Creative Energy Cell
+INFO: Adding Xtreme Crafting Recipe for Creative Energy Cell
+INFO: Adding recipe for Creative Portable Tank
+INFO: Adding Xtreme Crafting Recipe for Creative Portable Tank
+INFO: Adding recipe for The Everlasting Guilty Pool
+INFO: Adding Xtreme Crafting Recipe for The Everlasting Guilty Pool
+INFO: Adding Xtreme Crafting Recipe for Creative Vending Upgrade
+INFO: Removing Xtreme Crafting Recipe for Infinity Catalyst
+INFO: Removing Xtreme Crafting Recipe for Infinity Ingot
+INFO: Removing Xtreme Crafting Recipe for World Breaker
+INFO: Removing Xtreme Crafting Recipe for Sword of the Cosmos
+INFO: Removing Xtreme Crafting Recipe for Skullfire Sword
+INFO: Removing Xtreme Crafting Recipe for Ultimate Stew
+INFO: Removing Xtreme Crafting Recipe for Cosmic Meatballs
+INFO: Removing Xtreme Crafting Recipe for Endest Pearl
+INFO: Removing Xtreme Crafting Recipe for Infinity Helmet
+INFO: Removing Xtreme Crafting Recipe for Infinity Breastplate
+INFO: Removing Xtreme Crafting Recipe for Infinity Pants
+INFO: Removing Xtreme Crafting Recipe for Infinity Boots
+INFO: Removing Xtreme Crafting Recipe for Longbow of the Heavens
+INFO: Removing Xtreme Crafting Recipe for Planet Eater
+INFO: Removing Xtreme Crafting Recipe for Nature's Ruin
+INFO: Hiding item.infinity_pickaxe in NEI
+INFO: Hiding item.infinity_sword in NEI
+INFO: Hiding item.skullfire_sword in NEI
+INFO: Hiding item.avaritia_stew in NEI
+INFO: Hiding item.avaritia_meatballs in NEI
+INFO: Hiding item.avaritia_endest_pearl in NEI
+INFO: Hiding item.infinity_armor_0 in NEI
+INFO: Hiding item.infinity_armor_1 in NEI
+INFO: Hiding item.infinity_armor_2 in NEI
+INFO: Hiding item.infinity_armor_3 in NEI
+INFO: Hiding item.infinity_bow in NEI
+INFO: Hiding item.infinity_shovel in NEI
+INFO: Hiding item.infinity_axe in NEI
+INFO: Hiding item.avaritia_mattercluster in NEI
+INFO: Hiding tile.neutronium_compressor in NEI
+INFO: Hiding tile.neutron_collector in NEI
+INFO: Hiding item.singularity_iron in NEI
+INFO: Hiding item.singularity_gold in NEI
+INFO: Hiding item.singularity_lapis in NEI
+INFO: Hiding item.singularity_redstone in NEI
+INFO: Hiding item.singularity_quartz in NEI
+INFO: Hiding item.singularity_copper in NEI
+INFO: Hiding item.singularity_tin in NEI
+INFO: Hiding item.singularity_lead in NEI
+INFO: Hiding item.singularity_silver in NEI
+INFO: Hiding item.singularity_nickel in NEI
+INFO: Adding Rune of Lust to ore dictionary entry botaniaSinRune
+INFO: Adding Rune of Gluttony to ore dictionary entry botaniaSinRune
+INFO: Adding Rune of Greed to ore dictionary entry botaniaSinRune
+INFO: Adding Rune of Sloth to ore dictionary entry botaniaSinRune
+INFO: Adding Rune of Wrath to ore dictionary entry botaniaSinRune
+INFO: Adding Rune of Envy to ore dictionary entry botaniaSinRune
+INFO: Adding Rune of Pride to ore dictionary entry botaniaSinRune
+INFO: Adding Part Builder to ore dictionary entry TiCpartBuilder
+INFO: Adding Part Builder to ore dictionary entry TiCpartBuilder
+INFO: Adding Part Builder to ore dictionary entry TiCpartBuilder
+INFO: Adding Part Builder to ore dictionary entry TiCpartBuilder
+INFO: Adding Stencil Table to ore dictionary entry TiCstencilTable
+INFO: Adding Stencil Table to ore dictionary entry TiCstencilTable
+INFO: Adding Stencil Table to ore dictionary entry TiCstencilTable
+INFO: Adding Stencil Table to ore dictionary entry TiCstencilTable
+INFO: Removing 1 furnace recipes
+INFO: Adding recipe for Seared Brick
+INFO: Removing Blood Altar Recipe for Blank Slate
+INFO: Adding Blood Altar Recipe for Blank Slate
+INFO: Adding recipe for Dime
+INFO: Adding macerator recipe for Redstone
+INFO: Removing 2 recipes
+INFO: [ModTweaker2] Adding 1 Thaumcraft Infusion Recipe(s) for Philosopher's Stone
+INFO: Removing 2 recipes
+INFO: Adding compressor recipe for Dark Matter
+INFO: Removing 3 recipes
+INFO: Adding Blood Altar Recipe for Red Matter
+INFO: Removing 1 recipes
+INFO: [ModTweaker2] Adding 1 Thaumcraft Infusion Recipe(s) for Energy Condenser
+INFO: Removing 1 recipes
+INFO: [ModTweaker2] Adding 1 Thaumcraft Infusion Recipe(s) for Transmutation Table
+INFO: Removing 1 recipes
+INFO: Adding recipe for Transmutation Tablet
+INFO: Adding recipe for 5 Credit Bill
+INFO: Adding recipe for 50 Credit Bill
+INFO: Adding recipe for 200 Credit Bill
+INFO: Adding recipe for Iron Card
+INFO: Adding recipe for Steel Card
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: tried to remove command: thermalexpansion failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: aspectList failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: research failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: tconstruct failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: modifiers failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: materials failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: mekanism failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: gases failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: chiselVariations failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: chiselGroups failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: botania failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: botaniaOrechid failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: lexiconKnowledgeTypes failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: botaniaBrews failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: lexiconPages failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: lexiconCategories failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: appeng failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: entities failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: tooltips failed. THIS IS NOT AN ERROR!
+INFO: Removing recipe for Steel Card
+INFO: Removing recipe for Iron Card
+INFO: Removing recipe for 200 Credit Bill
+INFO: Removing recipe for 50 Credit Bill
+INFO: Removing recipe for 5 Credit Bill
+INFO: Removing recipe for Transmutation Tablet
+INFO: Restoring 1 recipes
+INFO: [ModTweaker2] Removing 1 Thaumcraft Infusion Recipe(s) for Transmutation Table
+INFO: Restoring 1 recipes
+INFO: [ModTweaker2] Removing 1 Thaumcraft Infusion Recipe(s) for Energy Condenser
+INFO: Restoring 1 recipes
+INFO: Removing Blood Altar Recipe for Red Matter
+INFO: Restoring 3 recipes
+INFO: [Stuck] 1 Adding compressor recipe for Dark Matter
+INFO: [Stuck] 2 impossibru!
+INFO: [Stuck] 3 minetweaker.mods.ic2.MachineAddRecipeAction@1707dabc
+INFO: Restoring 2 recipes
+INFO: [ModTweaker2] Removing 1 Thaumcraft Infusion Recipe(s) for Philosopher's Stone
+INFO: Restoring 2 recipes
+INFO: [Stuck] 1 Adding macerator recipe for Redstone
+INFO: [Stuck] 2 impossibru!
+INFO: [Stuck] 3 minetweaker.mods.ic2.MachineAddRecipeAction@801e88f9
+INFO: Removing recipe for Dime
+INFO: Removing Blood Altar Recipe for Blank Slate
+INFO: Restoring Blood Altar Recipe for Blank Slate
+INFO: Removing recipe for Seared Brick
+INFO: Restoring 1 furnace recipes
+INFO: Removing Stencil Table from ore dictionary entry TiCstencilTable
+INFO: Removing Stencil Table from ore dictionary entry TiCstencilTable
+INFO: Removing Stencil Table from ore dictionary entry TiCstencilTable
+INFO: Removing Stencil Table from ore dictionary entry TiCstencilTable
+INFO: Removing Part Builder from ore dictionary entry TiCpartBuilder
+INFO: Removing Part Builder from ore dictionary entry TiCpartBuilder
+INFO: Removing Part Builder from ore dictionary entry TiCpartBuilder
+INFO: Removing Part Builder from ore dictionary entry TiCpartBuilder
+INFO: Removing Rune of Pride from ore dictionary entry botaniaSinRune
+INFO: Removing Rune of Envy from ore dictionary entry botaniaSinRune
+INFO: Removing Rune of Wrath from ore dictionary entry botaniaSinRune
+INFO: Removing Rune of Sloth from ore dictionary entry botaniaSinRune
+INFO: Removing Rune of Greed from ore dictionary entry botaniaSinRune
+INFO: Removing Rune of Gluttony from ore dictionary entry botaniaSinRune
+INFO: Removing Rune of Lust from ore dictionary entry botaniaSinRune
+INFO: Displaying item.singularity_nickel in NEI
+INFO: Displaying item.singularity_silver in NEI
+INFO: Displaying item.singularity_lead in NEI
+INFO: Displaying item.singularity_tin in NEI
+INFO: Displaying item.singularity_copper in NEI
+INFO: Displaying item.singularity_quartz in NEI
+INFO: Displaying item.singularity_redstone in NEI
+INFO: Displaying item.singularity_lapis in NEI
+INFO: Displaying item.singularity_gold in NEI
+INFO: Displaying item.singularity_iron in NEI
+INFO: Displaying tile.neutron_collector in NEI
+INFO: Displaying tile.neutronium_compressor in NEI
+INFO: Displaying item.avaritia_mattercluster in NEI
+INFO: Displaying item.infinity_axe in NEI
+INFO: Displaying item.infinity_shovel in NEI
+INFO: Displaying item.infinity_bow in NEI
+INFO: Displaying item.infinity_armor_3 in NEI
+INFO: Displaying item.infinity_armor_2 in NEI
+INFO: Displaying item.infinity_armor_1 in NEI
+INFO: Displaying item.infinity_armor_0 in NEI
+INFO: Displaying item.avaritia_endest_pearl in NEI
+INFO: Displaying item.avaritia_meatballs in NEI
+INFO: Displaying item.avaritia_stew in NEI
+INFO: Displaying item.skullfire_sword in NEI
+INFO: Displaying item.infinity_sword in NEI
+INFO: Displaying item.infinity_pickaxe in NEI
+INFO: Un-removing Xtreme Crafting Recipe for Nature's Ruin
+INFO: Un-removing Xtreme Crafting Recipe for Planet Eater
+INFO: Un-removing Xtreme Crafting Recipe for Longbow of the Heavens
+INFO: Un-removing Xtreme Crafting Recipe for Infinity Boots
+INFO: Un-removing Xtreme Crafting Recipe for Infinity Pants
+INFO: Un-removing Xtreme Crafting Recipe for Infinity Breastplate
+INFO: Un-removing Xtreme Crafting Recipe for Infinity Helmet
+INFO: Un-removing Xtreme Crafting Recipe for Endest Pearl
+INFO: Un-removing Xtreme Crafting Recipe for Cosmic Meatballs
+INFO: Un-removing Xtreme Crafting Recipe for Ultimate Stew
+INFO: Un-removing Xtreme Crafting Recipe for Skullfire Sword
+INFO: Un-removing Xtreme Crafting Recipe for Sword of the Cosmos
+INFO: Un-removing Xtreme Crafting Recipe for World Breaker
+INFO: Un-removing Xtreme Crafting Recipe for Infinity Ingot
+INFO: Un-removing Xtreme Crafting Recipe for Infinity Catalyst
+INFO: Un-adding Xtreme Crafting Recipe for Creative Vending Upgrade
+INFO: Un-adding Xtreme Crafting Recipe for The Everlasting Guilty Pool
+INFO: Removing recipe for The Everlasting Guilty Pool
+INFO: Un-adding Xtreme Crafting Recipe for Creative Portable Tank
+INFO: Removing recipe for Creative Portable Tank
+INFO: Un-adding Xtreme Crafting Recipe for Creative Energy Cell
+INFO: Un-adding Xtreme Crafting Recipe for Creative Energy Cell
+INFO: Removing recipe for Creative Energy Cell
+INFO: Removing recipe for Creative Energy Cube
+INFO: Removing recipe for Creative Capacitor Bank
+INFO: Removing recipe for Creative Energy Cell
+INFO: Removing recipe for Creative Energy Cell
+INFO: Removing recipe for Infinity Catalyst
+INFO: Un-removing Xtreme Crafting Recipe for Neutronium Compressor
+INFO: Un-removing Xtreme Crafting Recipe for Neutron Collector
+INFO: Removing recipe for Silver Card
+INFO: Removing recipe for Iron Card
+INFO: Removing recipe for Gold Card
+INFO: Removing recipe for Bronze Card
+INFO: Removing recipe for Iron Card
+INFO: Removing recipe for 10 Credit Bill
+INFO: Removing recipe for 200 Credit Bill
+INFO: Removing recipe for 200 Credit Bill
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <Currency:SteelCard>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill100>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill50>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill10>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill10>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill25>
+INFO: Removing recipe for Cotton Seed
+INFO: Removing recipe for Canola Seeds
+INFO: Removing recipe for Industrial Hemp Seeds
+INFO: Removing recipe for Mystical Black Flower Seeds
+INFO: Removing recipe for Mystical Red Flower Seeds
+INFO: Removing recipe for Mystical Green Flower Seeds
+INFO: Removing recipe for Mystical Brown Flower Seeds
+INFO: Removing recipe for Mystical Blue Flower Seeds
+INFO: Removing recipe for Mystical Purple Flower Seeds
+INFO: Removing recipe for Mystical Cyan Flower Seeds
+INFO: Removing recipe for Mystical Light Gray Flower Seeds
+INFO: Removing recipe for Mystical Gray Flower Seeds
+INFO: Removing recipe for Mystical Pink Flower Seeds
+INFO: Removing recipe for Mystical Lime Flower Seeds
+INFO: Removing recipe for Mystical Yellow Flower Seeds
+INFO: Removing recipe for Mystical Light Blue Flower Seeds
+INFO: Removing recipe for Mystical Magenta Flower Seeds
+INFO: Removing recipe for Mystical Orange Flower Seeds
+INFO: Removing recipe for Mystical White Flower Seeds
+INFO: Removing recipe for Taint Root Seeds
+INFO: Removing recipe for Vishroom Spores
+INFO: Removing recipe for Shimmerleaf Seeds
+INFO: Removing recipe for Cinderpearl Seeds
+INFO: Removing recipe for Water Chestnut Seed
+INFO: Removing recipe for Sesame Seeds Seed
+INFO: Removing recipe for Curry Leaf Seed
+INFO: Removing recipe for Spinach Seed
+INFO: Removing recipe for Bamboo Shoot Seed
+INFO: Removing recipe for Zucchini Seed
+INFO: Removing recipe for Winter Squash Seed
+INFO: Removing recipe for Tomato Seed
+INFO: Removing recipe for Strawberry Seed
+INFO: Removing recipe for Seaweed Seed
+INFO: Removing recipe for Rhubarb Seed
+INFO: Removing recipe for Raspberry Seed
+INFO: Removing recipe for Peas Seed
+INFO: Removing recipe for Mustard Seed
+INFO: Removing recipe for Kiwi Seed
+INFO: Removing recipe for Grape Seed
+INFO: Removing recipe for Eggplant Seed
+INFO: Removing recipe for Cucumber Seed
+INFO: Removing recipe for Corn Seed
+INFO: Removing recipe for Coffee Seed
+INFO: Removing recipe for Chili Pepper Seed
+INFO: Removing recipe for Cantaloupe Seed
+INFO: Removing recipe for Cactus Fruit Seed
+INFO: Removing recipe for Blueberry Seed
+INFO: Removing recipe for Blackberry Seed
+INFO: Removing recipe for Bellpepper Seed
+INFO: Removing recipe for White Mushroom Spore
+INFO: Removing recipe for Turnip Seed
+INFO: Removing recipe for Tea Seed
+INFO: Removing recipe for Sweet Potato Seed
+INFO: Removing recipe for Sunflower Seeds
+INFO: Removing recipe for Spice Leaf Seed
+INFO: Removing recipe for Soybean Seed
+INFO: Removing recipe for Scallion Seed
+INFO: Removing recipe for Rye Seed
+INFO: Removing recipe for Radish Seed
+INFO: Removing recipe for Pineapple Seed
+INFO: Removing recipe for Peanut Seed
+INFO: Removing recipe for Parsnip Seed
+INFO: Removing recipe for Onion Seed
+INFO: Removing recipe for Oats Seed
+INFO: Removing recipe for Lettuce Seed
+INFO: Removing recipe for Leek Seed
+INFO: Removing recipe for Ginger Seed
+INFO: Removing recipe for Garlic Seed
+INFO: Removing recipe for Cranberry Seed
+INFO: Removing recipe for Celery Seed
+INFO: Removing recipe for Cauliflower Seed
+INFO: Removing recipe for Broccoli Seed
+INFO: Removing recipe for Beet Seed
+INFO: Removing recipe for Bean Seed
+INFO: Removing recipe for Barley Seed
+INFO: Removing recipe for Asparagus Seed
+INFO: Removing recipe for Melon Seeds
+INFO: Removing recipe for Pumpkin Seeds
+INFO: Removing recipe for Seeds
+INFO: Removing recipe for Brown Mushroom Spores
+INFO: Removing recipe for Red Mushroom Spores
+INFO: Removing recipe for Cactus Seeds
+INFO: Removing recipe for Daisy Seeds
+INFO: Removing recipe for Pink Tulip Seeds
+INFO: Removing recipe for White Tulip Seeds
+INFO: Removing recipe for Orange Tulip Seeds
+INFO: Removing recipe for Red Tulip Seeds
+INFO: Removing recipe for Allium Seeds
+INFO: Removing recipe for Blue Orchid Seeds
+INFO: Removing recipe for Poppy Seeds
+INFO: Removing recipe for Dandelion Seeds
+INFO: Removing recipe for Sugarcane Seeds
+INFO: Removing recipe for Carrot Seeds
+INFO: Removing recipe for Potato Seeds
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <BigReactors:BRIngot>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <ThermalFoundation:Ore:4>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <TConstruct:GravelOre:4>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <ThermalFoundation:Ore:5>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <ThermalFoundation:Ore:3>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <ThermalFoundation:Ore:2>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <ThermalFoundation:Ore>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <ThermalFoundation:Ore:1>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <appliedenergistics2:tile.OreQuartz>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <minecraft:quartz_ore>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <minecraft:emerald_ore>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <minecraft:diamond_ore>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <minecraft:lapis_ore>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <minecraft:redstone_ore>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <minecraft:coal_ore>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <minecraft:gold_ore>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <minecraft:iron_ore>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill50>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill25>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill50>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill25>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill10>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill25>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill25>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill200>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill200>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill10>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill10>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill200>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill200>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill50>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill10>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill10>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill50>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill25>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <Currency:IronCard>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <Currency:IronCard>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <Currency:IronCard>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <Currency:IronCard>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill100>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <Botania:blackLotus:1>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <Botania:overgrowthSeed>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill100>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill100>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill25>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill100>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill100>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill100>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill10>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill10>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill100>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill25>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill100>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill100>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill100>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill100>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <minecraft:slime_ball>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <minecraft:spider_eye>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <minecraft:string>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <minecraft:arrow>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <minecraft:ghast_tear>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <minecraft:blaze_rod>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <minecraft:ender_pearl>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <minecraft:gunpowder>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <minecraft:bone>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <minecraft:rotten_flesh>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill100>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill100>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill100>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill25>
+INFO: Removing recipe for Taint Root Seeds
+INFO: Removing recipe for Vishroom Spores
+INFO: Removing recipe for Shimmerleaf Seeds
+INFO: Removing recipe for Cinderpearl Seeds
+INFO: Removing recipe for Cotton Seed
+INFO: Removing recipe for Rye Seed
+INFO: Removing recipe for Corn Seed
+INFO: Removing recipe for Barley Seed
+INFO: Removing recipe for Water Chestnut Seed
+INFO: Removing recipe for Sesame Seeds Seed
+INFO: Removing recipe for Curry Leaf Seed
+INFO: Removing recipe for White Mushroom Spore
+INFO: Removing recipe for Zucchini Seed
+INFO: Removing recipe for Winter Squash Seed
+INFO: Removing recipe for Turnip Seed
+INFO: Removing recipe for Tomato Seed
+INFO: Removing recipe for Tea Seed
+INFO: Removing recipe for Sweet Potato Seed
+INFO: Removing recipe for Spice Leaf Seed
+INFO: Removing recipe for Soybean Seed
+INFO: Removing recipe for Seaweed Seed
+INFO: Removing recipe for Scallion Seed
+INFO: Removing recipe for Rutabaga Seed
+INFO: Removing recipe for Rice Seed
+INFO: Removing recipe for Rhubarb Seed
+INFO: Removing recipe for Raspberry Seed
+INFO: Removing recipe for Strawberry Seed
+INFO: Removing recipe for Radish Seed
+INFO: Removing recipe for Pineapple Seed
+INFO: Removing recipe for Peas Seed
+INFO: Removing recipe for Peanut Seed
+INFO: Removing recipe for Parsnip Seed
+INFO: Removing recipe for Onion Seed
+INFO: Removing recipe for Okra Seed
+INFO: Removing recipe for Oats Seed
+INFO: Removing recipe for Mustard Seed
+INFO: Removing recipe for Spinach Seed
+INFO: Removing recipe for Lettuce Seed
+INFO: Removing recipe for Leek Seed
+INFO: Removing recipe for Kiwi Seed
+INFO: Removing recipe for Grape Seed
+INFO: Removing recipe for Ginger Seed
+INFO: Removing recipe for Garlic Seed
+INFO: Removing recipe for Eggplant Seed
+INFO: Removing recipe for Cucumber Seed
+INFO: Removing recipe for Cranberry Seed
+INFO: Removing recipe for Coffee Seed
+INFO: Removing recipe for Chili Pepper Seed
+INFO: Removing recipe for Celery Seed
+INFO: Removing recipe for Cauliflower Seed
+INFO: Removing recipe for Cantaloupe Seed
+INFO: Removing recipe for Candleberry Seed
+INFO: Removing recipe for Cactus Fruit Seed
+INFO: Removing recipe for Cabbage Seed
+INFO: Removing recipe for Brussel Sprout Seed
+INFO: Removing recipe for Broccoli Seed
+INFO: Removing recipe for Blueberry Seed
+INFO: Removing recipe for Blackberry Seed
+INFO: Removing recipe for Bellpepper Seed
+INFO: Removing recipe for Beet Seed
+INFO: Removing recipe for Bean Seed
+INFO: Removing recipe for Bamboo Shoot Seed
+INFO: Removing recipe for Asparagus Seed
+INFO: Removing recipe for Artichoke Seed
+INFO: Removing recipe for Mystical Brown Flower Seeds
+INFO: Removing recipe for Mystical Light Gray Flower Seeds
+INFO: Removing recipe for Mystical Gray Flower Seeds
+INFO: Removing recipe for Mystical White Flower Seeds
+INFO: Removing recipe for Mystical Black Flower Seeds
+INFO: Removing recipe for Mystical Light Blue Flower Seeds
+INFO: Removing recipe for Mystical Cyan Flower Seeds
+INFO: Removing recipe for Mystical Lime Flower Seeds
+INFO: Removing recipe for Mystical Pink Flower Seeds
+INFO: Removing recipe for Mystical Magenta Flower Seeds
+INFO: Removing recipe for Mystical Green Flower Seeds
+INFO: Removing recipe for Mystical Purple Flower Seeds
+INFO: Removing recipe for Mystical Orange Flower Seeds
+INFO: Removing recipe for Mystical Blue Flower Seeds
+INFO: Removing recipe for Mystical Yellow Flower Seeds
+INFO: Removing recipe for Mystical Red Flower Seeds
+INFO: Removing recipe for Brown Mushroom Spores
+INFO: Removing recipe for Red Mushroom Spores
+INFO: Removing recipe for Daisy Seeds
+INFO: Removing recipe for Pink Tulip Seeds
+INFO: Removing recipe for White Tulip Seeds
+INFO: Removing recipe for Orange Tulip Seeds
+INFO: Removing recipe for Red Tulip Seeds
+INFO: Removing recipe for Allium Seeds
+INFO: Removing recipe for Blue Orchid Seeds
+INFO: Removing recipe for Dandelion Seeds
+INFO: Removing recipe for Poppy Seeds
+INFO: Removing recipe for Melon Seeds
+INFO: Removing recipe for Pumpkin Seeds
+INFO: Removing recipe for Cactus Seeds
+INFO: Removing recipe for Sugarcane Seeds
+INFO: tried to remove command: mfr failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: thermalexpansion failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: aspectList failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: research failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: tconstruct failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: modifiers failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: materials failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: mekanism failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: gases failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: chiselVariations failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: chiselGroups failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: botania failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: botaniaOrechid failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: lexiconKnowledgeTypes failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: botaniaBrews failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: lexiconPages failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: lexiconCategories failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: appeng failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: entities failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: tooltips failed. THIS IS NOT AN ERROR!
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: Adding recipe for Sugarcane Seeds
+INFO: Adding recipe for Cactus Seeds
+INFO: Adding recipe for Pumpkin Seeds
+INFO: Adding recipe for Melon Seeds
+INFO: Adding recipe for Poppy Seeds
+INFO: Adding recipe for Dandelion Seeds
+INFO: Adding recipe for Blue Orchid Seeds
+INFO: Adding recipe for Allium Seeds
+INFO: Adding recipe for Red Tulip Seeds
+INFO: Adding recipe for Orange Tulip Seeds
+INFO: Adding recipe for White Tulip Seeds
+INFO: Adding recipe for Pink Tulip Seeds
+INFO: Adding recipe for Daisy Seeds
+INFO: Adding recipe for Red Mushroom Spores
+INFO: Adding recipe for Brown Mushroom Spores
+INFO: Adding recipe for Mystical Red Flower Seeds
+INFO: Adding recipe for Mystical Yellow Flower Seeds
+INFO: Adding recipe for Mystical Blue Flower Seeds
+INFO: Adding recipe for Mystical Orange Flower Seeds
+INFO: Adding recipe for Mystical Purple Flower Seeds
+INFO: Adding recipe for Mystical Green Flower Seeds
+INFO: Adding recipe for Mystical Magenta Flower Seeds
+INFO: Adding recipe for Mystical Pink Flower Seeds
+INFO: Adding recipe for Mystical Lime Flower Seeds
+INFO: Adding recipe for Mystical Cyan Flower Seeds
+INFO: Adding recipe for Mystical Light Blue Flower Seeds
+INFO: Adding recipe for Mystical Black Flower Seeds
+INFO: Adding recipe for Mystical White Flower Seeds
+INFO: Adding recipe for Mystical Gray Flower Seeds
+INFO: Adding recipe for Mystical Light Gray Flower Seeds
+INFO: Adding recipe for Mystical Brown Flower Seeds
+INFO: Adding recipe for Artichoke Seed
+INFO: Adding recipe for Asparagus Seed
+INFO: Adding recipe for Bamboo Shoot Seed
+INFO: Adding recipe for Bean Seed
+INFO: Adding recipe for Beet Seed
+INFO: Adding recipe for Bellpepper Seed
+INFO: Adding recipe for Blackberry Seed
+INFO: Adding recipe for Blueberry Seed
+INFO: Adding recipe for Broccoli Seed
+INFO: Adding recipe for Brussel Sprout Seed
+INFO: Adding recipe for Cabbage Seed
+INFO: Adding recipe for Cactus Fruit Seed
+INFO: Adding recipe for Candleberry Seed
+INFO: Adding recipe for Cantaloupe Seed
+INFO: Adding recipe for Cauliflower Seed
+INFO: Adding recipe for Celery Seed
+INFO: Adding recipe for Chili Pepper Seed
+INFO: Adding recipe for Coffee Seed
+INFO: Adding recipe for Cranberry Seed
+INFO: Adding recipe for Cucumber Seed
+INFO: Adding recipe for Eggplant Seed
+INFO: Adding recipe for Garlic Seed
+INFO: Adding recipe for Ginger Seed
+INFO: Adding recipe for Grape Seed
+INFO: Adding recipe for Kiwi Seed
+INFO: Adding recipe for Leek Seed
+INFO: Adding recipe for Lettuce Seed
+INFO: Adding recipe for Spinach Seed
+INFO: Adding recipe for Mustard Seed
+INFO: Adding recipe for Oats Seed
+INFO: Adding recipe for Okra Seed
+INFO: Adding recipe for Onion Seed
+INFO: Adding recipe for Parsnip Seed
+INFO: Adding recipe for Peanut Seed
+INFO: Adding recipe for Peas Seed
+INFO: Adding recipe for Pineapple Seed
+INFO: Adding recipe for Radish Seed
+INFO: Adding recipe for Strawberry Seed
+INFO: Adding recipe for Raspberry Seed
+INFO: Adding recipe for Rhubarb Seed
+INFO: Adding recipe for Rice Seed
+INFO: Adding recipe for Rutabaga Seed
+INFO: Adding recipe for Scallion Seed
+INFO: Adding recipe for Seaweed Seed
+INFO: Adding recipe for Soybean Seed
+INFO: Adding recipe for Spice Leaf Seed
+INFO: Adding recipe for Sweet Potato Seed
+INFO: Adding recipe for Tea Seed
+INFO: Adding recipe for Tomato Seed
+INFO: Adding recipe for Turnip Seed
+INFO: Adding recipe for Winter Squash Seed
+INFO: Adding recipe for Zucchini Seed
+INFO: Adding recipe for White Mushroom Spore
+INFO: Adding recipe for Curry Leaf Seed
+INFO: Adding recipe for Sesame Seeds Seed
+INFO: Adding recipe for Water Chestnut Seed
+INFO: Adding recipe for Barley Seed
+INFO: Adding recipe for Corn Seed
+INFO: Adding recipe for Rye Seed
+INFO: Adding recipe for Cotton Seed
+INFO: Adding recipe for Cinderpearl Seeds
+INFO: Adding recipe for Shimmerleaf Seeds
+INFO: Adding recipe for Vishroom Spores
+INFO: Adding recipe for Taint Root Seeds
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill25>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill100>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill100>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill100>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <minecraft:rotten_flesh>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <minecraft:bone>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <minecraft:gunpowder>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <minecraft:ender_pearl>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <minecraft:blaze_rod>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <minecraft:ghast_tear>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <minecraft:arrow>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <minecraft:string>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <minecraft:spider_eye>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <minecraft:slime_ball>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill100>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill100>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill100>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill100>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill25>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill100>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill10>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill10>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill100>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill100>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill100>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill25>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill100>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill100>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Botania:overgrowthSeed>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Botania:blackLotus:1>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill100>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:IronCard>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:IronCard>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:IronCard>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:IronCard>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill25>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill50>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill10>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill10>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill50>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill200>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill200>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill10>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill10>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill200>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill200>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill25>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill25>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill10>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill25>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill50>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill25>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill50>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <minecraft:iron_ore>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <minecraft:gold_ore>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <minecraft:coal_ore>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <minecraft:redstone_ore>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <minecraft:lapis_ore>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <minecraft:diamond_ore>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <minecraft:emerald_ore>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <minecraft:quartz_ore>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <appliedenergistics2:tile.OreQuartz>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <ThermalFoundation:Ore:1>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <ThermalFoundation:Ore>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <ThermalFoundation:Ore:2>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <ThermalFoundation:Ore:3>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <ThermalFoundation:Ore:5>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <TConstruct:GravelOre:4>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <ThermalFoundation:Ore:4>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <BigReactors:BRIngot>
+INFO: Adding recipe for Potato Seeds
+INFO: Adding recipe for Carrot Seeds
+INFO: Adding recipe for Sugarcane Seeds
+INFO: Adding recipe for Dandelion Seeds
+INFO: Adding recipe for Poppy Seeds
+INFO: Adding recipe for Blue Orchid Seeds
+INFO: Adding recipe for Allium Seeds
+INFO: Adding recipe for Red Tulip Seeds
+INFO: Adding recipe for Orange Tulip Seeds
+INFO: Adding recipe for White Tulip Seeds
+INFO: Adding recipe for Pink Tulip Seeds
+INFO: Adding recipe for Daisy Seeds
+INFO: Adding recipe for Cactus Seeds
+INFO: Adding recipe for Red Mushroom Spores
+INFO: Adding recipe for Brown Mushroom Spores
+INFO: Adding recipe for Seeds
+INFO: Adding recipe for Pumpkin Seeds
+INFO: Adding recipe for Melon Seeds
+INFO: Adding recipe for Asparagus Seed
+INFO: Adding recipe for Barley Seed
+INFO: Adding recipe for Bean Seed
+INFO: Adding recipe for Beet Seed
+INFO: Adding recipe for Broccoli Seed
+INFO: Adding recipe for Cauliflower Seed
+INFO: Adding recipe for Celery Seed
+INFO: Adding recipe for Cranberry Seed
+INFO: Adding recipe for Garlic Seed
+INFO: Adding recipe for Ginger Seed
+INFO: Adding recipe for Leek Seed
+INFO: Adding recipe for Lettuce Seed
+INFO: Adding recipe for Oats Seed
+INFO: Adding recipe for Onion Seed
+INFO: Adding recipe for Parsnip Seed
+INFO: Adding recipe for Peanut Seed
+INFO: Adding recipe for Pineapple Seed
+INFO: Adding recipe for Radish Seed
+INFO: Adding recipe for Rye Seed
+INFO: Adding recipe for Scallion Seed
+INFO: Adding recipe for Soybean Seed
+INFO: Adding recipe for Spice Leaf Seed
+INFO: Adding recipe for Sunflower Seeds
+INFO: Adding recipe for Sweet Potato Seed
+INFO: Adding recipe for Tea Seed
+INFO: Adding recipe for Turnip Seed
+INFO: Adding recipe for White Mushroom Spore
+INFO: Adding recipe for Bellpepper Seed
+INFO: Adding recipe for Blackberry Seed
+INFO: Adding recipe for Blueberry Seed
+INFO: Adding recipe for Cactus Fruit Seed
+INFO: Adding recipe for Cantaloupe Seed
+INFO: Adding recipe for Chili Pepper Seed
+INFO: Adding recipe for Coffee Seed
+INFO: Adding recipe for Corn Seed
+INFO: Adding recipe for Cucumber Seed
+INFO: Adding recipe for Eggplant Seed
+INFO: Adding recipe for Grape Seed
+INFO: Adding recipe for Kiwi Seed
+INFO: Adding recipe for Mustard Seed
+INFO: Adding recipe for Peas Seed
+INFO: Adding recipe for Raspberry Seed
+INFO: Adding recipe for Rhubarb Seed
+INFO: Adding recipe for Seaweed Seed
+INFO: Adding recipe for Strawberry Seed
+INFO: Adding recipe for Tomato Seed
+INFO: Adding recipe for Winter Squash Seed
+INFO: Adding recipe for Zucchini Seed
+INFO: Adding recipe for Bamboo Shoot Seed
+INFO: Adding recipe for Spinach Seed
+INFO: Adding recipe for Curry Leaf Seed
+INFO: Adding recipe for Sesame Seeds Seed
+INFO: Adding recipe for Water Chestnut Seed
+INFO: Adding recipe for Cinderpearl Seeds
+INFO: Adding recipe for Shimmerleaf Seeds
+INFO: Adding recipe for Vishroom Spores
+INFO: Adding recipe for Taint Root Seeds
+INFO: Adding recipe for Mystical White Flower Seeds
+INFO: Adding recipe for Mystical Orange Flower Seeds
+INFO: Adding recipe for Mystical Magenta Flower Seeds
+INFO: Adding recipe for Mystical Light Blue Flower Seeds
+INFO: Adding recipe for Mystical Yellow Flower Seeds
+INFO: Adding recipe for Mystical Lime Flower Seeds
+INFO: Adding recipe for Mystical Pink Flower Seeds
+INFO: Adding recipe for Mystical Gray Flower Seeds
+INFO: Adding recipe for Mystical Light Gray Flower Seeds
+INFO: Adding recipe for Mystical Cyan Flower Seeds
+INFO: Adding recipe for Mystical Purple Flower Seeds
+INFO: Adding recipe for Mystical Blue Flower Seeds
+INFO: Adding recipe for Mystical Brown Flower Seeds
+INFO: Adding recipe for Mystical Green Flower Seeds
+INFO: Adding recipe for Mystical Red Flower Seeds
+INFO: Adding recipe for Mystical Black Flower Seeds
+INFO: Adding recipe for Industrial Hemp Seeds
+INFO: Adding recipe for Canola Seeds
+INFO: Adding recipe for Cotton Seed
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill25>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill10>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill10>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill50>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill100>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:SteelCard>
+INFO: Adding recipe for 200 Credit Bill
+INFO: Adding recipe for 200 Credit Bill
+INFO: Adding recipe for 10 Credit Bill
+INFO: Adding recipe for Iron Card
+INFO: Adding recipe for Bronze Card
+INFO: Adding recipe for Gold Card
+INFO: Adding recipe for Iron Card
+INFO: Adding recipe for Silver Card
+INFO: Removing Xtreme Crafting Recipe for Neutron Collector
+INFO: Removing Xtreme Crafting Recipe for Neutronium Compressor
+INFO: Adding recipe for Infinity Catalyst
+INFO: Adding recipe for Creative Energy Cell
+INFO: Adding recipe for Creative Energy Cell
+INFO: Adding recipe for Creative Capacitor Bank
+INFO: Adding recipe for Creative Energy Cube
+INFO: Adding recipe for Creative Energy Cell
+INFO: Adding Xtreme Crafting Recipe for Creative Energy Cell
+INFO: Adding Xtreme Crafting Recipe for Creative Energy Cell
+INFO: Adding recipe for Creative Portable Tank
+INFO: Adding Xtreme Crafting Recipe for Creative Portable Tank
+INFO: Adding recipe for The Everlasting Guilty Pool
+INFO: Adding Xtreme Crafting Recipe for The Everlasting Guilty Pool
+INFO: Adding Xtreme Crafting Recipe for Creative Vending Upgrade
+INFO: Removing Xtreme Crafting Recipe for Infinity Catalyst
+INFO: Removing Xtreme Crafting Recipe for Infinity Ingot
+INFO: Removing Xtreme Crafting Recipe for World Breaker
+INFO: Removing Xtreme Crafting Recipe for Sword of the Cosmos
+INFO: Removing Xtreme Crafting Recipe for Skullfire Sword
+INFO: Removing Xtreme Crafting Recipe for Ultimate Stew
+INFO: Removing Xtreme Crafting Recipe for Cosmic Meatballs
+INFO: Removing Xtreme Crafting Recipe for Endest Pearl
+INFO: Removing Xtreme Crafting Recipe for Infinity Helmet
+INFO: Removing Xtreme Crafting Recipe for Infinity Breastplate
+INFO: Removing Xtreme Crafting Recipe for Infinity Pants
+INFO: Removing Xtreme Crafting Recipe for Infinity Boots
+INFO: Removing Xtreme Crafting Recipe for Longbow of the Heavens
+INFO: Removing Xtreme Crafting Recipe for Planet Eater
+INFO: Removing Xtreme Crafting Recipe for Nature's Ruin
+INFO: Hiding item.infinity_pickaxe in NEI
+INFO: Hiding item.infinity_sword in NEI
+INFO: Hiding item.skullfire_sword in NEI
+INFO: Hiding item.avaritia_stew in NEI
+INFO: Hiding item.avaritia_meatballs in NEI
+INFO: Hiding item.avaritia_endest_pearl in NEI
+INFO: Hiding item.infinity_armor_0 in NEI
+INFO: Hiding item.infinity_armor_1 in NEI
+INFO: Hiding item.infinity_armor_2 in NEI
+INFO: Hiding item.infinity_armor_3 in NEI
+INFO: Hiding item.infinity_bow in NEI
+INFO: Hiding item.infinity_shovel in NEI
+INFO: Hiding item.infinity_axe in NEI
+INFO: Hiding item.avaritia_mattercluster in NEI
+INFO: Hiding tile.neutronium_compressor in NEI
+INFO: Hiding tile.neutron_collector in NEI
+INFO: Hiding item.singularity_iron in NEI
+INFO: Hiding item.singularity_gold in NEI
+INFO: Hiding item.singularity_lapis in NEI
+INFO: Hiding item.singularity_redstone in NEI
+INFO: Hiding item.singularity_quartz in NEI
+INFO: Hiding item.singularity_copper in NEI
+INFO: Hiding item.singularity_tin in NEI
+INFO: Hiding item.singularity_lead in NEI
+INFO: Hiding item.singularity_silver in NEI
+INFO: Hiding item.singularity_nickel in NEI
+INFO: Adding Rune of Lust to ore dictionary entry botaniaSinRune
+INFO: Adding Rune of Gluttony to ore dictionary entry botaniaSinRune
+INFO: Adding Rune of Greed to ore dictionary entry botaniaSinRune
+INFO: Adding Rune of Sloth to ore dictionary entry botaniaSinRune
+INFO: Adding Rune of Wrath to ore dictionary entry botaniaSinRune
+INFO: Adding Rune of Envy to ore dictionary entry botaniaSinRune
+INFO: Adding Rune of Pride to ore dictionary entry botaniaSinRune
+INFO: Adding Part Builder to ore dictionary entry TiCpartBuilder
+INFO: Adding Part Builder to ore dictionary entry TiCpartBuilder
+INFO: Adding Part Builder to ore dictionary entry TiCpartBuilder
+INFO: Adding Part Builder to ore dictionary entry TiCpartBuilder
+INFO: Adding Stencil Table to ore dictionary entry TiCstencilTable
+INFO: Adding Stencil Table to ore dictionary entry TiCstencilTable
+INFO: Adding Stencil Table to ore dictionary entry TiCstencilTable
+INFO: Adding Stencil Table to ore dictionary entry TiCstencilTable
+INFO: Removing 1 furnace recipes
+INFO: Adding recipe for Seared Brick
+INFO: Removing Blood Altar Recipe for Blank Slate
+INFO: Adding Blood Altar Recipe for Blank Slate
+INFO: Adding recipe for Dime
+INFO: Adding macerator recipe for Redstone
+INFO: Removing 2 recipes
+INFO: [ModTweaker2] Adding 1 Thaumcraft Infusion Recipe(s) for Philosopher's Stone
+INFO: Removing 2 recipes
+INFO: Adding compressor recipe for Dark Matter
+INFO: Removing 3 recipes
+INFO: Adding Blood Altar Recipe for Red Matter
+INFO: Removing 1 recipes
+INFO: [ModTweaker2] Adding 1 Thaumcraft Infusion Recipe(s) for Energy Condenser
+INFO: Removing 1 recipes
+INFO: [ModTweaker2] Adding 1 Thaumcraft Infusion Recipe(s) for Transmutation Table
+INFO: Removing 1 recipes
+INFO: Adding recipe for Transmutation Tablet
+INFO: Adding recipe for 5 Credit Bill
+INFO: Adding recipe for 50 Credit Bill
+INFO: Adding recipe for 200 Credit Bill
+INFO: Adding recipe for Iron Card
+INFO: Adding recipe for Steel Card
+WARNING: 2 modifications were stuck
+INFO: Stuck: Adding compressor recipe for Dark Matter
+INFO: Stuck: Adding macerator recipe for Redstone
+INFO: Removing recipe for Steel Card
+INFO: Removing recipe for Iron Card
+INFO: Removing recipe for 200 Credit Bill
+INFO: Removing recipe for 50 Credit Bill
+INFO: Removing recipe for 5 Credit Bill
+INFO: Removing recipe for Transmutation Tablet
+INFO: Restoring 1 recipes
+INFO: [ModTweaker2] Removing 1 Thaumcraft Infusion Recipe(s) for Transmutation Table
+INFO: Restoring 1 recipes
+INFO: [ModTweaker2] Removing 1 Thaumcraft Infusion Recipe(s) for Energy Condenser
+INFO: Restoring 1 recipes
+INFO: Removing Blood Altar Recipe for Red Matter
+INFO: Restoring 3 recipes
+INFO: [Stuck] 1 Adding compressor recipe for Dark Matter
+INFO: [Stuck] 2 impossibru!
+INFO: [Stuck] 3 minetweaker.mods.ic2.MachineAddRecipeAction@aab719fb
+INFO: Restoring 2 recipes
+INFO: [ModTweaker2] Removing 1 Thaumcraft Infusion Recipe(s) for Philosopher's Stone
+INFO: Restoring 2 recipes
+INFO: [Stuck] 1 Adding macerator recipe for Redstone
+INFO: [Stuck] 2 impossibru!
+INFO: [Stuck] 3 minetweaker.mods.ic2.MachineAddRecipeAction@11e57ba5
+INFO: Removing recipe for Dime
+INFO: Removing Blood Altar Recipe for Blank Slate
+INFO: Restoring Blood Altar Recipe for Blank Slate
+INFO: Removing recipe for Seared Brick
+INFO: Restoring 1 furnace recipes
+INFO: Removing Stencil Table from ore dictionary entry TiCstencilTable
+INFO: Removing Stencil Table from ore dictionary entry TiCstencilTable
+INFO: Removing Stencil Table from ore dictionary entry TiCstencilTable
+INFO: Removing Stencil Table from ore dictionary entry TiCstencilTable
+INFO: Removing Part Builder from ore dictionary entry TiCpartBuilder
+INFO: Removing Part Builder from ore dictionary entry TiCpartBuilder
+INFO: Removing Part Builder from ore dictionary entry TiCpartBuilder
+INFO: Removing Part Builder from ore dictionary entry TiCpartBuilder
+INFO: Removing Rune of Pride from ore dictionary entry botaniaSinRune
+INFO: Removing Rune of Envy from ore dictionary entry botaniaSinRune
+INFO: Removing Rune of Wrath from ore dictionary entry botaniaSinRune
+INFO: Removing Rune of Sloth from ore dictionary entry botaniaSinRune
+INFO: Removing Rune of Greed from ore dictionary entry botaniaSinRune
+INFO: Removing Rune of Gluttony from ore dictionary entry botaniaSinRune
+INFO: Removing Rune of Lust from ore dictionary entry botaniaSinRune
+INFO: Displaying item.singularity_nickel in NEI
+INFO: Displaying item.singularity_silver in NEI
+INFO: Displaying item.singularity_lead in NEI
+INFO: Displaying item.singularity_tin in NEI
+INFO: Displaying item.singularity_copper in NEI
+INFO: Displaying item.singularity_quartz in NEI
+INFO: Displaying item.singularity_redstone in NEI
+INFO: Displaying item.singularity_lapis in NEI
+INFO: Displaying item.singularity_gold in NEI
+INFO: Displaying item.singularity_iron in NEI
+INFO: Displaying tile.neutron_collector in NEI
+INFO: Displaying tile.neutronium_compressor in NEI
+INFO: Displaying item.avaritia_mattercluster in NEI
+INFO: Displaying item.infinity_axe in NEI
+INFO: Displaying item.infinity_shovel in NEI
+INFO: Displaying item.infinity_bow in NEI
+INFO: Displaying item.infinity_armor_3 in NEI
+INFO: Displaying item.infinity_armor_2 in NEI
+INFO: Displaying item.infinity_armor_1 in NEI
+INFO: Displaying item.infinity_armor_0 in NEI
+INFO: Displaying item.avaritia_endest_pearl in NEI
+INFO: Displaying item.avaritia_meatballs in NEI
+INFO: Displaying item.avaritia_stew in NEI
+INFO: Displaying item.skullfire_sword in NEI
+INFO: Displaying item.infinity_sword in NEI
+INFO: Displaying item.infinity_pickaxe in NEI
+INFO: Un-removing Xtreme Crafting Recipe for Nature's Ruin
+INFO: Un-removing Xtreme Crafting Recipe for Planet Eater
+INFO: Un-removing Xtreme Crafting Recipe for Longbow of the Heavens
+INFO: Un-removing Xtreme Crafting Recipe for Infinity Boots
+INFO: Un-removing Xtreme Crafting Recipe for Infinity Pants
+INFO: Un-removing Xtreme Crafting Recipe for Infinity Breastplate
+INFO: Un-removing Xtreme Crafting Recipe for Infinity Helmet
+INFO: Un-removing Xtreme Crafting Recipe for Endest Pearl
+INFO: Un-removing Xtreme Crafting Recipe for Cosmic Meatballs
+INFO: Un-removing Xtreme Crafting Recipe for Ultimate Stew
+INFO: Un-removing Xtreme Crafting Recipe for Skullfire Sword
+INFO: Un-removing Xtreme Crafting Recipe for Sword of the Cosmos
+INFO: Un-removing Xtreme Crafting Recipe for World Breaker
+INFO: Un-removing Xtreme Crafting Recipe for Infinity Ingot
+INFO: Un-removing Xtreme Crafting Recipe for Infinity Catalyst
+INFO: Un-adding Xtreme Crafting Recipe for Creative Vending Upgrade
+INFO: Un-adding Xtreme Crafting Recipe for The Everlasting Guilty Pool
+INFO: Removing recipe for The Everlasting Guilty Pool
+INFO: Un-adding Xtreme Crafting Recipe for Creative Portable Tank
+INFO: Removing recipe for Creative Portable Tank
+INFO: Un-adding Xtreme Crafting Recipe for Creative Energy Cell
+INFO: Un-adding Xtreme Crafting Recipe for Creative Energy Cell
+INFO: Removing recipe for Creative Energy Cell
+INFO: Removing recipe for Creative Energy Cube
+INFO: Removing recipe for Creative Capacitor Bank
+INFO: Removing recipe for Creative Energy Cell
+INFO: Removing recipe for Creative Energy Cell
+INFO: Removing recipe for Infinity Catalyst
+INFO: Un-removing Xtreme Crafting Recipe for Neutronium Compressor
+INFO: Un-removing Xtreme Crafting Recipe for Neutron Collector
+INFO: Removing recipe for Silver Card
+INFO: Removing recipe for Iron Card
+INFO: Removing recipe for Gold Card
+INFO: Removing recipe for Bronze Card
+INFO: Removing recipe for Iron Card
+INFO: Removing recipe for 10 Credit Bill
+INFO: Removing recipe for 200 Credit Bill
+INFO: Removing recipe for 200 Credit Bill
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <Currency:SteelCard>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill100>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill50>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill10>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill10>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill25>
+INFO: Removing recipe for Cotton Seed
+INFO: Removing recipe for Canola Seeds
+INFO: Removing recipe for Industrial Hemp Seeds
+INFO: Removing recipe for Mystical Black Flower Seeds
+INFO: Removing recipe for Mystical Red Flower Seeds
+INFO: Removing recipe for Mystical Green Flower Seeds
+INFO: Removing recipe for Mystical Brown Flower Seeds
+INFO: Removing recipe for Mystical Blue Flower Seeds
+INFO: Removing recipe for Mystical Purple Flower Seeds
+INFO: Removing recipe for Mystical Cyan Flower Seeds
+INFO: Removing recipe for Mystical Light Gray Flower Seeds
+INFO: Removing recipe for Mystical Gray Flower Seeds
+INFO: Removing recipe for Mystical Pink Flower Seeds
+INFO: Removing recipe for Mystical Lime Flower Seeds
+INFO: Removing recipe for Mystical Yellow Flower Seeds
+INFO: Removing recipe for Mystical Light Blue Flower Seeds
+INFO: Removing recipe for Mystical Magenta Flower Seeds
+INFO: Removing recipe for Mystical Orange Flower Seeds
+INFO: Removing recipe for Mystical White Flower Seeds
+INFO: Removing recipe for Taint Root Seeds
+INFO: Removing recipe for Vishroom Spores
+INFO: Removing recipe for Shimmerleaf Seeds
+INFO: Removing recipe for Cinderpearl Seeds
+INFO: Removing recipe for Water Chestnut Seed
+INFO: Removing recipe for Sesame Seeds Seed
+INFO: Removing recipe for Curry Leaf Seed
+INFO: Removing recipe for Spinach Seed
+INFO: Removing recipe for Bamboo Shoot Seed
+INFO: Removing recipe for Zucchini Seed
+INFO: Removing recipe for Winter Squash Seed
+INFO: Removing recipe for Tomato Seed
+INFO: Removing recipe for Strawberry Seed
+INFO: Removing recipe for Seaweed Seed
+INFO: Removing recipe for Rhubarb Seed
+INFO: Removing recipe for Raspberry Seed
+INFO: Removing recipe for Peas Seed
+INFO: Removing recipe for Mustard Seed
+INFO: Removing recipe for Kiwi Seed
+INFO: Removing recipe for Grape Seed
+INFO: Removing recipe for Eggplant Seed
+INFO: Removing recipe for Cucumber Seed
+INFO: Removing recipe for Corn Seed
+INFO: Removing recipe for Coffee Seed
+INFO: Removing recipe for Chili Pepper Seed
+INFO: Removing recipe for Cantaloupe Seed
+INFO: Removing recipe for Cactus Fruit Seed
+INFO: Removing recipe for Blueberry Seed
+INFO: Removing recipe for Blackberry Seed
+INFO: Removing recipe for Bellpepper Seed
+INFO: Removing recipe for White Mushroom Spore
+INFO: Removing recipe for Turnip Seed
+INFO: Removing recipe for Tea Seed
+INFO: Removing recipe for Sweet Potato Seed
+INFO: Removing recipe for Sunflower Seeds
+INFO: Removing recipe for Spice Leaf Seed
+INFO: Removing recipe for Soybean Seed
+INFO: Removing recipe for Scallion Seed
+INFO: Removing recipe for Rye Seed
+INFO: Removing recipe for Radish Seed
+INFO: Removing recipe for Pineapple Seed
+INFO: Removing recipe for Peanut Seed
+INFO: Removing recipe for Parsnip Seed
+INFO: Removing recipe for Onion Seed
+INFO: Removing recipe for Oats Seed
+INFO: Removing recipe for Lettuce Seed
+INFO: Removing recipe for Leek Seed
+INFO: Removing recipe for Ginger Seed
+INFO: Removing recipe for Garlic Seed
+INFO: Removing recipe for Cranberry Seed
+INFO: Removing recipe for Celery Seed
+INFO: Removing recipe for Cauliflower Seed
+INFO: Removing recipe for Broccoli Seed
+INFO: Removing recipe for Beet Seed
+INFO: Removing recipe for Bean Seed
+INFO: Removing recipe for Barley Seed
+INFO: Removing recipe for Asparagus Seed
+INFO: Removing recipe for Melon Seeds
+INFO: Removing recipe for Pumpkin Seeds
+INFO: Removing recipe for Seeds
+INFO: Removing recipe for Brown Mushroom Spores
+INFO: Removing recipe for Red Mushroom Spores
+INFO: Removing recipe for Cactus Seeds
+INFO: Removing recipe for Daisy Seeds
+INFO: Removing recipe for Pink Tulip Seeds
+INFO: Removing recipe for White Tulip Seeds
+INFO: Removing recipe for Orange Tulip Seeds
+INFO: Removing recipe for Red Tulip Seeds
+INFO: Removing recipe for Allium Seeds
+INFO: Removing recipe for Blue Orchid Seeds
+INFO: Removing recipe for Poppy Seeds
+INFO: Removing recipe for Dandelion Seeds
+INFO: Removing recipe for Sugarcane Seeds
+INFO: Removing recipe for Carrot Seeds
+INFO: Removing recipe for Potato Seeds
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <BigReactors:BRIngot>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <ThermalFoundation:Ore:4>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <TConstruct:GravelOre:4>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <ThermalFoundation:Ore:5>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <ThermalFoundation:Ore:3>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <ThermalFoundation:Ore:2>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <ThermalFoundation:Ore>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <ThermalFoundation:Ore:1>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <appliedenergistics2:tile.OreQuartz>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <minecraft:quartz_ore>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <minecraft:emerald_ore>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <minecraft:diamond_ore>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <minecraft:lapis_ore>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <minecraft:redstone_ore>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <minecraft:coal_ore>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <minecraft:gold_ore>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <minecraft:iron_ore>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill50>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill25>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill50>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill25>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill10>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill25>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill25>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill200>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill200>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill10>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill10>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill200>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill200>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill50>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill10>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill10>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill50>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill25>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <Currency:IronCard>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <Currency:IronCard>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <Currency:IronCard>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <Currency:IronCard>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill100>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <Botania:blackLotus:1>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <Botania:overgrowthSeed>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill100>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill100>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill25>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill100>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill100>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill100>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill10>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill10>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill100>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill25>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill100>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill100>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill100>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill100>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <minecraft:slime_ball>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <minecraft:spider_eye>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <minecraft:string>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <minecraft:arrow>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <minecraft:ghast_tear>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <minecraft:blaze_rod>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <minecraft:ender_pearl>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <minecraft:gunpowder>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <minecraft:bone>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <minecraft:rotten_flesh>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill100>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill100>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill100>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill25>
+INFO: Removing recipe for Taint Root Seeds
+INFO: Removing recipe for Vishroom Spores
+INFO: Removing recipe for Shimmerleaf Seeds
+INFO: Removing recipe for Cinderpearl Seeds
+INFO: Removing recipe for Cotton Seed
+INFO: Removing recipe for Rye Seed
+INFO: Removing recipe for Corn Seed
+INFO: Removing recipe for Barley Seed
+INFO: Removing recipe for Water Chestnut Seed
+INFO: Removing recipe for Sesame Seeds Seed
+INFO: Removing recipe for Curry Leaf Seed
+INFO: Removing recipe for White Mushroom Spore
+INFO: Removing recipe for Zucchini Seed
+INFO: Removing recipe for Winter Squash Seed
+INFO: Removing recipe for Turnip Seed
+INFO: Removing recipe for Tomato Seed
+INFO: Removing recipe for Tea Seed
+INFO: Removing recipe for Sweet Potato Seed
+INFO: Removing recipe for Spice Leaf Seed
+INFO: Removing recipe for Soybean Seed
+INFO: Removing recipe for Seaweed Seed
+INFO: Removing recipe for Scallion Seed
+INFO: Removing recipe for Rutabaga Seed
+INFO: Removing recipe for Rice Seed
+INFO: Removing recipe for Rhubarb Seed
+INFO: Removing recipe for Raspberry Seed
+INFO: Removing recipe for Strawberry Seed
+INFO: Removing recipe for Radish Seed
+INFO: Removing recipe for Pineapple Seed
+INFO: Removing recipe for Peas Seed
+INFO: Removing recipe for Peanut Seed
+INFO: Removing recipe for Parsnip Seed
+INFO: Removing recipe for Onion Seed
+INFO: Removing recipe for Okra Seed
+INFO: Removing recipe for Oats Seed
+INFO: Removing recipe for Mustard Seed
+INFO: Removing recipe for Spinach Seed
+INFO: Removing recipe for Lettuce Seed
+INFO: Removing recipe for Leek Seed
+INFO: Removing recipe for Kiwi Seed
+INFO: Removing recipe for Grape Seed
+INFO: Removing recipe for Ginger Seed
+INFO: Removing recipe for Garlic Seed
+INFO: Removing recipe for Eggplant Seed
+INFO: Removing recipe for Cucumber Seed
+INFO: Removing recipe for Cranberry Seed
+INFO: Removing recipe for Coffee Seed
+INFO: Removing recipe for Chili Pepper Seed
+INFO: Removing recipe for Celery Seed
+INFO: Removing recipe for Cauliflower Seed
+INFO: Removing recipe for Cantaloupe Seed
+INFO: Removing recipe for Candleberry Seed
+INFO: Removing recipe for Cactus Fruit Seed
+INFO: Removing recipe for Cabbage Seed
+INFO: Removing recipe for Brussel Sprout Seed
+INFO: Removing recipe for Broccoli Seed
+INFO: Removing recipe for Blueberry Seed
+INFO: Removing recipe for Blackberry Seed
+INFO: Removing recipe for Bellpepper Seed
+INFO: Removing recipe for Beet Seed
+INFO: Removing recipe for Bean Seed
+INFO: Removing recipe for Bamboo Shoot Seed
+INFO: Removing recipe for Asparagus Seed
+INFO: Removing recipe for Artichoke Seed
+INFO: Removing recipe for Mystical Brown Flower Seeds
+INFO: Removing recipe for Mystical Light Gray Flower Seeds
+INFO: Removing recipe for Mystical Gray Flower Seeds
+INFO: Removing recipe for Mystical White Flower Seeds
+INFO: Removing recipe for Mystical Black Flower Seeds
+INFO: Removing recipe for Mystical Light Blue Flower Seeds
+INFO: Removing recipe for Mystical Cyan Flower Seeds
+INFO: Removing recipe for Mystical Lime Flower Seeds
+INFO: Removing recipe for Mystical Pink Flower Seeds
+INFO: Removing recipe for Mystical Magenta Flower Seeds
+INFO: Removing recipe for Mystical Green Flower Seeds
+INFO: Removing recipe for Mystical Purple Flower Seeds
+INFO: Removing recipe for Mystical Orange Flower Seeds
+INFO: Removing recipe for Mystical Blue Flower Seeds
+INFO: Removing recipe for Mystical Yellow Flower Seeds
+INFO: Removing recipe for Mystical Red Flower Seeds
+INFO: Removing recipe for Brown Mushroom Spores
+INFO: Removing recipe for Red Mushroom Spores
+INFO: Removing recipe for Daisy Seeds
+INFO: Removing recipe for Pink Tulip Seeds
+INFO: Removing recipe for White Tulip Seeds
+INFO: Removing recipe for Orange Tulip Seeds
+INFO: Removing recipe for Red Tulip Seeds
+INFO: Removing recipe for Allium Seeds
+INFO: Removing recipe for Blue Orchid Seeds
+INFO: Removing recipe for Dandelion Seeds
+INFO: Removing recipe for Poppy Seeds
+INFO: Removing recipe for Melon Seeds
+INFO: Removing recipe for Pumpkin Seeds
+INFO: Removing recipe for Cactus Seeds
+INFO: Removing recipe for Sugarcane Seeds
+INFO: tried to remove command: mfr failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: thermalexpansion failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: aspectList failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: research failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: tconstruct failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: modifiers failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: materials failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: mekanism failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: gases failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: chiselVariations failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: chiselGroups failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: botania failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: botaniaOrechid failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: lexiconKnowledgeTypes failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: botaniaBrews failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: lexiconPages failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: lexiconCategories failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: appeng failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: entities failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: tooltips failed. THIS IS NOT AN ERROR!
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: Adding recipe for Sugarcane Seeds
+INFO: Adding recipe for Cactus Seeds
+INFO: Adding recipe for Pumpkin Seeds
+INFO: Adding recipe for Melon Seeds
+INFO: Adding recipe for Poppy Seeds
+INFO: Adding recipe for Dandelion Seeds
+INFO: Adding recipe for Blue Orchid Seeds
+INFO: Adding recipe for Allium Seeds
+INFO: Adding recipe for Red Tulip Seeds
+INFO: Adding recipe for Orange Tulip Seeds
+INFO: Adding recipe for White Tulip Seeds
+INFO: Adding recipe for Pink Tulip Seeds
+INFO: Adding recipe for Daisy Seeds
+INFO: Adding recipe for Red Mushroom Spores
+INFO: Adding recipe for Brown Mushroom Spores
+INFO: Adding recipe for Mystical Red Flower Seeds
+INFO: Adding recipe for Mystical Yellow Flower Seeds
+INFO: Adding recipe for Mystical Blue Flower Seeds
+INFO: Adding recipe for Mystical Orange Flower Seeds
+INFO: Adding recipe for Mystical Purple Flower Seeds
+INFO: Adding recipe for Mystical Green Flower Seeds
+INFO: Adding recipe for Mystical Magenta Flower Seeds
+INFO: Adding recipe for Mystical Pink Flower Seeds
+INFO: Adding recipe for Mystical Lime Flower Seeds
+INFO: Adding recipe for Mystical Cyan Flower Seeds
+INFO: Adding recipe for Mystical Light Blue Flower Seeds
+INFO: Adding recipe for Mystical Black Flower Seeds
+INFO: Adding recipe for Mystical White Flower Seeds
+INFO: Adding recipe for Mystical Gray Flower Seeds
+INFO: Adding recipe for Mystical Light Gray Flower Seeds
+INFO: Adding recipe for Mystical Brown Flower Seeds
+INFO: Adding recipe for Artichoke Seed
+INFO: Adding recipe for Asparagus Seed
+INFO: Adding recipe for Bamboo Shoot Seed
+INFO: Adding recipe for Bean Seed
+INFO: Adding recipe for Beet Seed
+INFO: Adding recipe for Bellpepper Seed
+INFO: Adding recipe for Blackberry Seed
+INFO: Adding recipe for Blueberry Seed
+INFO: Adding recipe for Broccoli Seed
+INFO: Adding recipe for Brussel Sprout Seed
+INFO: Adding recipe for Cabbage Seed
+INFO: Adding recipe for Cactus Fruit Seed
+INFO: Adding recipe for Candleberry Seed
+INFO: Adding recipe for Cantaloupe Seed
+INFO: Adding recipe for Cauliflower Seed
+INFO: Adding recipe for Celery Seed
+INFO: Adding recipe for Chili Pepper Seed
+INFO: Adding recipe for Coffee Seed
+INFO: Adding recipe for Cranberry Seed
+INFO: Adding recipe for Cucumber Seed
+INFO: Adding recipe for Eggplant Seed
+INFO: Adding recipe for Garlic Seed
+INFO: Adding recipe for Ginger Seed
+INFO: Adding recipe for Grape Seed
+INFO: Adding recipe for Kiwi Seed
+INFO: Adding recipe for Leek Seed
+INFO: Adding recipe for Lettuce Seed
+INFO: Adding recipe for Spinach Seed
+INFO: Adding recipe for Mustard Seed
+INFO: Adding recipe for Oats Seed
+INFO: Adding recipe for Okra Seed
+INFO: Adding recipe for Onion Seed
+INFO: Adding recipe for Parsnip Seed
+INFO: Adding recipe for Peanut Seed
+INFO: Adding recipe for Peas Seed
+INFO: Adding recipe for Pineapple Seed
+INFO: Adding recipe for Radish Seed
+INFO: Adding recipe for Strawberry Seed
+INFO: Adding recipe for Raspberry Seed
+INFO: Adding recipe for Rhubarb Seed
+INFO: Adding recipe for Rice Seed
+INFO: Adding recipe for Rutabaga Seed
+INFO: Adding recipe for Scallion Seed
+INFO: Adding recipe for Seaweed Seed
+INFO: Adding recipe for Soybean Seed
+INFO: Adding recipe for Spice Leaf Seed
+INFO: Adding recipe for Sweet Potato Seed
+INFO: Adding recipe for Tea Seed
+INFO: Adding recipe for Tomato Seed
+INFO: Adding recipe for Turnip Seed
+INFO: Adding recipe for Winter Squash Seed
+INFO: Adding recipe for Zucchini Seed
+INFO: Adding recipe for White Mushroom Spore
+INFO: Adding recipe for Curry Leaf Seed
+INFO: Adding recipe for Sesame Seeds Seed
+INFO: Adding recipe for Water Chestnut Seed
+INFO: Adding recipe for Barley Seed
+INFO: Adding recipe for Corn Seed
+INFO: Adding recipe for Rye Seed
+INFO: Adding recipe for Cotton Seed
+INFO: Adding recipe for Cinderpearl Seeds
+INFO: Adding recipe for Shimmerleaf Seeds
+INFO: Adding recipe for Vishroom Spores
+INFO: Adding recipe for Taint Root Seeds
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill25>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill100>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill100>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill100>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <minecraft:rotten_flesh>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <minecraft:bone>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <minecraft:gunpowder>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <minecraft:ender_pearl>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <minecraft:blaze_rod>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <minecraft:ghast_tear>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <minecraft:arrow>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <minecraft:string>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <minecraft:spider_eye>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <minecraft:slime_ball>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill100>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill100>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill100>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill100>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill25>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill100>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill10>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill10>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill100>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill100>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill100>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill25>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill100>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill100>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Botania:overgrowthSeed>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Botania:blackLotus:1>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill100>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:IronCard>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:IronCard>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:IronCard>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:IronCard>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill25>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill50>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill10>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill10>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill50>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill200>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill200>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill10>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill10>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill200>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill200>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill25>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill25>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill10>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill25>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill50>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill25>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill50>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <minecraft:iron_ore>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <minecraft:gold_ore>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <minecraft:coal_ore>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <minecraft:redstone_ore>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <minecraft:lapis_ore>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <minecraft:diamond_ore>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <minecraft:emerald_ore>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <minecraft:quartz_ore>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <appliedenergistics2:tile.OreQuartz>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <ThermalFoundation:Ore:1>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <ThermalFoundation:Ore>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <ThermalFoundation:Ore:2>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <ThermalFoundation:Ore:3>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <ThermalFoundation:Ore:5>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <TConstruct:GravelOre:4>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <ThermalFoundation:Ore:4>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <BigReactors:BRIngot>
+INFO: Adding recipe for Potato Seeds
+INFO: Adding recipe for Carrot Seeds
+INFO: Adding recipe for Sugarcane Seeds
+INFO: Adding recipe for Dandelion Seeds
+INFO: Adding recipe for Poppy Seeds
+INFO: Adding recipe for Blue Orchid Seeds
+INFO: Adding recipe for Allium Seeds
+INFO: Adding recipe for Red Tulip Seeds
+INFO: Adding recipe for Orange Tulip Seeds
+INFO: Adding recipe for White Tulip Seeds
+INFO: Adding recipe for Pink Tulip Seeds
+INFO: Adding recipe for Daisy Seeds
+INFO: Adding recipe for Cactus Seeds
+INFO: Adding recipe for Red Mushroom Spores
+INFO: Adding recipe for Brown Mushroom Spores
+INFO: Adding recipe for Seeds
+INFO: Adding recipe for Pumpkin Seeds
+INFO: Adding recipe for Melon Seeds
+INFO: Adding recipe for Asparagus Seed
+INFO: Adding recipe for Barley Seed
+INFO: Adding recipe for Bean Seed
+INFO: Adding recipe for Beet Seed
+INFO: Adding recipe for Broccoli Seed
+INFO: Adding recipe for Cauliflower Seed
+INFO: Adding recipe for Celery Seed
+INFO: Adding recipe for Cranberry Seed
+INFO: Adding recipe for Garlic Seed
+INFO: Adding recipe for Ginger Seed
+INFO: Adding recipe for Leek Seed
+INFO: Adding recipe for Lettuce Seed
+INFO: Adding recipe for Oats Seed
+INFO: Adding recipe for Onion Seed
+INFO: Adding recipe for Parsnip Seed
+INFO: Adding recipe for Peanut Seed
+INFO: Adding recipe for Pineapple Seed
+INFO: Adding recipe for Radish Seed
+INFO: Adding recipe for Rye Seed
+INFO: Adding recipe for Scallion Seed
+INFO: Adding recipe for Soybean Seed
+INFO: Adding recipe for Spice Leaf Seed
+INFO: Adding recipe for Sunflower Seeds
+INFO: Adding recipe for Sweet Potato Seed
+INFO: Adding recipe for Tea Seed
+INFO: Adding recipe for Turnip Seed
+INFO: Adding recipe for White Mushroom Spore
+INFO: Adding recipe for Bellpepper Seed
+INFO: Adding recipe for Blackberry Seed
+INFO: Adding recipe for Blueberry Seed
+INFO: Adding recipe for Cactus Fruit Seed
+INFO: Adding recipe for Cantaloupe Seed
+INFO: Adding recipe for Chili Pepper Seed
+INFO: Adding recipe for Coffee Seed
+INFO: Adding recipe for Corn Seed
+INFO: Adding recipe for Cucumber Seed
+INFO: Adding recipe for Eggplant Seed
+INFO: Adding recipe for Grape Seed
+INFO: Adding recipe for Kiwi Seed
+INFO: Adding recipe for Mustard Seed
+INFO: Adding recipe for Peas Seed
+INFO: Adding recipe for Raspberry Seed
+INFO: Adding recipe for Rhubarb Seed
+INFO: Adding recipe for Seaweed Seed
+INFO: Adding recipe for Strawberry Seed
+INFO: Adding recipe for Tomato Seed
+INFO: Adding recipe for Winter Squash Seed
+INFO: Adding recipe for Zucchini Seed
+INFO: Adding recipe for Bamboo Shoot Seed
+INFO: Adding recipe for Spinach Seed
+INFO: Adding recipe for Curry Leaf Seed
+INFO: Adding recipe for Sesame Seeds Seed
+INFO: Adding recipe for Water Chestnut Seed
+INFO: Adding recipe for Cinderpearl Seeds
+INFO: Adding recipe for Shimmerleaf Seeds
+INFO: Adding recipe for Vishroom Spores
+INFO: Adding recipe for Taint Root Seeds
+INFO: Adding recipe for Mystical White Flower Seeds
+INFO: Adding recipe for Mystical Orange Flower Seeds
+INFO: Adding recipe for Mystical Magenta Flower Seeds
+INFO: Adding recipe for Mystical Light Blue Flower Seeds
+INFO: Adding recipe for Mystical Yellow Flower Seeds
+INFO: Adding recipe for Mystical Lime Flower Seeds
+INFO: Adding recipe for Mystical Pink Flower Seeds
+INFO: Adding recipe for Mystical Gray Flower Seeds
+INFO: Adding recipe for Mystical Light Gray Flower Seeds
+INFO: Adding recipe for Mystical Cyan Flower Seeds
+INFO: Adding recipe for Mystical Purple Flower Seeds
+INFO: Adding recipe for Mystical Blue Flower Seeds
+INFO: Adding recipe for Mystical Brown Flower Seeds
+INFO: Adding recipe for Mystical Green Flower Seeds
+INFO: Adding recipe for Mystical Red Flower Seeds
+INFO: Adding recipe for Mystical Black Flower Seeds
+INFO: Adding recipe for Industrial Hemp Seeds
+INFO: Adding recipe for Canola Seeds
+INFO: Adding recipe for Cotton Seed
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill25>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill10>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill10>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill50>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:CreditBill100>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <Currency:SteelCard>
+INFO: Adding recipe for 200 Credit Bill
+INFO: Adding recipe for 200 Credit Bill
+INFO: Adding recipe for 10 Credit Bill
+INFO: Adding recipe for Iron Card
+INFO: Adding recipe for Bronze Card
+INFO: Adding recipe for Gold Card
+INFO: Adding recipe for Iron Card
+INFO: Adding recipe for Silver Card
+INFO: Removing Xtreme Crafting Recipe for Neutron Collector
+INFO: Removing Xtreme Crafting Recipe for Neutronium Compressor
+INFO: Adding recipe for Infinity Catalyst
+INFO: Adding recipe for Creative Energy Cell
+INFO: Adding recipe for Creative Energy Cell
+INFO: Adding recipe for Creative Capacitor Bank
+INFO: Adding recipe for Creative Energy Cube
+INFO: Adding recipe for Creative Energy Cell
+INFO: Adding Xtreme Crafting Recipe for Creative Energy Cell
+INFO: Adding Xtreme Crafting Recipe for Creative Energy Cell
+INFO: Adding recipe for Creative Portable Tank
+INFO: Adding Xtreme Crafting Recipe for Creative Portable Tank
+INFO: Adding recipe for The Everlasting Guilty Pool
+INFO: Adding Xtreme Crafting Recipe for The Everlasting Guilty Pool
+INFO: Adding Xtreme Crafting Recipe for Creative Vending Upgrade
+INFO: Removing Xtreme Crafting Recipe for Infinity Catalyst
+INFO: Removing Xtreme Crafting Recipe for Infinity Ingot
+INFO: Removing Xtreme Crafting Recipe for World Breaker
+INFO: Removing Xtreme Crafting Recipe for Sword of the Cosmos
+INFO: Removing Xtreme Crafting Recipe for Skullfire Sword
+INFO: Removing Xtreme Crafting Recipe for Ultimate Stew
+INFO: Removing Xtreme Crafting Recipe for Cosmic Meatballs
+INFO: Removing Xtreme Crafting Recipe for Endest Pearl
+INFO: Removing Xtreme Crafting Recipe for Infinity Helmet
+INFO: Removing Xtreme Crafting Recipe for Infinity Breastplate
+INFO: Removing Xtreme Crafting Recipe for Infinity Pants
+INFO: Removing Xtreme Crafting Recipe for Infinity Boots
+INFO: Removing Xtreme Crafting Recipe for Longbow of the Heavens
+INFO: Removing Xtreme Crafting Recipe for Planet Eater
+INFO: Removing Xtreme Crafting Recipe for Nature's Ruin
+INFO: Hiding item.infinity_pickaxe in NEI
+INFO: Hiding item.infinity_sword in NEI
+INFO: Hiding item.skullfire_sword in NEI
+INFO: Hiding item.avaritia_stew in NEI
+INFO: Hiding item.avaritia_meatballs in NEI
+INFO: Hiding item.avaritia_endest_pearl in NEI
+INFO: Hiding item.infinity_armor_0 in NEI
+INFO: Hiding item.infinity_armor_1 in NEI
+INFO: Hiding item.infinity_armor_2 in NEI
+INFO: Hiding item.infinity_armor_3 in NEI
+INFO: Hiding item.infinity_bow in NEI
+INFO: Hiding item.infinity_shovel in NEI
+INFO: Hiding item.infinity_axe in NEI
+INFO: Hiding item.avaritia_mattercluster in NEI
+INFO: Hiding tile.neutronium_compressor in NEI
+INFO: Hiding tile.neutron_collector in NEI
+INFO: Hiding item.singularity_iron in NEI
+INFO: Hiding item.singularity_gold in NEI
+INFO: Hiding item.singularity_lapis in NEI
+INFO: Hiding item.singularity_redstone in NEI
+INFO: Hiding item.singularity_quartz in NEI
+INFO: Hiding item.singularity_copper in NEI
+INFO: Hiding item.singularity_tin in NEI
+INFO: Hiding item.singularity_lead in NEI
+INFO: Hiding item.singularity_silver in NEI
+INFO: Hiding item.singularity_nickel in NEI
+INFO: Adding Rune of Lust to ore dictionary entry botaniaSinRune
+INFO: Adding Rune of Gluttony to ore dictionary entry botaniaSinRune
+INFO: Adding Rune of Greed to ore dictionary entry botaniaSinRune
+INFO: Adding Rune of Sloth to ore dictionary entry botaniaSinRune
+INFO: Adding Rune of Wrath to ore dictionary entry botaniaSinRune
+INFO: Adding Rune of Envy to ore dictionary entry botaniaSinRune
+INFO: Adding Rune of Pride to ore dictionary entry botaniaSinRune
+INFO: Adding Part Builder to ore dictionary entry TiCpartBuilder
+INFO: Adding Part Builder to ore dictionary entry TiCpartBuilder
+INFO: Adding Part Builder to ore dictionary entry TiCpartBuilder
+INFO: Adding Part Builder to ore dictionary entry TiCpartBuilder
+INFO: Adding Stencil Table to ore dictionary entry TiCstencilTable
+INFO: Adding Stencil Table to ore dictionary entry TiCstencilTable
+INFO: Adding Stencil Table to ore dictionary entry TiCstencilTable
+INFO: Adding Stencil Table to ore dictionary entry TiCstencilTable
+INFO: Removing 1 furnace recipes
+INFO: Adding recipe for Seared Brick
+INFO: Removing Blood Altar Recipe for Blank Slate
+INFO: Adding Blood Altar Recipe for Blank Slate
+INFO: Adding recipe for Dime
+INFO: Adding macerator recipe for Redstone
+INFO: Removing 2 recipes
+INFO: [ModTweaker2] Adding 1 Thaumcraft Infusion Recipe(s) for Philosopher's Stone
+INFO: Removing 2 recipes
+INFO: Adding compressor recipe for Dark Matter
+INFO: Removing 3 recipes
+INFO: Adding Blood Altar Recipe for Red Matter
+INFO: Removing 1 recipes
+INFO: [ModTweaker2] Adding 1 Thaumcraft Infusion Recipe(s) for Energy Condenser
+INFO: Removing 1 recipes
+INFO: [ModTweaker2] Adding 1 Thaumcraft Infusion Recipe(s) for Transmutation Table
+INFO: Removing 1 recipes
+INFO: Adding recipe for Transmutation Tablet
+INFO: Adding recipe for 5 Credit Bill
+INFO: Adding recipe for 50 Credit Bill
+INFO: Adding recipe for 200 Credit Bill
+INFO: Adding recipe for Iron Card
+INFO: Adding recipe for Steel Card
+WARNING: 4 modifications were stuck
+INFO: Stuck: Adding compressor recipe for Dark Matter
+INFO: Stuck: Adding macerator recipe for Redstone
+INFO: Stuck: Adding compressor recipe for Dark Matter
+INFO: Stuck: Adding macerator recipe for Redstone

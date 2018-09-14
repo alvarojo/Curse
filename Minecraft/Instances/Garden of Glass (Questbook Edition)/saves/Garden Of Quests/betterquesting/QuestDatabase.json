@@ -1,0 +1,6368 @@
+{
+  "build:8": "3.5.262",
+  "format:8": "2.0.0",
+  "questDatabase:9": {
+    "0:10": {
+      "questID:3": 0,
+      "preRequisites:11": [],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "minecraft:cobblestone",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeatTime:4": -1,
+          "globalShare:8": "false",
+          "questLogic:8": "AND",
+          "ismain:1": 0,
+          "lockedProgress:8": "false",
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "taskLogic:8": "AND",
+          "partySingleReward:8": "false",
+          "visibility:8": "ALWAYS",
+          "isMain:8": "false",
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "name:8": "My first Cobblestone",
+          "autoClaim:8": "false",
+          "isSilent:8": "false",
+          "desc:8": "Cobblestone is always the main resource to build stuff in Skyblock. It’s one of the most important materials to expand your island. But getting it without lava? Is that even possible? While sneaking, try to pet the dirt beneath you a little bit. Who knows, maybe it\u0027ll give you something in return?\n\nBruchstein ist in Skyblock immer die Hauptressource zum Bauen. Es ist eine der wichtigsten Materialien, um sich auszubreiten. Aber daran zu kommen, ohne Lava? Geht das überhaupt? Versuche beim Schleichen die Erde zu streicheln, vielleicht gibt sie dir ja etwas.\n"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 1,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "minecraft:cobblestone",
+              "Count:3": 64,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "minecraft:cobblestone",
+              "Count:3": 64,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          }
+        }
+      }
+    },
+    "1:10": {
+      "questID:3": 1,
+      "preRequisites:11": [],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "botania:manaresource",
+            "Count:3": 1,
+            "Damage:2": 20,
+            "OreDict:8": ""
+          },
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeatTime:4": -1,
+          "globalShare:8": "false",
+          "questLogic:8": "AND",
+          "ismain:1": 0,
+          "lockedProgress:8": "false",
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "taskLogic:8": "AND",
+          "partySingleReward:8": "false",
+          "visibility:8": "ALWAYS",
+          "isMain:8": "false",
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "name:8": "Old but Gold!",
+          "autoClaim:8": "false",
+          "isSilent:8": "false",
+          "desc:8": "You found some Living Roots on your island! Great job! Get them! You\u0027ll need a lot of plant material. Perhaps you can turn those roots back to living plants?\n\nDu hast alte Wurzeln auf deiner Insel gefunden! Hol sie dir! Du brauchst viel pflanzliches Material. Vielleicht kannst du die Wurzeln wieder zu lebenden Pflanzen regenerieren! \n"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "blocks:9": {
+            "0:10": {
+              "blockID:8": "botania:root",
+              "nbt:10": {},
+              "amount:3": 3,
+              "oreDict:8": "",
+              "meta:3": -1
+            }
+          },
+          "index:3": 0,
+          "taskID:8": "bq_standard:block_break"
+        },
+        "1:10": {
+          "partialMatch:1": 0,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 1,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "minecraft:sapling",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "1:10": {
+              "id:8": "botania:fertilizer",
+              "Count:3": 4,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:choice",
+          "index:3": 0,
+          "choices:9": {
+            "0:10": {
+              "id:8": "minecraft:sapling",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "1:10": {
+              "id:8": "minecraft:sapling",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 1
+            },
+            "2:10": {
+              "id:8": "minecraft:sapling",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 2
+            },
+            "3:10": {
+              "id:8": "minecraft:sapling",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 3
+            },
+            "4:10": {
+              "id:8": "minecraft:sapling",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 4
+            },
+            "5:10": {
+              "id:8": "minecraft:sapling",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 5
+            }
+          }
+        }
+      }
+    },
+    "2:10": {
+      "questID:3": 2,
+      "preRequisites:11": [
+        0,
+        1
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "minecraft:sapling",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeatTime:4": -1,
+          "globalShare:8": "false",
+          "questLogic:8": "AND",
+          "ismain:1": 0,
+          "lockedProgress:8": "false",
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "taskLogic:8": "AND",
+          "partySingleReward:8": "false",
+          "visibility:8": "ALWAYS",
+          "isMain:8": "false",
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "name:8": "Wood Wood",
+          "autoClaim:8": "false",
+          "isSilent:8": "false",
+          "desc:8": "Your first block of wood; you actually did it. Craft the first few items you would usually craft out of wood in Minecraft: Some Sticks, a Crafting Table, Chests, wooden armour. That is if you\u0027re able to at least.\n\nDein erstes Holz, du hast es geschafft. Baue dir die ersten Sachen, die man sich so aus Holz in Minecraft baut. Stöcke, Werkbank, Truhen, Holzrüstung. Also wenn du das schaffst."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 0,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "minecraft:crafting_table",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "1:10": {
+              "id:8": "minecraft:stick",
+              "Count:3": 4,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:choice",
+          "index:3": 0,
+          "choices:9": {
+            "0:10": {
+              "id:8": "minecraft:stone_sword",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "1:10": {
+              "id:8": "minecraft:stone_shovel",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "2:10": {
+              "id:8": "minecraft:stone_pickaxe",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "3:10": {
+              "id:8": "minecraft:stone_axe",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "4:10": {
+              "id:8": "minecraft:stone_hoe",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          }
+        }
+      }
+    },
+    "3:10": {
+      "questID:3": 3,
+      "preRequisites:11": [
+        0,
+        2
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "botania:altar",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeatTime:4": -1,
+          "globalShare:8": "false",
+          "questLogic:8": "AND",
+          "ismain:1": 0,
+          "lockedProgress:8": "false",
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "taskLogic:8": "AND",
+          "partySingleReward:8": "false",
+          "visibility:8": "ALWAYS",
+          "isMain:8": "false",
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "name:8": "Start of Botania",
+          "autoClaim:8": "false",
+          "isSilent:8": "false",
+          "desc:8": "With that much Cobblestone you can finally craft even more stuff. What about Furnaces or some Pure Daisies? That\u0027ll do it. \nTip: Use bowls on water.\n\nMit dem gewonnenen Bruchstein kannst du nun endlich mehr Sachen herstellen. Ofen? Reines Gänseblümchen? Klingt geil.\nPS: Benutze Schüsseln für Wasser.\n"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 0,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "minecraft:furnace",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "1:10": {
+              "id:8": "botania:altar",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        },
+        "1:10": {
+          "partialMatch:1": 0,
+          "autoConsume:1": 0,
+          "groupDetect:1": 1,
+          "ignoreNBT:1": 0,
+          "index:3": 1,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "botania:specialflower",
+              "Count:3": 1,
+              "tag:10": {
+                "type:8": "puredaisy"
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "botania:livingrock",
+              "Count:3": 8,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "1:10": {
+              "id:8": "botania:livingwood",
+              "Count:3": 8,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "2:10": {
+              "id:8": "botania:specialflower",
+              "Count:3": 1,
+              "tag:10": {
+                "type:8": "endoflame"
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          }
+        }
+      }
+    },
+    "4:10": {
+      "questID:3": 4,
+      "preRequisites:11": [
+        1
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "botania:flower",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeatTime:4": -1,
+          "globalShare:8": "false",
+          "questLogic:8": "AND",
+          "ismain:1": 0,
+          "lockedProgress:8": "false",
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "taskLogic:8": "AND",
+          "partySingleReward:8": "false",
+          "visibility:8": "ALWAYS",
+          "isMain:8": "false",
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "name:8": "All the Flowers",
+          "autoClaim:8": "false",
+          "isSilent:8": "false",
+          "desc:8": "Bellethornes are red, Hydroangeas are blue, Botania has many flowers, all of them for you.\n\nBelldorns sind rot, Hydroangeas sind blau, Minecraft hat 16 Farben, du brauchst Blumen, genau.\n"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 0,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "botania:flower",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "1:10": {
+              "id:8": "botania:flower",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 1
+            },
+            "2:10": {
+              "id:8": "botania:flower",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 2
+            },
+            "3:10": {
+              "id:8": "botania:flower",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 3
+            },
+            "4:10": {
+              "id:8": "botania:flower",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 4
+            },
+            "5:10": {
+              "id:8": "botania:flower",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 5
+            },
+            "6:10": {
+              "id:8": "botania:flower",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 6
+            },
+            "7:10": {
+              "id:8": "botania:flower",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 7
+            },
+            "8:10": {
+              "id:8": "botania:flower",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 8
+            },
+            "9:10": {
+              "id:8": "botania:flower",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 9
+            },
+            "10:10": {
+              "id:8": "botania:flower",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 10
+            },
+            "11:10": {
+              "id:8": "botania:flower",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 11
+            },
+            "12:10": {
+              "id:8": "botania:flower",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 12
+            },
+            "13:10": {
+              "id:8": "botania:flower",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 13
+            },
+            "14:10": {
+              "id:8": "botania:flower",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 14
+            },
+            "15:10": {
+              "id:8": "botania:flower",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 15
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:choice",
+          "index:3": 0,
+          "choices:9": {
+            "0:10": {
+              "id:8": "botania:fertilizer",
+              "Count:3": 16,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "1:10": {
+              "id:8": "minecraft:wheat_seeds",
+              "Count:3": 16,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "2:10": {
+              "id:8": "botania:twigwand",
+              "Count:3": 1,
+              "tag:10": {
+                "color1:3": 0,
+                "color2:3": 0
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          }
+        },
+        "1:10": {
+          "amount:3": 5,
+          "rewardID:8": "bq_standard:xp",
+          "isLevels:1": 1,
+          "index:3": 1
+        }
+      }
+    },
+    "5:10": {
+      "questID:3": 5,
+      "preRequisites:11": [
+        4,
+        3
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "botania:specialflower",
+            "Count:3": 1,
+            "tag:10": {
+              "type:8": "orechid"
+            },
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeatTime:4": -1,
+          "globalShare:8": "false",
+          "questLogic:8": "AND",
+          "ismain:1": 0,
+          "lockedProgress:8": "false",
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "taskLogic:8": "AND",
+          "partySingleReward:8": "false",
+          "visibility:8": "ALWAYS",
+          "isMain:8": "false",
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "name:8": "Mine those Ores",
+          "autoClaim:8": "false",
+          "isSilent:8": "false",
+          "desc:8": "Minecraft without ores? What are you thinking?! The Orechid will help you with that. Just place down some Stone near it, give it some of your Mana and let the \"mining\" begin!\n\nMinecraft ohne Erze? Nein! Die Erzblüte hilft dir. Setze einfach Stein in ihre Nähe, gib ihr Mana und sie wird dich beglücken.\n"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 0,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "botania:specialflower",
+              "Count:3": 1,
+              "tag:10": {
+                "type:8": "orechid"
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "1:10": {
+              "id:8": "minecraft:gold_ore",
+              "Count:3": 5,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "2:10": {
+              "id:8": "minecraft:iron_ore",
+              "Count:3": 10,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "3:10": {
+              "id:8": "minecraft:redstone",
+              "Count:3": 25,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        },
+        "1:10": {
+          "blocks:9": {
+            "0:10": {
+              "blockID:8": "minecraft:coal_ore",
+              "nbt:10": {},
+              "amount:3": 10,
+              "oreDict:8": "",
+              "meta:3": -1
+            },
+            "1:10": {
+              "blockID:8": "minecraft:lapis_ore",
+              "nbt:10": {},
+              "amount:3": 5,
+              "oreDict:8": "",
+              "meta:3": -1
+            },
+            "2:10": {
+              "blockID:8": "minecraft:diamond_ore",
+              "nbt:10": {},
+              "amount:3": 3,
+              "oreDict:8": "",
+              "meta:3": -1
+            },
+            "3:10": {
+              "blockID:8": "minecraft:emerald_ore",
+              "nbt:10": {},
+              "amount:3": 1,
+              "oreDict:8": "",
+              "meta:3": -1
+            }
+          },
+          "index:3": 1,
+          "taskID:8": "bq_standard:block_break"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "amount:3": 10,
+          "rewardID:8": "bq_standard:xp",
+          "isLevels:1": 1,
+          "index:3": 0
+        },
+        "1:10": {
+          "rewardID:8": "bq_standard:choice",
+          "index:3": 1,
+          "choices:9": {
+            "0:10": {
+              "id:8": "minecraft:ender_pearl",
+              "Count:3": 5,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "1:10": {
+              "id:8": "minecraft:pumpkin_seeds",
+              "Count:3": 5,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "2:10": {
+              "id:8": "minecraft:melon_seeds",
+              "Count:3": 5,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          }
+        }
+      }
+    },
+    "6:10": {
+      "questID:3": 19,
+      "preRequisites:11": [
+        3,
+        4
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "botania:manatablet",
+            "Count:3": 1,
+            "tag:10": {
+              "mana:3": 500000,
+              "creative:1": 1
+            },
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeatTime:4": -1,
+          "globalShare:8": "false",
+          "questLogic:8": "AND",
+          "ismain:1": 0,
+          "lockedProgress:8": "false",
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "taskLogic:8": "AND",
+          "partySingleReward:8": "false",
+          "visibility:8": "ALWAYS",
+          "isMain:8": "false",
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "name:8": "Mana Tablet",
+          "autoClaim:8": "false",
+          "isSilent:8": "false",
+          "desc:8": "Mana in a Pool? Everyone can do that, but a Manatablet? That is something special! You\u0027ll need the Mana Tablet to craft special armour and tools, all of which can be repaired using Mana! But beware: If there\u0027s no Mana left, your tools will start to break.\n\nMana in einem Pool? Das kann jeder. Aber ein Manatablett? Das hat nicht jeder! Jedoch kann man sich Rüstung und Werkzeuge bauen, die sich durch Mana reparieren lassen! Dafür brauchst du dieses Tablett! Aber Achtung: Wenn kein Mana mehr im Tablett ist, gehen deine Sachen kaputt.\n"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 0,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "botania:manatablet",
+              "Count:3": 1,
+              "tag:10": {},
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "botania:manatablet",
+              "Count:3": 1,
+              "tag:10": {
+                "mana:3": 500000
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          }
+        }
+      }
+    },
+    "7:10": {
+      "questID:3": 20,
+      "preRequisites:11": [
+        3,
+        4,
+        45
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "botania:runealtar",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeatTime:4": -1,
+          "globalShare:8": "false",
+          "questLogic:8": "AND",
+          "ismain:1": 0,
+          "lockedProgress:8": "false",
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "taskLogic:8": "AND",
+          "partySingleReward:8": "false",
+          "visibility:8": "ALWAYS",
+          "isMain:8": "false",
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "name:8": "Runes",
+          "autoClaim:8": "false",
+          "isSilent:8": "false",
+          "desc:8": "Runes are the key to a whole lot of resources, flowers and more. Note that for some items you have to go to the Nether and get some stuff from there.\n\nRunen sind der Schlüssel zu vielen Ressourcen, Blumen und mehr. Beachte, dass du für manche Sachen in den Nether musst und Sachen von dort brauchst.\n"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 0,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 1,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "botania:runealtar",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "1:10": {
+              "id:8": "botania:rune",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "2:10": {
+              "id:8": "botania:rune",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 1
+            },
+            "3:10": {
+              "id:8": "botania:rune",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 2
+            },
+            "4:10": {
+              "id:8": "botania:rune",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 3
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:choice",
+          "index:3": 0,
+          "choices:9": {
+            "0:10": {
+              "id:8": "botania:rune",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 4
+            },
+            "1:10": {
+              "id:8": "botania:rune",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 5
+            },
+            "2:10": {
+              "id:8": "botania:rune",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 6
+            },
+            "3:10": {
+              "id:8": "botania:rune",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 7
+            }
+          }
+        }
+      }
+    },
+    "8:10": {
+      "questID:3": 21,
+      "preRequisites:11": [
+        3,
+        4,
+        45
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "minecraft:blaze_rod",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeatTime:4": -1,
+          "globalShare:8": "false",
+          "questLogic:8": "AND",
+          "ismain:1": 0,
+          "lockedProgress:8": "false",
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "taskLogic:8": "AND",
+          "partySingleReward:8": "false",
+          "visibility:8": "ALWAYS",
+          "isMain:8": "false",
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "name:8": "Nether Looting",
+          "autoClaim:8": "false",
+          "isSilent:8": "false",
+          "desc:8": "The Nether is a dark place. Ok, it\u0027s a red place. And with a really crazy texture pack the nether might even be blue. Anyway, you need stuff from the Nether (again). Blaze Powder might do it... But you need Blaze §lRods§l§r§r§r§n§r. Oh and make those huge white cubes cry. You\u0027ll need that eventually\n\nDer Nether ist ein dunkler Ort. Ok, es ist ein roter Ort. Mit einem verrückten Texture Pack ist es vielleicht ein blauer Ort. Wie auch immer, du brauchst Sachen aus dem Nether. Lohenstaub ist gut, aber du brauchst §lLohenruten§l§r§r§r§n§r. Und lass die großen Geister weinen. Du kannst es gut gebrauchen.\n"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 0,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "minecraft:blaze_rod",
+              "Count:3": 10,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "1:10": {
+              "id:8": "minecraft:ghast_tear",
+              "Count:3": 3,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:choice",
+          "index:3": 0,
+          "choices:9": {
+            "0:10": {
+              "id:8": "botania:alchemycatalyst",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "1:10": {
+              "id:8": "botania:specialflower",
+              "Count:3": 1,
+              "tag:10": {
+                "type:8": "gourmaryllis"
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          }
+        },
+        "1:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 101
+            }
+          }
+        }
+      }
+    },
+    "9:10": {
+      "questID:3": 22,
+      "preRequisites:11": [
+        20,
+        19
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "botania:terraplate",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeatTime:4": -1,
+          "globalShare:8": "false",
+          "questLogic:8": "AND",
+          "ismain:1": 0,
+          "lockedProgress:8": "false",
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "taskLogic:8": "AND",
+          "partySingleReward:8": "false",
+          "visibility:8": "ALWAYS",
+          "isMain:8": "false",
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "name:8": "Terrestrial Agglomeration Plate",
+          "autoClaim:8": "false",
+          "isSilent:8": "false",
+          "desc:8": "A plate with the power to combine three items to a mighty Terrasteel Ingot. Use it and you\u0027ll get access to a really pink world \\(^.^)/\n\nEine Platte mit der Macht, 3 Items zu einem mächtigen Terrastahlbarren zu vereinen. Nutze es und du bekommst Zugang zu einer pinkeren Welt \\(^.^)/\n"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 0,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "botania:terraplate",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:choice",
+          "index:3": 0,
+          "choices:9": {
+            "0:10": {
+              "id:8": "botania:monocle",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "1:10": {
+              "id:8": "botania:specialflower",
+              "Count:3": 4,
+              "tag:10": {
+                "type:8": "endoflame"
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "2:10": {
+              "id:8": "botania:spark",
+              "Count:3": 2,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          }
+        }
+      }
+    },
+    "10:10": {
+      "questID:3": 23,
+      "preRequisites:11": [
+        22,
+        21,
+        5
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "botania:manaresource",
+            "Count:3": 1,
+            "Damage:2": 4,
+            "OreDict:8": ""
+          },
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeatTime:4": -1,
+          "globalShare:8": "false",
+          "questLogic:8": "AND",
+          "ismain:1": 0,
+          "lockedProgress:8": "false",
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "taskLogic:8": "AND",
+          "partySingleReward:8": "false",
+          "visibility:8": "ALWAYS",
+          "isMain:8": "false",
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "name:8": "Terrasteel",
+          "autoClaim:8": "false",
+          "isSilent:8": "false",
+          "desc:8": "Combine a Mana Pearl, a Mana Diamond and a Manasteel Ingot and you\u0027ve got yourself the most ultimate Ingot there is! With that you can craft a powerful armour. And this ingot is also used to craft the Portal to Alfheim. Aaaand for Gaia, but this is not the right time to talk about that, at least for now...\n\nKombiniert man eine Manaperle, einen Manadiamanten und einen Manastahlbarren wird es ultimativer Barren erschaffen. Aus diesem Material kann man eine mächtige Rüstung herstellen. Und er wird für das Portal nach Alfheim gebraucht. Und den Gaia, aber das ist noch nicht der richtige Moment, um darüber zu reden.\n"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 0,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "botania:manaresource",
+              "Count:3": 2,
+              "OreDict:8": "",
+              "Damage:3": 4
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:choice",
+          "index:3": 0,
+          "choices:9": {
+            "0:10": {
+              "id:8": "botania:terrasteelhelm",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "1:10": {
+              "id:8": "botania:terrasteelchest",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "2:10": {
+              "id:8": "botania:terrasteellegs",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "3:10": {
+              "id:8": "botania:terrasteelboots",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "4:10": {
+              "id:8": "botania:terrasword",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          }
+        }
+      }
+    },
+    "11:10": {
+      "questID:3": 24,
+      "preRequisites:11": [
+        23
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "botania:alfheimportal",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeatTime:4": -1,
+          "globalShare:8": "false",
+          "questLogic:8": "AND",
+          "ismain:1": 0,
+          "lockedProgress:8": "false",
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "taskLogic:8": "AND",
+          "partySingleReward:8": "false",
+          "visibility:8": "ALWAYS",
+          "isMain:8": "false",
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "name:8": "Portal to Alfheim",
+          "autoClaim:8": "false",
+          "isSilent:8": "false",
+          "desc:8": "Mana resources are quite nice, sure, but the Elves in the other world would give you way cooler - and most importantly pink - stuff.\n\nMana Ressourcen sind ja ganz nett, aber die Elfen in der anderen Welt bekommen wir viel coolere pinke Sachen.\n"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 0,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "botania:livingwood",
+              "Count:3": 8,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "1:10": {
+              "id:8": "botania:livingwood",
+              "Count:3": 3,
+              "OreDict:8": "",
+              "Damage:3": 5
+            },
+            "2:10": {
+              "id:8": "botania:alfheimportal",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "3:10": {
+              "id:8": "botania:pylon",
+              "Count:3": 2,
+              "OreDict:8": "",
+              "Damage:3": 1
+            },
+            "4:10": {
+              "id:8": "botania:pool",
+              "Count:3": 2,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "amount:3": 10,
+          "rewardID:8": "bq_standard:xp",
+          "isLevels:1": 1,
+          "index:3": 0
+        }
+      }
+    },
+    "12:10": {
+      "questID:3": 25,
+      "preRequisites:11": [
+        24,
+        23
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "botania:manaresource",
+            "Count:3": 1,
+            "Damage:2": 8,
+            "OreDict:8": ""
+          },
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeatTime:4": -1,
+          "globalShare:8": "false",
+          "questLogic:8": "AND",
+          "ismain:1": 0,
+          "lockedProgress:8": "false",
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "taskLogic:8": "AND",
+          "partySingleReward:8": "false",
+          "visibility:8": "ALWAYS",
+          "isMain:8": "false",
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "name:8": "Elven Trade",
+          "autoClaim:8": "false",
+          "isSilent:8": "false",
+          "desc:8": "Elves are really kind. They really enjoy trading and they\u0027ll always give you pink stuff in exchange for blue stuff. But that\u0027ll cost you a teeny, tiny bit of Mana.\n\nDie Elfen sind nett zu uns. Sie handeln wirklich und geben uns immer für unser blaues Zeug pinkes Zeug zurück. Leider verbraucht der Tausch eine kleine Menge Mana.\n"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 0,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "botania:manaresource",
+              "Count:3": 3,
+              "OreDict:8": "",
+              "Damage:3": 8
+            },
+            "1:10": {
+              "id:8": "botania:manaresource",
+              "Count:3": 5,
+              "OreDict:8": "",
+              "Damage:3": 9
+            },
+            "2:10": {
+              "id:8": "botania:manaresource",
+              "Count:3": 10,
+              "OreDict:8": "",
+              "Damage:3": 7
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "botania:elementiumhelm",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "1:10": {
+              "id:8": "botania:elementiumchest",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "2:10": {
+              "id:8": "botania:elementiumlegs",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "3:10": {
+              "id:8": "botania:elementiumboots",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "4:10": {
+              "id:8": "botania:elementiumsword",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          }
+        }
+      }
+    },
+    "13:10": {
+      "questID:3": 26,
+      "preRequisites:11": [],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "minecraft:skull",
+            "Count:3": 1,
+            "Damage:2": 1,
+            "OreDict:8": ""
+          },
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeatTime:4": -1,
+          "globalShare:8": "false",
+          "questLogic:8": "AND",
+          "ismain:1": 0,
+          "lockedProgress:8": "false",
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "taskLogic:8": "AND",
+          "partySingleReward:8": "false",
+          "visibility:8": "ALWAYS",
+          "isMain:8": "false",
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "name:8": "Wither Preparation",
+          "autoClaim:8": "false",
+          "isSilent:8": "false",
+          "desc:8": "The Wither is a very hard boss, but preparing for it is even harder. You\u0027ll have to slay a lot of Wither Skeletons. And that\u0027s only for three Skulls. Getting Soul Sand is waaay easier. That\u0027s why you\u0027ll go get the skulls and I\u0027ll give you the Soul Sand. Sounds fair, doesn\u0027t it?\n\nDer Wither ist ein starker Gegner, aber die Vorbereitung ist viel schwieriger. Du musst so viele Witherskelette töten. Und das nur für 3 Schädel. Seelensand besorgen ist viel einfacher. Du besorgst die Schädel und ich gebe dir den Seelensand, ok?\n"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 0,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "minecraft:skull",
+              "Count:3": 3,
+              "OreDict:8": "",
+              "Damage:3": 1
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "minecraft:soul_sand",
+              "Count:3": 4,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "1:10": {
+              "id:8": "botania:pinkinator",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          }
+        }
+      }
+    },
+    "14:10": {
+      "questID:3": 27,
+      "preRequisites:11": [
+        26
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "minecraft:nether_star",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeatTime:4": -1,
+          "globalShare:8": "false",
+          "questLogic:8": "AND",
+          "ismain:1": 0,
+          "lockedProgress:8": "false",
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "taskLogic:8": "AND",
+          "partySingleReward:8": "false",
+          "visibility:8": "ALWAYS",
+          "isMain:8": "false",
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "name:8": "Wither",
+          "autoClaim:8": "false",
+          "isSilent:8": "false",
+          "desc:8": "Kill the Wither. Oh, you\u0027ve already done that? Well... You just killed the Wither, one of the most devastating boss in Vanilla Minecraft. Was easy, right? Ok then, you can now sacrifice your newly obtained Nether Star for one of two items. But... for which? Both of them would be really cool.\n\nTöte den Wither. Oh, du bist schon fertig?\nDann... Du hast soeben den Wither getötet. Den Boss der Bosse in Vanilla Minecraft. War\u0027s einfach? Ok, dann kannst du nun deinen Netherstern opfern. Aber... für welches Item? Beide wären echt cool zu besitzen.\n"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 0,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "minecraft:nether_star",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:choice",
+          "index:3": 0,
+          "choices:9": {
+            "0:10": {
+              "id:8": "minecraft:beacon",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "1:10": {
+              "id:8": "betterbuilderswands:wandunbreakable",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 14
+            }
+          }
+        }
+      }
+    },
+    "15:10": {
+      "questID:3": 28,
+      "preRequisites:11": [
+        27
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "botania:gaiahead",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeatTime:4": -1,
+          "globalShare:8": "false",
+          "questLogic:8": "AND",
+          "ismain:1": 0,
+          "lockedProgress:8": "false",
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "taskLogic:8": "AND",
+          "partySingleReward:8": "false",
+          "visibility:8": "ALWAYS",
+          "isMain:8": "false",
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "name:8": "Gaia",
+          "autoClaim:8": "false",
+          "isSilent:8": "false",
+          "desc:8": "You have to sacrifice your precious Terrasteel Ingot. I\u0027m sorry for you. But I hope for you that you can kill the Gaia first try. Otherwise you\u0027ll have to sacrifice another Ingot for every new try. And never forget: That is the easy Gaia.\n\nDu musst deinen teuren Terrastahlbarren opfern. Mein Beileid. Aber ich hoffe, du kannst den Gaia im ersten Versuch töten. Für jeden weiteren Versuch musst du einen neuen Barren ausgeben. Und vergiss niemals: das ist erst der Einfache.\n"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 0,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "botania:manaresource",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 5
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        },
+        "1:10": {
+          "ignoreNBT:1": 0,
+          "index:3": 1,
+          "targetNBT:10": {
+            "HurtByTimestamp:3": 0,
+            "playerCount:3": 1,
+            "invulTime:3": 0,
+            "Attributes:9": {
+              "0:10": {
+                "Base:6": 16.0,
+                "Name:8": "generic.followRange"
+              }
+            },
+            "Invulnerable:1": 0,
+            "FallFlying:1": 0,
+            "hardMode:1": 0,
+            "PortalCooldown:3": 0,
+            "AbsorptionAmount:5": 0.0,
+            "FallDistance:5": 0.0,
+            "DeathTime:2": 0,
+            "HandDropChances:9": {
+              "0:5": 0.085
+            },
+            "PersistenceRequired:1": 0,
+            "id:8": "Botania.botania:doppleganger",
+            "sourceX:3": 0,
+            "Motion:9": {
+              "0:6": 0.0
+            },
+            "mobSpawnTicks:3": 0,
+            "sourceY:3": 0,
+            "Leashed:1": 0,
+            "UUIDLeast:4": -7097808888234150169,
+            "Health:5": 320.0,
+            "LeftHanded:1": 0,
+            "Dimension:3": 0,
+            "OnGround:1": 0,
+            "Air:2": 0,
+            "Rotation:9": {
+              "0:5": 0.0
+            },
+            "HandItems:9": {
+              "0:10": {}
+            },
+            "ArmorDropChances:9": {
+              "0:5": 0.085
+            },
+            "sourcesZ:3": 0,
+            "UUIDMost:4": -2353891652522325669,
+            "Pos:9": {
+              "0:6": 0.0
+            },
+            "ArmorItems:9": {
+              "0:10": {}
+            },
+            "Fire:2": 0,
+            "aggro:1": 0,
+            "CanPickUpLoot:1": 0,
+            "HurtTime:2": 0
+          },
+          "required:3": 1,
+          "taskID:8": "bq_standard:hunt",
+          "target:8": "Botania.botania:doppleganger",
+          "subtypes:1": 0
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "botania:blacklotus",
+              "Count:3": 10,
+              "OreDict:8": "",
+              "Damage:3": 1
+            }
+          }
+        }
+      }
+    },
+    "16:10": {
+      "questID:3": 29,
+      "preRequisites:11": [
+        28
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "botania:manaresource",
+            "Count:3": 1,
+            "Damage:2": 14,
+            "OreDict:8": ""
+          },
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeatTime:4": -1,
+          "globalShare:8": "false",
+          "questLogic:8": "AND",
+          "ismain:1": 0,
+          "lockedProgress:8": "false",
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "taskLogic:8": "AND",
+          "partySingleReward:8": "false",
+          "visibility:8": "ALWAYS",
+          "isMain:8": "false",
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "name:8": "Gaia 2.0",
+          "autoClaim:8": "false",
+          "isSilent:8": "false",
+          "desc:8": "You killed the first, and easy, Gaia victoriously. Now sacrifice your all of your Essence and kill the second, much harder iteration of the Gaia. Or else your Essence will be gone. Forever.\nGood Luck! You\u0027ll need it.\n\nDer einfache Gaia ist besiegt. Versuche den Schwierigeren. Opfere deine wertvolle Essenz und töte ihn. Oder sie. Oder deine Essenz ist für immer weg...\nViel Glück! Du wirst es brauchen."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "targetNBT:10": {
+            "HurtByTimestamp:3": 0,
+            "playerCount:3": 1,
+            "invulTime:3": 0,
+            "Attributes:9": {
+              "0:10": {
+                "Base:6": 16.0,
+                "Name:8": "generic.followRange"
+              }
+            },
+            "Invulnerable:1": 0,
+            "FallFlying:1": 0,
+            "hardMode:1": 0,
+            "PortalCooldown:3": 0,
+            "AbsorptionAmount:5": 0.0,
+            "FallDistance:5": 0.0,
+            "DeathTime:2": 0,
+            "HandDropChances:9": {
+              "0:5": 0.085
+            },
+            "PersistenceRequired:1": 0,
+            "id:8": "Botania.botania:doppleganger",
+            "sourceX:3": 0,
+            "Motion:9": {
+              "0:6": 0.0
+            },
+            "mobSpawnTicks:3": 0,
+            "sourceY:3": 0,
+            "Leashed:1": 0,
+            "UUIDLeast:4": -6917597208433458799,
+            "Health:5": 320.0,
+            "LeftHanded:1": 0,
+            "Dimension:3": 0,
+            "OnGround:1": 0,
+            "Air:2": 0,
+            "Rotation:9": {
+              "0:5": 0.0
+            },
+            "HandItems:9": {
+              "0:10": {}
+            },
+            "ArmorDropChances:9": {
+              "0:5": 0.085
+            },
+            "sourcesZ:3": 0,
+            "UUIDMost:4": 3958090376767490911,
+            "Pos:9": {
+              "0:6": 0.0
+            },
+            "ArmorItems:9": {
+              "0:10": {}
+            },
+            "Fire:2": 0,
+            "aggro:1": 0,
+            "CanPickUpLoot:1": 0,
+            "HurtTime:2": 0
+          },
+          "required:3": 1,
+          "taskID:8": "bq_standard:hunt",
+          "target:8": "Botania.botania:doppleganger",
+          "subtypes:1": 0
+        },
+        "1:10": {
+          "partialMatch:1": 0,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 1,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "botania:dice",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:choice",
+          "index:3": 0,
+          "choices:9": {
+            "0:10": {
+              "id:8": "botania:dice",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "1:10": {
+              "id:8": "botania:terrapick",
+              "Count:3": 1,
+              "tag:10": {
+                "mana:3": 99999999
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          }
+        },
+        "1:10": {
+          "amount:3": 100,
+          "rewardID:8": "bq_standard:xp",
+          "isLevels:1": 1,
+          "index:3": 1
+        }
+      }
+    },
+    "17:10": {
+      "questID:3": 30,
+      "preRequisites:11": [
+        28
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "minecraft:skull",
+            "Count:3": 1,
+            "Damage:2": 5,
+            "OreDict:8": ""
+          },
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeatTime:4": -1,
+          "globalShare:8": "false",
+          "questLogic:8": "AND",
+          "ismain:1": 0,
+          "lockedProgress:8": "false",
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "taskLogic:8": "AND",
+          "partySingleReward:8": "false",
+          "visibility:8": "ALWAYS",
+          "isMain:8": "false",
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "name:8": "Ender Dragon",
+          "autoClaim:8": "false",
+          "isSilent:8": "false",
+          "desc:8": "After killing the Gaia, the Ender Dragon shouldn\u0027t be a problem any more. Easy peasy. Just a little smudge in the path to eternal world domination! Muahahahaha!\n\nWenn du den Gaia getötet hast, ist der Enderdrachen kein Problem mehr für dich. Eine Leichtigkeit. Ein kleiner Stein auf deinem Weg zur Weltherrschaft. Muahahahaha!\n"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "targetNBT:10": {
+            "HurtByTimestamp:3": 0,
+            "Attributes:9": {
+              "0:10": {
+                "Base:6": 16.0,
+                "Name:8": "generic.followRange"
+              }
+            },
+            "Invulnerable:1": 0,
+            "FallFlying:1": 0,
+            "PortalCooldown:3": 0,
+            "AbsorptionAmount:5": 0.0,
+            "FallDistance:5": 0.0,
+            "DragonPhase:3": 10,
+            "DeathTime:2": 0,
+            "HandDropChances:9": {
+              "0:5": 0.085
+            },
+            "PersistenceRequired:1": 0,
+            "id:8": "EnderDragon",
+            "Motion:9": {
+              "0:6": 0.0
+            },
+            "Leashed:1": 0,
+            "UUIDLeast:4": -5525486121545803817,
+            "Health:5": 200.0,
+            "LeftHanded:1": 0,
+            "Dimension:3": 0,
+            "OnGround:1": 0,
+            "Air:2": 0,
+            "Rotation:9": {
+              "0:5": 0.0
+            },
+            "HandItems:9": {
+              "0:10": {}
+            },
+            "ArmorDropChances:9": {
+              "0:5": 0.085
+            },
+            "UUIDMost:4": -8684180407093540415,
+            "Pos:9": {
+              "0:6": 0.0
+            },
+            "ArmorItems:9": {
+              "0:10": {}
+            },
+            "Fire:2": 0,
+            "CanPickUpLoot:1": 0,
+            "HurtTime:2": 0
+          },
+          "required:3": 1,
+          "taskID:8": "bq_standard:hunt",
+          "target:8": "EnderDragon",
+          "subtypes:1": 0
+        },
+        "1:10": {
+          "partialMatch:1": 0,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 1,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "minecraft:dragon_egg",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "1:10": {
+              "id:8": "minecraft:dragon_breath",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "amount:3": 100,
+          "rewardID:8": "bq_standard:xp",
+          "isLevels:1": 1,
+          "index:3": 0
+        },
+        "1:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "minecraft:skull",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 5
+            },
+            "1:10": {
+              "id:8": "minecraft:purple_shulker_box",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          }
+        }
+      }
+    },
+    "18:10": {
+      "questID:3": 31,
+      "preRequisites:11": [],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "botania:cocoon",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeatTime:4": -1,
+          "globalShare:8": "false",
+          "questLogic:8": "AND",
+          "ismain:1": 0,
+          "lockedProgress:8": "false",
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "taskLogic:8": "AND",
+          "partySingleReward:8": "false",
+          "visibility:8": "ALWAYS",
+          "isMain:8": "false",
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "name:8": "Animals",
+          "autoClaim:8": "false",
+          "isSilent:8": "false",
+          "desc:8": "Spawning animals? How? With the revolutionary technology of the Cocoon of Caprice (patent pending) you\u0027ll have all your animals in no time! And then you kill them :) Except for pigs! NEVER EVER kill a pig!\n\nTiere spawnen? Mit dem Cocoon of Caprice geht das sehr einfach. Und dann tötest du sie. Außer ein Schwein! Töte NIEMALS ein Schwein!\n"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "botania:cocoon",
+              "Count:3": 5,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        },
+        "1:10": {
+          "ignoreNBT:1": 0,
+          "index:3": 1,
+          "targetNBT:10": {
+            "IsChickenJockey:1": 0,
+            "HurtByTimestamp:3": 0,
+            "Attributes:9": {
+              "0:10": {
+                "Base:6": 16.0,
+                "Name:8": "generic.followRange"
+              }
+            },
+            "ForcedAge:3": 0,
+            "Invulnerable:1": 0,
+            "FallFlying:1": 0,
+            "PortalCooldown:3": 0,
+            "AbsorptionAmount:5": 0.0,
+            "FallDistance:5": 0.0,
+            "InLove:3": 0,
+            "DeathTime:2": 0,
+            "HandDropChances:9": {
+              "0:5": 0.085
+            },
+            "PersistenceRequired:1": 0,
+            "id:8": "Chicken",
+            "Age:3": 1,
+            "Motion:9": {
+              "0:6": 0.0
+            },
+            "Leashed:1": 0,
+            "UUIDLeast:4": -7860365692430627398,
+            "Health:5": 4.0,
+            "LeftHanded:1": 0,
+            "Dimension:3": 0,
+            "OnGround:1": 0,
+            "Air:2": 0,
+            "Rotation:9": {
+              "0:5": 0.0
+            },
+            "HandItems:9": {
+              "0:10": {}
+            },
+            "EggLayTime:3": 7188,
+            "ArmorDropChances:9": {
+              "0:5": 0.085
+            },
+            "UUIDMost:4": 5663861613793330654,
+            "Pos:9": {
+              "0:6": 0.0
+            },
+            "ArmorItems:9": {
+              "0:10": {}
+            },
+            "Fire:2": 0,
+            "CanPickUpLoot:1": 0,
+            "HurtTime:2": 0
+          },
+          "required:3": 1,
+          "taskID:8": "bq_standard:hunt",
+          "target:8": "Chicken",
+          "subtypes:1": 0
+        },
+        "2:10": {
+          "ignoreNBT:1": 0,
+          "index:3": 2,
+          "targetNBT:10": {
+            "HurtByTimestamp:3": 0,
+            "Attributes:9": {
+              "0:10": {
+                "Base:6": 16.0,
+                "Name:8": "generic.followRange"
+              }
+            },
+            "ForcedAge:3": 0,
+            "Invulnerable:1": 0,
+            "FallFlying:1": 0,
+            "PortalCooldown:3": 0,
+            "AbsorptionAmount:5": 0.0,
+            "FallDistance:5": 0.0,
+            "InLove:3": 0,
+            "DeathTime:2": 0,
+            "HandDropChances:9": {
+              "0:5": 0.085
+            },
+            "PersistenceRequired:1": 0,
+            "id:8": "Cow",
+            "Age:3": 1,
+            "Motion:9": {
+              "0:6": 0.0
+            },
+            "Leashed:1": 0,
+            "UUIDLeast:4": -9077109787420382550,
+            "Health:5": 10.0,
+            "LeftHanded:1": 0,
+            "Dimension:3": 0,
+            "OnGround:1": 0,
+            "Air:2": 0,
+            "Rotation:9": {
+              "0:5": 0.0
+            },
+            "HandItems:9": {
+              "0:10": {}
+            },
+            "ArmorDropChances:9": {
+              "0:5": 0.085
+            },
+            "UUIDMost:4": 818758080933348370,
+            "Pos:9": {
+              "0:6": 0.0
+            },
+            "ArmorItems:9": {
+              "0:10": {}
+            },
+            "Fire:2": 0,
+            "CanPickUpLoot:1": 0,
+            "HurtTime:2": 0
+          },
+          "required:3": 1,
+          "taskID:8": "bq_standard:hunt",
+          "target:8": "Cow",
+          "subtypes:1": 0
+        },
+        "3:10": {
+          "ignoreNBT:1": 0,
+          "index:3": 3,
+          "targetNBT:10": {
+            "HurtByTimestamp:3": 0,
+            "Attributes:9": {
+              "0:10": {
+                "Base:6": 16.0,
+                "Name:8": "generic.followRange"
+              }
+            },
+            "Riches:3": 0,
+            "ForcedAge:3": 0,
+            "Invulnerable:1": 0,
+            "FallFlying:1": 0,
+            "PortalCooldown:3": 0,
+            "AbsorptionAmount:5": 0.0,
+            "FallDistance:5": 0.0,
+            "DeathTime:2": 0,
+            "HandDropChances:9": {
+              "0:5": 0.085
+            },
+            "PersistenceRequired:1": 0,
+            "id:8": "minecraft:villager",
+            "Age:3": 1,
+            "Motion:9": {
+              "0:6": 0.0
+            },
+            "Leashed:1": 0,
+            "UUIDLeast:4": -5168094599090720167,
+            "Health:5": 20.0,
+            "LeftHanded:1": 0,
+            "Dimension:3": 0,
+            "OnGround:1": 0,
+            "Air:2": 0,
+            "Rotation:9": {
+              "0:5": 0.0
+            },
+            "UpdateBlocked:1": 0,
+            "HandItems:9": {
+              "0:10": {}
+            },
+            "ProfessionName:8": "minecraft:farmer",
+            "ArmorDropChances:9": {
+              "0:5": 0.085
+            },
+            "Profession:3": 0,
+            "UUIDMost:4": 4748724583228589220,
+            "Pos:9": {
+              "0:6": 0.0
+            },
+            "ArmorItems:9": {
+              "0:10": {}
+            },
+            "Fire:2": 0,
+            "CanPickUpLoot:1": 1,
+            "HurtTime:2": 0,
+            "CareerLevel:3": 0,
+            "Inventory:9": {},
+            "Career:3": 0,
+            "Willing:1": 0
+          },
+          "required:3": 1,
+          "taskID:8": "bq_standard:hunt",
+          "target:8": "Villager",
+          "subtypes:1": 0
+        },
+        "4:10": {
+          "ignoreNBT:1": 0,
+          "index:3": 4,
+          "targetNBT:10": {
+            "HurtByTimestamp:3": 0,
+            "Attributes:9": {
+              "0:10": {
+                "Base:6": 16.0,
+                "Name:8": "generic.followRange"
+              }
+            },
+            "ForcedAge:3": 0,
+            "Invulnerable:1": 0,
+            "FallFlying:1": 0,
+            "PortalCooldown:3": 0,
+            "AbsorptionAmount:5": 0.0,
+            "FallDistance:5": 0.0,
+            "InLove:3": 0,
+            "DeathTime:2": 0,
+            "HandDropChances:9": {
+              "0:5": 0.085
+            },
+            "PersistenceRequired:1": 0,
+            "id:8": "Sheep",
+            "Age:3": 1,
+            "Motion:9": {
+              "0:6": 0.0
+            },
+            "Leashed:1": 0,
+            "UUIDLeast:4": -8514290031071658836,
+            "Health:5": 8.0,
+            "Color:1": 0,
+            "LeftHanded:1": 0,
+            "Dimension:3": 0,
+            "OnGround:1": 0,
+            "Air:2": 0,
+            "Rotation:9": {
+              "0:5": 0.0
+            },
+            "HandItems:9": {
+              "0:10": {}
+            },
+            "ArmorDropChances:9": {
+              "0:5": 0.085
+            },
+            "UUIDMost:4": 8253561431320841321,
+            "Pos:9": {
+              "0:6": 0.0
+            },
+            "ArmorItems:9": {
+              "0:10": {}
+            },
+            "Fire:2": 0,
+            "CanPickUpLoot:1": 0,
+            "Sheared:1": 0,
+            "HurtTime:2": 0
+          },
+          "required:3": 1,
+          "taskID:8": "bq_standard:hunt",
+          "target:8": "Sheep",
+          "subtypes:1": 0
+        },
+        "5:10": {
+          "ignoreNBT:1": 0,
+          "index:3": 5,
+          "targetNBT:10": {},
+          "required:3": 1,
+          "taskID:8": "bq_standard:hunt",
+          "target:8": "Ocelot",
+          "subtypes:1": 0
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "amount:3": 10,
+          "rewardID:8": "bq_standard:xp",
+          "isLevels:1": 1,
+          "index:3": 0
+        },
+        "1:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 100
+            }
+          }
+        }
+      }
+    },
+    "19:10": {
+      "questID:3": 32,
+      "preRequisites:11": [],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "botania:rune",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeatTime:4": -1,
+          "globalShare:8": "false",
+          "questLogic:8": "AND",
+          "ismain:1": 0,
+          "lockedProgress:8": "false",
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "taskLogic:8": "AND",
+          "partySingleReward:8": "false",
+          "visibility:8": "ALWAYS",
+          "isMain:8": "false",
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "name:8": "Runes",
+          "autoClaim:8": "false",
+          "isSilent:8": "false",
+          "desc:8": "You\u0027ll need them for flowers, you\u0027ll need them for other runes. But that is nothing compared to this reward. You\u0027ll get a cookie. A §9blue§9§0 cookie. JUST DO IT!!\n\nDu brauchst sie für Blumen, du brauchst sie für Runen. Aber das ist nichts im Vergleich zu der Belohnung. Du kannst einen Keks bekommen. Einen §9blauen§9§0 Keks. WIRKLICH, TU ES!!\n"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 0,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "botania:rune",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "1:10": {
+              "id:8": "botania:rune",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 1
+            },
+            "2:10": {
+              "id:8": "botania:rune",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 2
+            },
+            "3:10": {
+              "id:8": "botania:rune",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 3
+            },
+            "4:10": {
+              "id:8": "botania:rune",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 4
+            },
+            "5:10": {
+              "id:8": "botania:rune",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 5
+            },
+            "6:10": {
+              "id:8": "botania:rune",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 6
+            },
+            "7:10": {
+              "id:8": "botania:rune",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 7
+            },
+            "8:10": {
+              "id:8": "botania:rune",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 8
+            },
+            "9:10": {
+              "id:8": "botania:rune",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 9
+            },
+            "10:10": {
+              "id:8": "botania:rune",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 10
+            },
+            "11:10": {
+              "id:8": "botania:rune",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 11
+            },
+            "12:10": {
+              "id:8": "botania:rune",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 12
+            },
+            "13:10": {
+              "id:8": "botania:rune",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 13
+            },
+            "14:10": {
+              "id:8": "botania:rune",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 14
+            },
+            "15:10": {
+              "id:8": "botania:rune",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 15
+            },
+            "16:10": {
+              "id:8": "mxtweaks:rune_of_infinity",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 100
+            },
+            "1:10": {
+              "id:8": "mxtweaks:rune_of_infinity",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "2:10": {
+              "id:8": "botania:manacookie",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          }
+        }
+      }
+    },
+    "20:10": {
+      "questID:3": 33,
+      "preRequisites:11": [],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "botania:grassseeds",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeatTime:4": -1,
+          "globalShare:8": "false",
+          "questLogic:8": "AND",
+          "ismain:1": 0,
+          "lockedProgress:8": "false",
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "taskLogic:8": "AND",
+          "partySingleReward:8": "false",
+          "visibility:8": "ALWAYS",
+          "isMain:8": "false",
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "name:8": "Different Grass",
+          "autoClaim:8": "false",
+          "isSilent:8": "false",
+          "desc:8": "You think you have to decide between green, pink and brown Grass? Nope, you have to decide between every possible Grass type! I\u0027m kidding. Just try every seed for me, would you? Some of them even look every nice. Useful for decorating stuff.\n\nDu denkst, du musst zwischen grünem, pinkem und braunem Gras entscheiden? Du kannst zwischen jedem Grastyp entscheiden. Probiere einfach jeden Samen. Manche sehen gut aus. Gut für Dekorationszeug.\n"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 0,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "botania:grassseeds",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "1:10": {
+              "id:8": "botania:grassseeds",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 1
+            },
+            "2:10": {
+              "id:8": "botania:grassseeds",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 2
+            },
+            "3:10": {
+              "id:8": "botania:grassseeds",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 3
+            },
+            "4:10": {
+              "id:8": "botania:grassseeds",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 4
+            },
+            "5:10": {
+              "id:8": "botania:grassseeds",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 5
+            },
+            "6:10": {
+              "id:8": "botania:grassseeds",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 6
+            },
+            "7:10": {
+              "id:8": "botania:grassseeds",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 7
+            },
+            "8:10": {
+              "id:8": "botania:grassseeds",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 8
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 100
+            },
+            "1:10": {
+              "id:8": "botania:virus",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "2:10": {
+              "id:8": "botania:virus",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 1
+            }
+          }
+        }
+      }
+    },
+    "21:10": {
+      "questID:3": 34,
+      "preRequisites:11": [],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "botania:specialflower",
+            "Count:3": 1,
+            "tag:10": {
+              "type:8": "puredaisy"
+            },
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeatTime:4": -1,
+          "globalShare:8": "false",
+          "questLogic:8": "AND",
+          "ismain:1": 0,
+          "lockedProgress:8": "false",
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "taskLogic:8": "AND",
+          "partySingleReward:8": "false",
+          "visibility:8": "ALWAYS",
+          "isMain:8": "false",
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "name:8": "Generating Flowers",
+          "autoClaim:8": "false",
+          "isSilent:8": "false",
+          "desc:8": "You need Mana in this Modpack, you need Mana in Botania. By now you could have guessed that you need a LOT of Mana. And, in order to complete this Questbook, you\u0027ll need EVEN MORE Mana. But how do you get that much precious magic juice? Those flowers might help. Try every flower and then pick your favourite (pun intented).\n\nDu brauchst Mana in diesem Modpack, du brauchst Mana in Botania. Du brauchst eine Menge Mana. Und wenn du das Questbook komplett schaffen willst, brauchst du sehr viel Mana. Und wie bekommst du es? Diese Blumen helfen dir dabei. Probiere jede aus und wähle dann deinen Liebling.\n"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 0,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "botania:specialflower",
+              "Count:3": 1,
+              "tag:10": {
+                "type:8": "puredaisy"
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "1:10": {
+              "id:8": "botania:specialflower",
+              "Count:3": 1,
+              "tag:10": {
+                "type:8": "manastar"
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "2:10": {
+              "id:8": "botania:specialflower",
+              "Count:3": 1,
+              "tag:10": {
+                "type:8": "endoflame"
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "3:10": {
+              "id:8": "botania:specialflower",
+              "Count:3": 1,
+              "tag:10": {
+                "type:8": "hydroangeas"
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "4:10": {
+              "id:8": "botania:specialflower",
+              "Count:3": 1,
+              "tag:10": {
+                "type:8": "thermalily"
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "5:10": {
+              "id:8": "botania:specialflower",
+              "Count:3": 1,
+              "tag:10": {
+                "type:8": "arcanerose"
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "6:10": {
+              "id:8": "botania:specialflower",
+              "Count:3": 1,
+              "tag:10": {
+                "type:8": "munchdew"
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "7:10": {
+              "id:8": "botania:specialflower",
+              "Count:3": 1,
+              "tag:10": {
+                "type:8": "entropinnyum"
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "8:10": {
+              "id:8": "botania:specialflower",
+              "Count:3": 1,
+              "tag:10": {
+                "type:8": "kekimurus"
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "9:10": {
+              "id:8": "botania:specialflower",
+              "Count:3": 1,
+              "tag:10": {
+                "type:8": "gourmaryllis"
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "10:10": {
+              "id:8": "botania:specialflower",
+              "Count:3": 1,
+              "tag:10": {
+                "type:8": "narslimmus"
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "11:10": {
+              "id:8": "botania:specialflower",
+              "Count:3": 1,
+              "tag:10": {
+                "type:8": "spectrolus"
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "12:10": {
+              "id:8": "botania:specialflower",
+              "Count:3": 1,
+              "tag:10": {
+                "type:8": "rafflowsia"
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "13:10": {
+              "id:8": "botania:specialflower",
+              "Count:3": 1,
+              "tag:10": {
+                "type:8": "dandelifeon"
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "14:10": {
+              "id:8": "botania:specialflower",
+              "Count:3": 1,
+              "tag:10": {
+                "type:8": "shulk_me_not"
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 100
+            },
+            "1:10": {
+              "id:8": "minecraft:golden_apple",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 1
+            }
+          }
+        }
+      }
+    },
+    "22:10": {
+      "questID:3": 35,
+      "preRequisites:11": [],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "botania:specialflower",
+            "Count:3": 1,
+            "tag:10": {
+              "type:8": "jadedAmaranthus"
+            },
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeatTime:4": -1,
+          "globalShare:8": "false",
+          "questLogic:8": "AND",
+          "ismain:1": 0,
+          "lockedProgress:8": "false",
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "taskLogic:8": "AND",
+          "partySingleReward:8": "false",
+          "visibility:8": "ALWAYS",
+          "isMain:8": "false",
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "name:8": "Functional Flowers",
+          "autoClaim:8": "false",
+          "isSilent:8": "false",
+          "desc:8": "You\u0027re that type of person that wants to automate about everything? Try these plants! They really can do a lot of different things, all of which are very helpful for you! You can then just relax and let the plants do all the work for you. No worries, that\u0027s legal.\n\nDu bist eine Person, die alles automatisieren will? Probiere diese Pflanzen! Sie können wirklich sehr viele unterschiedliche Dinge, welche sehr hilfreich sein können. Du kannst es versuchen. Du kannst chillen und die Pflanzen für dich arbeiten lassen. Keine Angst, es ist legal.\n"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 0,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "botania:specialflower",
+              "Count:3": 1,
+              "tag:10": {
+                "type:8": "bellethorn"
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "1:10": {
+              "id:8": "botania:specialflower",
+              "Count:3": 1,
+              "tag:10": {
+                "type:8": "dreadthorn"
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "2:10": {
+              "id:8": "botania:specialflower",
+              "Count:3": 1,
+              "tag:10": {
+                "type:8": "heiseiDream"
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "3:10": {
+              "id:8": "botania:specialflower",
+              "Count:3": 1,
+              "tag:10": {
+                "type:8": "tigerseye"
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "4:10": {
+              "id:8": "botania:specialflower",
+              "Count:3": 1,
+              "tag:10": {
+                "type:8": "marimorphosis"
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "5:10": {
+              "id:8": "botania:specialflower",
+              "Count:3": 1,
+              "tag:10": {
+                "type:8": "orechid"
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "6:10": {
+              "id:8": "botania:specialflower",
+              "Count:3": 1,
+              "tag:10": {
+                "type:8": "orechidIgnem"
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "7:10": {
+              "id:8": "botania:specialflower",
+              "Count:3": 1,
+              "tag:10": {
+                "type:8": "fallenKanade"
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "8:10": {
+              "id:8": "botania:specialflower",
+              "Count:3": 1,
+              "tag:10": {
+                "type:8": "exoflame"
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "9:10": {
+              "id:8": "botania:specialflower",
+              "Count:3": 1,
+              "tag:10": {
+                "type:8": "agricarnation"
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "10:10": {
+              "id:8": "botania:specialflower",
+              "Count:3": 1,
+              "tag:10": {
+                "type:8": "hopperhock"
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "11:10": {
+              "id:8": "botania:specialflower",
+              "Count:3": 1,
+              "tag:10": {
+                "type:8": "rannuncarpus"
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "12:10": {
+              "id:8": "botania:specialflower",
+              "Count:3": 1,
+              "tag:10": {
+                "type:8": "tangleberrie"
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "13:10": {
+              "id:8": "botania:specialflower",
+              "Count:3": 1,
+              "tag:10": {
+                "type:8": "jiyuulia"
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "14:10": {
+              "id:8": "botania:specialflower",
+              "Count:3": 1,
+              "tag:10": {
+                "type:8": "hyacidus"
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "15:10": {
+              "id:8": "botania:specialflower",
+              "Count:3": 1,
+              "tag:10": {
+                "type:8": "medumone"
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "16:10": {
+              "id:8": "botania:specialflower",
+              "Count:3": 1,
+              "tag:10": {
+                "type:8": "pollidisiac"
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "17:10": {
+              "id:8": "botania:specialflower",
+              "Count:3": 1,
+              "tag:10": {
+                "type:8": "clayconia"
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "18:10": {
+              "id:8": "botania:specialflower",
+              "Count:3": 1,
+              "tag:10": {
+                "type:8": "loonium"
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "19:10": {
+              "id:8": "botania:specialflower",
+              "Count:3": 1,
+              "tag:10": {
+                "type:8": "daffomill"
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "20:10": {
+              "id:8": "botania:specialflower",
+              "Count:3": 1,
+              "tag:10": {
+                "type:8": "vinculotus"
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "21:10": {
+              "id:8": "botania:specialflower",
+              "Count:3": 1,
+              "tag:10": {
+                "type:8": "spectranthemum"
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "22:10": {
+              "id:8": "botania:specialflower",
+              "Count:3": 1,
+              "tag:10": {
+                "type:8": "bubbell"
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "23:10": {
+              "id:8": "botania:specialflower",
+              "Count:3": 1,
+              "tag:10": {
+                "type:8": "solegnolia"
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "24:10": {
+              "id:8": "botania:specialflower",
+              "Count:3": 1,
+              "tag:10": {
+                "type:8": "bergamute"
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 100
+            },
+            "1:10": {
+              "id:8": "botania:enderhand",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "2:10": {
+              "id:8": "botania:specialflower",
+              "Count:3": 1,
+              "tag:10": {
+                "type:8": "jadedAmaranthus"
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          }
+        }
+      }
+    },
+    "23:10": {
+      "questID:3": 36,
+      "preRequisites:11": [],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "botania:brewvial",
+            "Count:3": 1,
+            "tag:10": {
+              "brewKey:8": "healing"
+            },
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeatTime:4": -1,
+          "globalShare:8": "false",
+          "questLogic:8": "AND",
+          "ismain:1": 0,
+          "lockedProgress:8": "false",
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "taskLogic:8": "AND",
+          "partySingleReward:8": "false",
+          "visibility:8": "ALWAYS",
+          "isMain:8": "false",
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "name:8": "Flask of Everything",
+          "autoClaim:8": "false",
+          "isSilent:8": "false",
+          "desc:8": "Potions are wonderful. You can drink them for almost every possible effect. But sadly just once. What would you say if I were to tell you that you can drink those potions up to six times!? What? You already know that? Then why are you still standing there?! Those Flasks are really helpful in battle against the Gaia.\n\nTränke sind toll. Du kannst sie für alles, was du willst (und was verfügbar ist), trinken. Aber nur einmal. Was würdest du sagen, wenn ich dir erzähle, dass du diese Tränke sechsmal trinken kannst? Du weißt das? Dann tu es! Warte nicht so lange. Beim Kampf gegen den Gaia kann das wirklich nützlich sein.\n"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 0,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "botania:brewflask",
+              "Count:3": 1,
+              "tag:10": {
+                "brewKey:8": "speed"
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "1:10": {
+              "id:8": "botania:brewflask",
+              "Count:3": 1,
+              "tag:10": {
+                "brewKey:8": "strength"
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "2:10": {
+              "id:8": "botania:brewflask",
+              "Count:3": 1,
+              "tag:10": {
+                "brewKey:8": "haste"
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "3:10": {
+              "id:8": "botania:brewflask",
+              "Count:3": 1,
+              "tag:10": {
+                "brewKey:8": "healing"
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "4:10": {
+              "id:8": "botania:brewflask",
+              "Count:3": 1,
+              "tag:10": {
+                "brewKey:8": "jumpBoost"
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "5:10": {
+              "id:8": "botania:brewflask",
+              "Count:3": 1,
+              "tag:10": {
+                "brewKey:8": "regen"
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "6:10": {
+              "id:8": "botania:brewflask",
+              "Count:3": 1,
+              "tag:10": {
+                "brewKey:8": "resistance"
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "7:10": {
+              "id:8": "botania:brewflask",
+              "Count:3": 1,
+              "tag:10": {
+                "brewKey:8": "fireResistance"
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "8:10": {
+              "id:8": "botania:brewflask",
+              "Count:3": 1,
+              "tag:10": {
+                "brewKey:8": "waterBreathing"
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "9:10": {
+              "id:8": "botania:brewflask",
+              "Count:3": 1,
+              "tag:10": {
+                "brewKey:8": "invisibility"
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "10:10": {
+              "id:8": "botania:brewflask",
+              "Count:3": 1,
+              "tag:10": {
+                "brewKey:8": "nightVision"
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "11:10": {
+              "id:8": "botania:brewflask",
+              "Count:3": 1,
+              "tag:10": {
+                "brewKey:8": "absorption"
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "12:10": {
+              "id:8": "botania:brewflask",
+              "Count:3": 1,
+              "tag:10": {
+                "brewKey:8": "overload"
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "13:10": {
+              "id:8": "botania:brewflask",
+              "Count:3": 1,
+              "tag:10": {
+                "brewKey:8": "soulCross"
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "14:10": {
+              "id:8": "botania:brewflask",
+              "Count:3": 1,
+              "tag:10": {
+                "brewKey:8": "featherFeet"
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "15:10": {
+              "id:8": "botania:brewflask",
+              "Count:3": 1,
+              "tag:10": {
+                "brewKey:8": "emptiness"
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "16:10": {
+              "id:8": "botania:brewflask",
+              "Count:3": 1,
+              "tag:10": {
+                "brewKey:8": "bloodthirst"
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "17:10": {
+              "id:8": "botania:brewflask",
+              "Count:3": 1,
+              "tag:10": {
+                "brewKey:8": "allure"
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "18:10": {
+              "id:8": "botania:brewflask",
+              "Count:3": 1,
+              "tag:10": {
+                "brewKey:8": "clear"
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 100
+            },
+            "1:10": {
+              "id:8": "botania:bloodpendant",
+              "Count:3": 1,
+              "tag:10": {},
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          }
+        }
+      }
+    },
+    "24:10": {
+      "questID:3": 37,
+      "preRequisites:11": [],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "botania:dirtrod",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeatTime:4": -1,
+          "globalShare:8": "false",
+          "questLogic:8": "AND",
+          "ismain:1": 0,
+          "lockedProgress:8": "false",
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "taskLogic:8": "AND",
+          "partySingleReward:8": "false",
+          "visibility:8": "ALWAYS",
+          "isMain:8": "false",
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "name:8": "What\u0027s about Rods?",
+          "autoClaim:8": "false",
+          "isSilent:8": "false",
+          "desc:8": "Rods are useful. Very useful in fact. You can place down an unlimited amount of Dirt, you can make the whole world your swimming pool, heck, you can even fly with those items! There are so many different Rods for so many different tasks. Just give every single one of them a try.\n\nStäbe sind nützlich. Sehr nützlich. Du kannst unendlich Erde platzieren, du kannst fliegen, du kannst überall Wasser haben! Es gibt so viele Stäbe für so viele Aufgaben. Probiere alle aus.\n"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 0,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "botania:dirtrod",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "1:10": {
+              "id:8": "botania:terraformrod",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "2:10": {
+              "id:8": "botania:waterrod",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "3:10": {
+              "id:8": "botania:rainbowrod",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "4:10": {
+              "id:8": "botania:tornadorod",
+              "Count:3": 1,
+              "tag:10": {},
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "5:10": {
+              "id:8": "botania:firerod",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "6:10": {
+              "id:8": "botania:skydirtrod",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "7:10": {
+              "id:8": "botania:diviningrod",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "8:10": {
+              "id:8": "botania:gravityrod",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "9:10": {
+              "id:8": "botania:missilerod",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "10:10": {
+              "id:8": "botania:cobblerod",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "11:10": {
+              "id:8": "botania:smeltrod",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "12:10": {
+              "id:8": "botania:exchangerod",
+              "Count:3": 1,
+              "tag:10": {},
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 100
+            },
+            "1:10": {
+              "id:8": "botania:phantomink",
+              "Count:3": 8,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          }
+        }
+      }
+    },
+    "25:10": {
+      "questID:3": 38,
+      "preRequisites:11": [],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "botania:terrapick",
+            "Count:3": 1,
+            "tag:10": {
+              "mana:3": 2147483646
+            },
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeatTime:4": -1,
+          "globalShare:8": "false",
+          "questLogic:8": "AND",
+          "ismain:1": 0,
+          "lockedProgress:8": "false",
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "taskLogic:8": "AND",
+          "partySingleReward:8": "false",
+          "visibility:8": "ALWAYS",
+          "isMain:8": "false",
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "name:8": "All your mana",
+          "autoClaim:8": "false",
+          "isSilent:8": "false",
+          "desc:8": "If you have this tool, then it means that you have had to produce so much Mana that the Everlasting Guilty Pool seems to be nothing compared to this huge amount of Mana. But perhaps this is a nice reward. A thousand Mana Pools is really much though. Have fun.\n\nWenn du dieses Werkzeug hast, hast du so viel Mana produziert, dass das immerwährende Becken der Schuld gar nichts im Vergleich zu deinem Verbrauch ist. Vielleicht ist es eine schöne Belohnung. Aber 1.000 Manabecken sind sehr viel. Ich wünsche dir viel Spaß.\n"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 0,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "botania:terrapick",
+              "Count:3": 1,
+              "tag:10": {
+                "mana:3": 2147483646
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 100
+            },
+            "1:10": {
+              "id:8": "botania:pool",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 1
+            }
+          }
+        }
+      }
+    },
+    "26:10": {
+      "questID:3": 39,
+      "preRequisites:11": [],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "botania:lens",
+            "Count:3": 1,
+            "tag:10": {},
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeatTime:4": -1,
+          "globalShare:8": "false",
+          "questLogic:8": "AND",
+          "ismain:1": 0,
+          "lockedProgress:8": "false",
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "taskLogic:8": "AND",
+          "partySingleReward:8": "false",
+          "visibility:8": "ALWAYS",
+          "isMain:8": "false",
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "name:8": "Lenses",
+          "autoClaim:8": "false",
+          "isSilent:8": "false",
+          "desc:8": "You may think that this quest is pointless. But that\u0027s not the case. Lenses are not pointless, you can... uhm... you could use one or two of them. Or if you\u0027re a pro you\u0027ll need every single one of those. Then this really is a great deal for you. You can craft something you\u0027d have to use eventually and get some nice rewards in addition.\n\nDu denkst vielleicht, dass diese Aufgabe sinnlos ist. Aber das ist nicht wahr. Es ist nicht sinnlos, du kannst... Ähm... Du könntest eine davon gebrauchen. Oder zwei. Oder wenn du ein Profi bist, brauchst du jede Einzelne. Dann ist es doch ein schöner Deal für dich. Du kannst etwas bauen, was du sowieso brauchst und bekommst dafür Belohnungen.\n"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 0,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "botania:lens",
+              "Count:3": 1,
+              "tag:10": {},
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "1:10": {
+              "id:8": "botania:lens",
+              "Count:3": 1,
+              "tag:10": {},
+              "OreDict:8": "",
+              "Damage:3": 1
+            },
+            "2:10": {
+              "id:8": "botania:lens",
+              "Count:3": 1,
+              "tag:10": {},
+              "OreDict:8": "",
+              "Damage:3": 2
+            },
+            "3:10": {
+              "id:8": "botania:lens",
+              "Count:3": 1,
+              "tag:10": {},
+              "OreDict:8": "",
+              "Damage:3": 3
+            },
+            "4:10": {
+              "id:8": "botania:lens",
+              "Count:3": 1,
+              "tag:10": {},
+              "OreDict:8": "",
+              "Damage:3": 4
+            },
+            "5:10": {
+              "id:8": "botania:lens",
+              "Count:3": 1,
+              "tag:10": {},
+              "OreDict:8": "",
+              "Damage:3": 5
+            },
+            "6:10": {
+              "id:8": "botania:lens",
+              "Count:3": 1,
+              "tag:10": {},
+              "OreDict:8": "",
+              "Damage:3": 6
+            },
+            "7:10": {
+              "id:8": "botania:lens",
+              "Count:3": 1,
+              "tag:10": {},
+              "OreDict:8": "",
+              "Damage:3": 7
+            },
+            "8:10": {
+              "id:8": "botania:lens",
+              "Count:3": 1,
+              "tag:10": {},
+              "OreDict:8": "",
+              "Damage:3": 8
+            },
+            "9:10": {
+              "id:8": "botania:lens",
+              "Count:3": 1,
+              "tag:10": {},
+              "OreDict:8": "",
+              "Damage:3": 9
+            },
+            "10:10": {
+              "id:8": "botania:lens",
+              "Count:3": 1,
+              "tag:10": {},
+              "OreDict:8": "",
+              "Damage:3": 10
+            },
+            "11:10": {
+              "id:8": "botania:lens",
+              "Count:3": 1,
+              "tag:10": {},
+              "OreDict:8": "",
+              "Damage:3": 11
+            },
+            "12:10": {
+              "id:8": "botania:lens",
+              "Count:3": 1,
+              "tag:10": {},
+              "OreDict:8": "",
+              "Damage:3": 12
+            },
+            "13:10": {
+              "id:8": "botania:lens",
+              "Count:3": 1,
+              "tag:10": {},
+              "OreDict:8": "",
+              "Damage:3": 13
+            },
+            "14:10": {
+              "id:8": "botania:lens",
+              "Count:3": 1,
+              "tag:10": {},
+              "OreDict:8": "",
+              "Damage:3": 14
+            },
+            "15:10": {
+              "id:8": "botania:lens",
+              "Count:3": 1,
+              "tag:10": {},
+              "OreDict:8": "",
+              "Damage:3": 15
+            },
+            "16:10": {
+              "id:8": "botania:lens",
+              "Count:3": 1,
+              "tag:10": {},
+              "OreDict:8": "",
+              "Damage:3": 16
+            },
+            "17:10": {
+              "id:8": "botania:lens",
+              "Count:3": 1,
+              "tag:10": {},
+              "OreDict:8": "",
+              "Damage:3": 17
+            },
+            "18:10": {
+              "id:8": "botania:lens",
+              "Count:3": 1,
+              "tag:10": {},
+              "OreDict:8": "",
+              "Damage:3": 18
+            },
+            "19:10": {
+              "id:8": "botania:lens",
+              "Count:3": 1,
+              "tag:10": {},
+              "OreDict:8": "",
+              "Damage:3": 19
+            },
+            "20:10": {
+              "id:8": "botania:lens",
+              "Count:3": 1,
+              "tag:10": {},
+              "OreDict:8": "",
+              "Damage:3": 20
+            },
+            "21:10": {
+              "id:8": "botania:lens",
+              "Count:3": 1,
+              "tag:10": {},
+              "OreDict:8": "",
+              "Damage:3": 21
+            },
+            "22:10": {
+              "id:8": "botania:lens",
+              "Count:3": 1,
+              "tag:10": {},
+              "OreDict:8": "",
+              "Damage:3": 22
+            },
+            "23:10": {
+              "id:8": "botania:lens",
+              "Count:3": 1,
+              "tag:10": {},
+              "OreDict:8": "",
+              "Damage:3": 23
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:choice",
+          "index:3": 0,
+          "choices:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 100
+            },
+            "1:10": {
+              "id:8": "botania:miningring",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          }
+        }
+      }
+    },
+    "27:10": {
+      "questID:3": 40,
+      "preRequisites:11": [],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "minecraft:wool",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeatTime:4": -1,
+          "globalShare:8": "false",
+          "questLogic:8": "AND",
+          "ismain:1": 0,
+          "lockedProgress:8": "false",
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "taskLogic:8": "AND",
+          "partySingleReward:8": "false",
+          "visibility:8": "ALWAYS",
+          "isMain:8": "false",
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "name:8": "Rainbow",
+          "autoClaim:8": "false",
+          "isSilent:8": "false",
+          "desc:8": "It\u0027s so colourful. It\u0027s nice to have if you wanted to automate it or just test the Spectrolus. And you\u0027ll receive a beautiful cow. A mutated cow. A cow from which... well... you know what I mean.\n\nEs ist so bunt. Es ist so schön, sie zu haben, wenn du es automatisieren wolltest oder nur die Spectrolus testen wolltest. Und du kannst eine schöne Kuh bekommen. Eine mutierte Kuh. Eine Kuh, von der du... Du weißt, ich weiß.\n"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 0,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "minecraft:wool",
+              "Count:3": 5,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "1:10": {
+              "id:8": "minecraft:wool",
+              "Count:3": 5,
+              "OreDict:8": "",
+              "Damage:3": 1
+            },
+            "2:10": {
+              "id:8": "minecraft:wool",
+              "Count:3": 5,
+              "OreDict:8": "",
+              "Damage:3": 2
+            },
+            "3:10": {
+              "id:8": "minecraft:wool",
+              "Count:3": 5,
+              "OreDict:8": "",
+              "Damage:3": 3
+            },
+            "4:10": {
+              "id:8": "minecraft:wool",
+              "Count:3": 5,
+              "OreDict:8": "",
+              "Damage:3": 4
+            },
+            "5:10": {
+              "id:8": "minecraft:wool",
+              "Count:3": 5,
+              "OreDict:8": "",
+              "Damage:3": 5
+            },
+            "6:10": {
+              "id:8": "minecraft:wool",
+              "Count:3": 5,
+              "OreDict:8": "",
+              "Damage:3": 6
+            },
+            "7:10": {
+              "id:8": "minecraft:wool",
+              "Count:3": 5,
+              "OreDict:8": "",
+              "Damage:3": 7
+            },
+            "8:10": {
+              "id:8": "minecraft:wool",
+              "Count:3": 5,
+              "OreDict:8": "",
+              "Damage:3": 8
+            },
+            "9:10": {
+              "id:8": "minecraft:wool",
+              "Count:3": 5,
+              "OreDict:8": "",
+              "Damage:3": 9
+            },
+            "10:10": {
+              "id:8": "minecraft:wool",
+              "Count:3": 5,
+              "OreDict:8": "",
+              "Damage:3": 10
+            },
+            "11:10": {
+              "id:8": "minecraft:wool",
+              "Count:3": 5,
+              "OreDict:8": "",
+              "Damage:3": 11
+            },
+            "12:10": {
+              "id:8": "minecraft:wool",
+              "Count:3": 5,
+              "OreDict:8": "",
+              "Damage:3": 12
+            },
+            "13:10": {
+              "id:8": "minecraft:wool",
+              "Count:3": 5,
+              "OreDict:8": "",
+              "Damage:3": 13
+            },
+            "14:10": {
+              "id:8": "minecraft:wool",
+              "Count:3": 5,
+              "OreDict:8": "",
+              "Damage:3": 14
+            },
+            "15:10": {
+              "id:8": "minecraft:wool",
+              "Count:3": 5,
+              "OreDict:8": "",
+              "Damage:3": 15
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 100
+            },
+            "1:10": {
+              "id:8": "minecraft:spawn_egg",
+              "Count:3": 1,
+              "tag:10": {
+                "EntityTag:10": {
+                  "id:8": "minecraft:mooshroom"
+                }
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          }
+        }
+      }
+    },
+    "28:10": {
+      "questID:3": 41,
+      "preRequisites:11": [],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "minecraft:enchanted_book",
+            "Count:3": 1,
+            "tag:10": {
+              "StoredEnchantments:9": {
+                "0:10": {
+                  "lvl:2": 1,
+                  "id:2": 0
+                }
+              }
+            },
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeatTime:4": -1,
+          "globalShare:8": "false",
+          "questLogic:8": "AND",
+          "ismain:1": 0,
+          "lockedProgress:8": "false",
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "taskLogic:8": "AND",
+          "partySingleReward:8": "false",
+          "visibility:8": "ALWAYS",
+          "isMain:8": "false",
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "name:8": "Everything has to be enchanted",
+          "autoClaim:8": "false",
+          "isSilent:8": "false",
+          "desc:8": "You have SO MANY XP Levels. Use them for some Enchanted Books. Just Books. No need to enchant your armour. Those Books are everything you need. And a little bit of Mana. And the Mana Enchanter. That one looks so pretty, give it a try.\n\nDu hast SO VIELE LEVEL. Verbrauch sie doch für ein paar Bücher. Nur Bücher. Du brauchst deine Rüstung nicht zu verzaubern. Diese Bücher sind alles, was du brauchst. Und ein bisschen Mana. Und den Verzauberer von Botania. Es sieht so schön aus, probiere es.\n"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 0,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "minecraft:enchanted_book",
+              "Count:3": 1,
+              "tag:10": {
+                "StoredEnchantments:9": {
+                  "0:10": {
+                    "lvl:2": 4,
+                    "id:2": 0
+                  }
+                }
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "1:10": {
+              "id:8": "minecraft:enchanted_book",
+              "Count:3": 1,
+              "tag:10": {
+                "StoredEnchantments:9": {
+                  "0:10": {
+                    "lvl:2": 4,
+                    "id:2": 1
+                  }
+                }
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "2:10": {
+              "id:8": "minecraft:enchanted_book",
+              "Count:3": 1,
+              "tag:10": {
+                "StoredEnchantments:9": {
+                  "0:10": {
+                    "lvl:2": 4,
+                    "id:2": 2
+                  }
+                }
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "3:10": {
+              "id:8": "minecraft:enchanted_book",
+              "Count:3": 1,
+              "tag:10": {
+                "StoredEnchantments:9": {
+                  "0:10": {
+                    "lvl:2": 4,
+                    "id:2": 3
+                  }
+                }
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "4:10": {
+              "id:8": "minecraft:enchanted_book",
+              "Count:3": 1,
+              "tag:10": {
+                "StoredEnchantments:9": {
+                  "0:10": {
+                    "lvl:2": 4,
+                    "id:2": 4
+                  }
+                }
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "5:10": {
+              "id:8": "minecraft:enchanted_book",
+              "Count:3": 1,
+              "tag:10": {
+                "StoredEnchantments:9": {
+                  "0:10": {
+                    "lvl:2": 3,
+                    "id:2": 5
+                  }
+                }
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "6:10": {
+              "id:8": "minecraft:enchanted_book",
+              "Count:3": 1,
+              "tag:10": {
+                "StoredEnchantments:9": {
+                  "0:10": {
+                    "lvl:2": 1,
+                    "id:2": 6
+                  }
+                }
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "7:10": {
+              "id:8": "minecraft:enchanted_book",
+              "Count:3": 1,
+              "tag:10": {
+                "StoredEnchantments:9": {
+                  "0:10": {
+                    "lvl:2": 3,
+                    "id:2": 7
+                  }
+                }
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "8:10": {
+              "id:8": "minecraft:enchanted_book",
+              "Count:3": 1,
+              "tag:10": {
+                "StoredEnchantments:9": {
+                  "0:10": {
+                    "lvl:2": 3,
+                    "id:2": 8
+                  }
+                }
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "9:10": {
+              "id:8": "minecraft:enchanted_book",
+              "Count:3": 1,
+              "tag:10": {
+                "StoredEnchantments:9": {
+                  "0:10": {
+                    "lvl:2": 5,
+                    "id:2": 16
+                  }
+                }
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "10:10": {
+              "id:8": "minecraft:enchanted_book",
+              "Count:3": 1,
+              "tag:10": {
+                "StoredEnchantments:9": {
+                  "0:10": {
+                    "lvl:2": 5,
+                    "id:2": 17
+                  }
+                }
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "11:10": {
+              "id:8": "minecraft:enchanted_book",
+              "Count:3": 1,
+              "tag:10": {
+                "StoredEnchantments:9": {
+                  "0:10": {
+                    "lvl:2": 5,
+                    "id:2": 18
+                  }
+                }
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "12:10": {
+              "id:8": "minecraft:enchanted_book",
+              "Count:3": 1,
+              "tag:10": {
+                "StoredEnchantments:9": {
+                  "0:10": {
+                    "lvl:2": 2,
+                    "id:2": 19
+                  }
+                }
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "13:10": {
+              "id:8": "minecraft:enchanted_book",
+              "Count:3": 1,
+              "tag:10": {
+                "StoredEnchantments:9": {
+                  "0:10": {
+                    "lvl:2": 2,
+                    "id:2": 20
+                  }
+                }
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "14:10": {
+              "id:8": "minecraft:enchanted_book",
+              "Count:3": 1,
+              "tag:10": {
+                "StoredEnchantments:9": {
+                  "0:10": {
+                    "lvl:2": 3,
+                    "id:2": 21
+                  }
+                }
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "15:10": {
+              "id:8": "minecraft:enchanted_book",
+              "Count:3": 1,
+              "tag:10": {
+                "StoredEnchantments:9": {
+                  "0:10": {
+                    "lvl:2": 5,
+                    "id:2": 32
+                  }
+                }
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "16:10": {
+              "id:8": "minecraft:enchanted_book",
+              "Count:3": 1,
+              "tag:10": {
+                "StoredEnchantments:9": {
+                  "0:10": {
+                    "lvl:2": 1,
+                    "id:2": 33
+                  }
+                }
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "17:10": {
+              "id:8": "minecraft:enchanted_book",
+              "Count:3": 1,
+              "tag:10": {
+                "StoredEnchantments:9": {
+                  "0:10": {
+                    "lvl:2": 3,
+                    "id:2": 34
+                  }
+                }
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "18:10": {
+              "id:8": "minecraft:enchanted_book",
+              "Count:3": 1,
+              "tag:10": {
+                "StoredEnchantments:9": {
+                  "0:10": {
+                    "lvl:2": 3,
+                    "id:2": 35
+                  }
+                }
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "19:10": {
+              "id:8": "minecraft:enchanted_book",
+              "Count:3": 1,
+              "tag:10": {
+                "StoredEnchantments:9": {
+                  "0:10": {
+                    "lvl:2": 5,
+                    "id:2": 48
+                  }
+                }
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "20:10": {
+              "id:8": "minecraft:enchanted_book",
+              "Count:3": 1,
+              "tag:10": {
+                "StoredEnchantments:9": {
+                  "0:10": {
+                    "lvl:2": 2,
+                    "id:2": 49
+                  }
+                }
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "21:10": {
+              "id:8": "minecraft:enchanted_book",
+              "Count:3": 1,
+              "tag:10": {
+                "StoredEnchantments:9": {
+                  "0:10": {
+                    "lvl:2": 1,
+                    "id:2": 50
+                  }
+                }
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "22:10": {
+              "id:8": "minecraft:enchanted_book",
+              "Count:3": 1,
+              "tag:10": {
+                "StoredEnchantments:9": {
+                  "0:10": {
+                    "lvl:2": 1,
+                    "id:2": 51
+                  }
+                }
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "23:10": {
+              "id:8": "minecraft:enchanted_book",
+              "Count:3": 1,
+              "tag:10": {
+                "StoredEnchantments:9": {
+                  "0:10": {
+                    "lvl:2": 3,
+                    "id:2": 61
+                  }
+                }
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "24:10": {
+              "id:8": "minecraft:enchanted_book",
+              "Count:3": 1,
+              "tag:10": {
+                "StoredEnchantments:9": {
+                  "0:10": {
+                    "lvl:2": 3,
+                    "id:2": 62
+                  }
+                }
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "25:10": {
+              "id:8": "minecraft:enchanted_book",
+              "Count:3": 1,
+              "tag:10": {
+                "StoredEnchantments:9": {
+                  "0:10": {
+                    "lvl:2": 3,
+                    "id:2": 22
+                  }
+                }
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 100
+            },
+            "1:10": {
+              "id:8": "minecraft:enchanted_book",
+              "Count:3": 1,
+              "tag:10": {
+                "StoredEnchantments:9": {
+                  "0:10": {
+                    "lvl:2": 1,
+                    "id:2": 70
+                  }
+                }
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "2:10": {
+              "id:8": "minecraft:enchanted_book",
+              "Count:3": 1,
+              "tag:10": {
+                "StoredEnchantments:9": {
+                  "0:10": {
+                    "lvl:2": 2,
+                    "id:2": 9
+                  }
+                }
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "3:10": {
+              "id:8": "minecraft:enchanted_book",
+              "Count:3": 1,
+              "tag:10": {
+                "StoredEnchantments:9": {
+                  "0:10": {
+                    "lvl:2": 1,
+                    "id:2": 71
+                  }
+                }
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "4:10": {
+              "id:8": "minecraft:enchanted_book",
+              "Count:3": 1,
+              "tag:10": {
+                "StoredEnchantments:9": {
+                  "0:10": {
+                    "lvl:2": 1,
+                    "id:2": 10
+                  }
+                }
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          }
+        },
+        "1:10": {
+          "amount:3": 100,
+          "rewardID:8": "bq_standard:xp",
+          "isLevels:1": 1,
+          "index:3": 1
+        }
+      }
+    },
+    "29:10": {
+      "questID:3": 42,
+      "preRequisites:11": [],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "minecraft:record_13",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeatTime:4": -1,
+          "globalShare:8": "false",
+          "questLogic:8": "AND",
+          "ismain:1": 0,
+          "lockedProgress:8": "false",
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "taskLogic:8": "AND",
+          "partySingleReward:8": "false",
+          "visibility:8": "ALWAYS",
+          "isMain:8": "false",
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "name:8": "Music",
+          "autoClaim:8": "false",
+          "isSilent:8": "false",
+          "desc:8": "You need some music for your uber-cool party? Maybe you\u0027ll find the right tracks in this collection. You just have to get all of them. Then the party can start. But don\u0027t drink to much, Potions are expensive.\n\nDu brauchst Musik für deine Party? Vielleicht findest du ja die richtigen Lieder in dieser Sammlung. Du musst nur alle bekommen. Dann kann die Party starten. Aber trink nicht zu viel, Tränke sind teuer.\n"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 0,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "minecraft:record_13",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "1:10": {
+              "id:8": "minecraft:record_cat",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "2:10": {
+              "id:8": "minecraft:record_blocks",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "3:10": {
+              "id:8": "minecraft:record_chirp",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "4:10": {
+              "id:8": "minecraft:record_far",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "5:10": {
+              "id:8": "minecraft:record_mall",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "6:10": {
+              "id:8": "minecraft:record_mellohi",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "7:10": {
+              "id:8": "minecraft:record_stal",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "8:10": {
+              "id:8": "minecraft:record_strad",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "9:10": {
+              "id:8": "minecraft:record_ward",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "10:10": {
+              "id:8": "minecraft:record_11",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "11:10": {
+              "id:8": "minecraft:record_wait",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "12:10": {
+              "id:8": "botania:recordgaia1",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "13:10": {
+              "id:8": "botania:recordgaia2",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 100
+            },
+            "1:10": {
+              "id:8": "minecraft:jukebox",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          }
+        }
+      }
+    },
+    "30:10": {
+      "questID:3": 43,
+      "preRequisites:11": [
+        21
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "botania:brewery",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "Ecological brewing",
+          "desc:8": "Potions can be helpful, for sure. But we\u0027re playing with Botania! Why should we make Potions from Vanilla Minecraft? Botania is a lot more... let\u0027s say ecological.\n\nTränke können echt hilfreich sein. Aber wir spielen hier Botania, warum sollten wir Vanilla Tränke machen? Botania ist viel ökologischer.\n"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "botania:brewery",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "1:10": {
+              "id:8": "botania:vial",
+              "Count:3": 10,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "2:10": {
+              "id:8": "botania:vial",
+              "Count:3": 10,
+              "OreDict:8": "",
+              "Damage:3": 1
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 50
+            }
+          }
+        }
+      }
+    },
+    "31:10": {
+      "questID:3": 44,
+      "preRequisites:11": [
+        19
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "minecraft:enchanted_book",
+            "Count:3": 1,
+            "tag:10": {
+              "StoredEnchantments:9": {
+                "0:10": {
+                  "lvl:2": 1,
+                  "id:2": 71
+                }
+              }
+            },
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "Enchanting with Mana",
+          "desc:8": "You can use the magic energy given to you from Mana to enchant various items. You\u0027ll only need Enchanted Books. And a Multi-block Structure of course.\n\nDu kannst die Energie von Mana nutzen, um deine Items zu verzaubern. Du brauchst nur verzauberte Bücher. Und eine Multiblock Struktur.\n"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "minecraft:obsidian",
+              "Count:3": 17,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "1:10": {
+              "id:8": "botania:pylon",
+              "Count:3": 6,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:choice",
+          "index:3": 0,
+          "choices:9": {
+            "0:10": {
+              "id:8": "minecraft:enchanted_book",
+              "Count:3": 1,
+              "tag:10": {
+                "StoredEnchantments:9": {
+                  "0:10": {
+                    "lvl:2": 4,
+                    "id:2": 0
+                  }
+                }
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "1:10": {
+              "id:8": "minecraft:enchanted_book",
+              "Count:3": 1,
+              "tag:10": {
+                "StoredEnchantments:9": {
+                  "0:10": {
+                    "lvl:2": 4,
+                    "id:2": 1
+                  }
+                }
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "2:10": {
+              "id:8": "minecraft:enchanted_book",
+              "Count:3": 1,
+              "tag:10": {
+                "StoredEnchantments:9": {
+                  "0:10": {
+                    "lvl:2": 4,
+                    "id:2": 2
+                  }
+                }
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "3:10": {
+              "id:8": "minecraft:enchanted_book",
+              "Count:3": 1,
+              "tag:10": {
+                "StoredEnchantments:9": {
+                  "0:10": {
+                    "lvl:2": 4,
+                    "id:2": 3
+                  }
+                }
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "4:10": {
+              "id:8": "minecraft:enchanted_book",
+              "Count:3": 1,
+              "tag:10": {
+                "StoredEnchantments:9": {
+                  "0:10": {
+                    "lvl:2": 4,
+                    "id:2": 4
+                  }
+                }
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "5:10": {
+              "id:8": "minecraft:enchanted_book",
+              "Count:3": 1,
+              "tag:10": {
+                "StoredEnchantments:9": {
+                  "0:10": {
+                    "lvl:2": 3,
+                    "id:2": 5
+                  }
+                }
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "6:10": {
+              "id:8": "minecraft:enchanted_book",
+              "Count:3": 1,
+              "tag:10": {
+                "StoredEnchantments:9": {
+                  "0:10": {
+                    "lvl:2": 1,
+                    "id:2": 6
+                  }
+                }
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "7:10": {
+              "id:8": "minecraft:enchanted_book",
+              "Count:3": 1,
+              "tag:10": {
+                "StoredEnchantments:9": {
+                  "0:10": {
+                    "lvl:2": 3,
+                    "id:2": 7
+                  }
+                }
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "8:10": {
+              "id:8": "minecraft:enchanted_book",
+              "Count:3": 1,
+              "tag:10": {
+                "StoredEnchantments:9": {
+                  "0:10": {
+                    "lvl:2": 3,
+                    "id:2": 8
+                  }
+                }
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "9:10": {
+              "id:8": "minecraft:enchanted_book",
+              "Count:3": 1,
+              "tag:10": {
+                "StoredEnchantments:9": {
+                  "0:10": {
+                    "lvl:2": 5,
+                    "id:2": 16
+                  }
+                }
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "10:10": {
+              "id:8": "minecraft:enchanted_book",
+              "Count:3": 1,
+              "tag:10": {
+                "StoredEnchantments:9": {
+                  "0:10": {
+                    "lvl:2": 5,
+                    "id:2": 17
+                  }
+                }
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "11:10": {
+              "id:8": "minecraft:enchanted_book",
+              "Count:3": 1,
+              "tag:10": {
+                "StoredEnchantments:9": {
+                  "0:10": {
+                    "lvl:2": 5,
+                    "id:2": 18
+                  }
+                }
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "12:10": {
+              "id:8": "minecraft:enchanted_book",
+              "Count:3": 1,
+              "tag:10": {
+                "StoredEnchantments:9": {
+                  "0:10": {
+                    "lvl:2": 2,
+                    "id:2": 19
+                  }
+                }
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "13:10": {
+              "id:8": "minecraft:enchanted_book",
+              "Count:3": 1,
+              "tag:10": {
+                "StoredEnchantments:9": {
+                  "0:10": {
+                    "lvl:2": 2,
+                    "id:2": 20
+                  }
+                }
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "14:10": {
+              "id:8": "minecraft:enchanted_book",
+              "Count:3": 1,
+              "tag:10": {
+                "StoredEnchantments:9": {
+                  "0:10": {
+                    "lvl:2": 3,
+                    "id:2": 21
+                  }
+                }
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "15:10": {
+              "id:8": "minecraft:enchanted_book",
+              "Count:3": 1,
+              "tag:10": {
+                "StoredEnchantments:9": {
+                  "0:10": {
+                    "lvl:2": 5,
+                    "id:2": 32
+                  }
+                }
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "16:10": {
+              "id:8": "minecraft:enchanted_book",
+              "Count:3": 1,
+              "tag:10": {
+                "StoredEnchantments:9": {
+                  "0:10": {
+                    "lvl:2": 1,
+                    "id:2": 33
+                  }
+                }
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "17:10": {
+              "id:8": "minecraft:enchanted_book",
+              "Count:3": 1,
+              "tag:10": {
+                "StoredEnchantments:9": {
+                  "0:10": {
+                    "lvl:2": 3,
+                    "id:2": 34
+                  }
+                }
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "18:10": {
+              "id:8": "minecraft:enchanted_book",
+              "Count:3": 1,
+              "tag:10": {
+                "StoredEnchantments:9": {
+                  "0:10": {
+                    "lvl:2": 3,
+                    "id:2": 35
+                  }
+                }
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "19:10": {
+              "id:8": "minecraft:enchanted_book",
+              "Count:3": 1,
+              "tag:10": {
+                "StoredEnchantments:9": {
+                  "0:10": {
+                    "lvl:2": 5,
+                    "id:2": 48
+                  }
+                }
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "20:10": {
+              "id:8": "minecraft:enchanted_book",
+              "Count:3": 1,
+              "tag:10": {
+                "StoredEnchantments:9": {
+                  "0:10": {
+                    "lvl:2": 2,
+                    "id:2": 49
+                  }
+                }
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "21:10": {
+              "id:8": "minecraft:enchanted_book",
+              "Count:3": 1,
+              "tag:10": {
+                "StoredEnchantments:9": {
+                  "0:10": {
+                    "lvl:2": 1,
+                    "id:2": 50
+                  }
+                }
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "22:10": {
+              "id:8": "minecraft:enchanted_book",
+              "Count:3": 1,
+              "tag:10": {
+                "StoredEnchantments:9": {
+                  "0:10": {
+                    "lvl:2": 1,
+                    "id:2": 51
+                  }
+                }
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "23:10": {
+              "id:8": "minecraft:enchanted_book",
+              "Count:3": 1,
+              "tag:10": {
+                "StoredEnchantments:9": {
+                  "0:10": {
+                    "lvl:2": 3,
+                    "id:2": 61
+                  }
+                }
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "24:10": {
+              "id:8": "minecraft:enchanted_book",
+              "Count:3": 1,
+              "tag:10": {
+                "StoredEnchantments:9": {
+                  "0:10": {
+                    "lvl:2": 3,
+                    "id:2": 62
+                  }
+                }
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "25:10": {
+              "id:8": "minecraft:enchanted_book",
+              "Count:3": 1,
+              "tag:10": {
+                "StoredEnchantments:9": {
+                  "0:10": {
+                    "lvl:2": 3,
+                    "id:2": 22
+                  }
+                }
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          }
+        }
+      }
+    },
+    "32:10": {
+      "questID:3": 45,
+      "preRequisites:11": [
+        3,
+        4
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "botania:felpumpkin",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "Creating Blazes",
+          "desc:8": "In order to get to the Nether, you need Obsidian. To get Obsidian you need Blaze Powder. And last, but not least: For Blazes you need Fel Pumpkins und Iron Bars. Pretty cumbersome if you ask me...\n\nUm in den Nether zu kommen, brauchst du Obsidian. Für Obsidian brauchst du Lohenstaub. Für Lohen brauchst du Fel Pumpkins und Eisengitter.\n"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "botania:felpumpkin",
+              "Count:3": 10,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "1:10": {
+              "id:8": "minecraft:iron_bars",
+              "Count:3": 32,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "minecraft:obsidian",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "1:10": {
+              "id:8": "minecraft:fire_charge",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          }
+        }
+      }
+    },
+    "33:10": {
+      "questID:3": 46,
+      "preRequisites:11": [
+        2
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "ALWAYS",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "minecraft:skull",
+            "Count:3": 1,
+            "Damage:2": 2,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "Mob Farm",
+          "desc:8": "It\u0027s getting dark and uncomfortable. Monsters start to spawn around you. Maybe it\u0027s a good idea to build yourself a Mob Farm, don\u0027t you think?\n\nEs wird Nacht. Es wird unangenehm. Monster spawnen um dir herum. Es wäre vielleicht besser, wenn du dir eine Monsterfalle baust.\n"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "targetNBT:10": {},
+          "required:3": 5,
+          "taskID:8": "bq_standard:hunt",
+          "target:8": "minecraft:zombie",
+          "subtypes:1": 1
+        },
+        "1:10": {
+          "ignoreNBT:1": 1,
+          "index:3": 1,
+          "targetNBT:10": {
+            "HurtByTimestamp:3": 0,
+            "Attributes:9": {
+              "0:10": {
+                "Base:6": 20.0,
+                "Name:8": "generic.maxHealth"
+              },
+              "1:10": {
+                "Base:6": 0.0,
+                "Name:8": "generic.knockbackResistance"
+              },
+              "2:10": {
+                "Base:6": 0.25,
+                "Name:8": "generic.movementSpeed"
+              },
+              "3:10": {
+                "Base:6": 0.0,
+                "Name:8": "generic.armor"
+              },
+              "4:10": {
+                "Base:6": 0.0,
+                "Name:8": "generic.armorToughness"
+              },
+              "5:10": {
+                "Base:6": 16.0,
+                "Name:8": "generic.followRange"
+              },
+              "6:10": {
+                "Base:6": 2.0,
+                "Name:8": "generic.attackDamage"
+              }
+            },
+            "Invulnerable:1": 0,
+            "FallFlying:1": 0,
+            "PortalCooldown:3": 0,
+            "AbsorptionAmount:5": 0.0,
+            "FallDistance:5": 0.0,
+            "DeathTime:2": 0,
+            "HandDropChances:9": {
+              "0:5": 0.085,
+              "1:5": 0.085
+            },
+            "PersistenceRequired:1": 0,
+            "id:8": "minecraft:creeper",
+            "Fuse:2": 30,
+            "Motion:9": {
+              "0:6": 0.0,
+              "1:6": 0.0,
+              "2:6": 0.0
+            },
+            "Leashed:1": 0,
+            "UUIDLeast:4": -6069225602956655225,
+            "Health:5": 20.0,
+            "LeftHanded:1": 0,
+            "Air:2": 0,
+            "OnGround:1": 0,
+            "Dimension:3": 0,
+            "ignited:1": 0,
+            "Rotation:9": {
+              "0:5": 0.0,
+              "1:5": 0.0
+            },
+            "UpdateBlocked:1": 0,
+            "HandItems:9": {
+              "0:10": {},
+              "1:10": {}
+            },
+            "ArmorDropChances:9": {
+              "0:5": 0.085,
+              "1:5": 0.085,
+              "2:5": 0.085,
+              "3:5": 0.085
+            },
+            "UUIDMost:4": -1814746570989289232,
+            "Pos:9": {
+              "0:6": 0.0,
+              "1:6": 0.0,
+              "2:6": 0.0
+            },
+            "Fire:2": 0,
+            "ArmorItems:9": {
+              "0:10": {},
+              "1:10": {},
+              "2:10": {},
+              "3:10": {}
+            },
+            "CanPickUpLoot:1": 0,
+            "HurtTime:2": 0,
+            "ExplosionRadius:1": 3
+          },
+          "required:3": 5,
+          "taskID:8": "bq_standard:hunt",
+          "target:8": "minecraft:creeper",
+          "subtypes:1": 1
+        },
+        "2:10": {
+          "ignoreNBT:1": 1,
+          "index:3": 2,
+          "targetNBT:10": {
+            "HurtByTimestamp:3": 0,
+            "Attributes:9": {
+              "0:10": {
+                "Base:6": 20.0,
+                "Name:8": "generic.maxHealth"
+              },
+              "1:10": {
+                "Base:6": 0.0,
+                "Name:8": "generic.knockbackResistance"
+              },
+              "2:10": {
+                "Base:6": 0.25,
+                "Name:8": "generic.movementSpeed"
+              },
+              "3:10": {
+                "Base:6": 0.0,
+                "Name:8": "generic.armor"
+              },
+              "4:10": {
+                "Base:6": 0.0,
+                "Name:8": "generic.armorToughness"
+              },
+              "5:10": {
+                "Base:6": 16.0,
+                "Name:8": "generic.followRange"
+              },
+              "6:10": {
+                "Base:6": 2.0,
+                "Name:8": "generic.attackDamage"
+              }
+            },
+            "Invulnerable:1": 0,
+            "FallFlying:1": 0,
+            "PortalCooldown:3": 0,
+            "AbsorptionAmount:5": 0.0,
+            "FallDistance:5": 0.0,
+            "DeathTime:2": 0,
+            "HandDropChances:9": {
+              "0:5": 0.085,
+              "1:5": 0.085
+            },
+            "PersistenceRequired:1": 0,
+            "id:8": "minecraft:skeleton",
+            "Motion:9": {
+              "0:6": 0.0,
+              "1:6": 0.0,
+              "2:6": 0.0
+            },
+            "Leashed:1": 0,
+            "UUIDLeast:4": -8024004276909947142,
+            "Health:5": 20.0,
+            "LeftHanded:1": 0,
+            "Air:2": 0,
+            "OnGround:1": 0,
+            "Dimension:3": 0,
+            "Rotation:9": {
+              "0:5": 0.0,
+              "1:5": 0.0
+            },
+            "UpdateBlocked:1": 0,
+            "HandItems:9": {
+              "0:10": {},
+              "1:10": {}
+            },
+            "ArmorDropChances:9": {
+              "0:5": 0.085,
+              "1:5": 0.085,
+              "2:5": 0.085,
+              "3:5": 0.085
+            },
+            "UUIDMost:4": -2702494151326217434,
+            "Pos:9": {
+              "0:6": 0.0,
+              "1:6": 0.0,
+              "2:6": 0.0
+            },
+            "Fire:2": 0,
+            "ArmorItems:9": {
+              "0:10": {},
+              "1:10": {},
+              "2:10": {},
+              "3:10": {}
+            },
+            "CanPickUpLoot:1": 0,
+            "HurtTime:2": 0
+          },
+          "required:3": 5,
+          "taskID:8": "bq_standard:hunt",
+          "target:8": "minecraft:skeleton",
+          "subtypes:1": 1
+        },
+        "3:10": {
+          "ignoreNBT:1": 1,
+          "index:3": 3,
+          "targetNBT:10": {
+            "HurtByTimestamp:3": 0,
+            "Attributes:9": {
+              "0:10": {
+                "Base:6": 40.0,
+                "Name:8": "generic.maxHealth"
+              },
+              "1:10": {
+                "Base:6": 0.0,
+                "Name:8": "generic.knockbackResistance"
+              },
+              "2:10": {
+                "Base:6": 0.30000001192092896,
+                "Name:8": "generic.movementSpeed"
+              },
+              "3:10": {
+                "Base:6": 0.0,
+                "Name:8": "generic.armor"
+              },
+              "4:10": {
+                "Base:6": 0.0,
+                "Name:8": "generic.armorToughness"
+              },
+              "5:10": {
+                "Base:6": 64.0,
+                "Name:8": "generic.followRange"
+              },
+              "6:10": {
+                "Base:6": 7.0,
+                "Name:8": "generic.attackDamage"
+              }
+            },
+            "Invulnerable:1": 0,
+            "FallFlying:1": 0,
+            "PortalCooldown:3": 0,
+            "AbsorptionAmount:5": 0.0,
+            "FallDistance:5": 0.0,
+            "DeathTime:2": 0,
+            "HandDropChances:9": {
+              "0:5": 0.085,
+              "1:5": 0.085
+            },
+            "PersistenceRequired:1": 0,
+            "id:8": "minecraft:enderman",
+            "Motion:9": {
+              "0:6": 0.0,
+              "1:6": 0.0,
+              "2:6": 0.0
+            },
+            "Leashed:1": 0,
+            "UUIDLeast:4": -7125681078132707142,
+            "Health:5": 40.0,
+            "LeftHanded:1": 0,
+            "Air:2": 0,
+            "OnGround:1": 0,
+            "Dimension:3": 0,
+            "Rotation:9": {
+              "0:5": 0.0,
+              "1:5": 0.0
+            },
+            "UpdateBlocked:1": 0,
+            "HandItems:9": {
+              "0:10": {},
+              "1:10": {}
+            },
+            "ArmorDropChances:9": {
+              "0:5": 0.085,
+              "1:5": 0.085,
+              "2:5": 0.085,
+              "3:5": 0.085
+            },
+            "UUIDMost:4": -6695204883827962011,
+            "Pos:9": {
+              "0:6": 0.0,
+              "1:6": 0.0,
+              "2:6": 0.0
+            },
+            "Fire:2": 0,
+            "ArmorItems:9": {
+              "0:10": {},
+              "1:10": {},
+              "2:10": {},
+              "3:10": {}
+            },
+            "CanPickUpLoot:1": 0,
+            "HurtTime:2": 0
+          },
+          "required:3": 1,
+          "taskID:8": "bq_standard:hunt",
+          "target:8": "minecraft:enderman",
+          "subtypes:1": 1
+        },
+        "4:10": {
+          "ignoreNBT:1": 1,
+          "index:3": 4,
+          "targetNBT:10": {
+            "HurtByTimestamp:3": 0,
+            "Attributes:9": {
+              "0:10": {
+                "Base:6": 26.0,
+                "Name:8": "generic.maxHealth"
+              },
+              "1:10": {
+                "Base:6": 0.0,
+                "Name:8": "generic.knockbackResistance"
+              },
+              "2:10": {
+                "Base:6": 0.25,
+                "Name:8": "generic.movementSpeed"
+              },
+              "3:10": {
+                "Base:6": 0.0,
+                "Name:8": "generic.armor"
+              },
+              "4:10": {
+                "Base:6": 0.0,
+                "Name:8": "generic.armorToughness"
+              },
+              "5:10": {
+                "Base:6": 16.0,
+                "Name:8": "generic.followRange"
+              },
+              "6:10": {
+                "Base:6": 2.0,
+                "Name:8": "generic.attackDamage"
+              }
+            },
+            "Invulnerable:1": 0,
+            "FallFlying:1": 0,
+            "PortalCooldown:3": 0,
+            "AbsorptionAmount:5": 0.0,
+            "FallDistance:5": 0.0,
+            "DeathTime:2": 0,
+            "HandDropChances:9": {
+              "0:5": 0.085,
+              "1:5": 0.085
+            },
+            "PersistenceRequired:1": 0,
+            "id:8": "minecraft:witch",
+            "Motion:9": {
+              "0:6": 0.0,
+              "1:6": 0.0,
+              "2:6": 0.0
+            },
+            "Leashed:1": 0,
+            "UUIDLeast:4": -8802518172202827804,
+            "Health:5": 26.0,
+            "LeftHanded:1": 0,
+            "Air:2": 0,
+            "OnGround:1": 0,
+            "Dimension:3": 0,
+            "Rotation:9": {
+              "0:5": 0.0,
+              "1:5": 0.0
+            },
+            "UpdateBlocked:1": 0,
+            "HandItems:9": {
+              "0:10": {},
+              "1:10": {}
+            },
+            "ArmorDropChances:9": {
+              "0:5": 0.085,
+              "1:5": 0.085,
+              "2:5": 0.085,
+              "3:5": 0.085
+            },
+            "UUIDMost:4": 4863535465049180694,
+            "Pos:9": {
+              "0:6": 0.0,
+              "1:6": 0.0,
+              "2:6": 0.0
+            },
+            "Fire:2": 0,
+            "ArmorItems:9": {
+              "0:10": {},
+              "1:10": {},
+              "2:10": {},
+              "3:10": {}
+            },
+            "CanPickUpLoot:1": 0,
+            "HurtTime:2": 0
+          },
+          "required:3": 1,
+          "taskID:8": "bq_standard:hunt",
+          "target:8": "minecraft:witch",
+          "subtypes:1": 1
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "minecraft:slime_ball",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          }
+        }
+      }
+    },
+    "34:10": {
+      "questID:3": 47,
+      "preRequisites:11": [],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "minecraft:red_flower",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "Updating",
+          "desc:8": ""
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "index:3": 0,
+          "taskID:8": "bq_standard:checkbox"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "hideCommand:1": 0,
+          "rewardID:8": "bq_standard:command",
+          "viaPlayer:1": 0,
+          "index:3": 0,
+          "command:8": "/bq_admin default load"
+        },
+        "1:10": {
+          "hideCommand:1": 0,
+          "rewardID:8": "bq_standard:command",
+          "viaPlayer:1": 0,
+          "index:3": 1,
+          "command:8": "/bq_admin reset 47"
+        }
+      }
+    },
+    "35:10": {
+      "questID:3": 48,
+      "preRequisites:11": [
+        25
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "botania:pylon",
+            "Count:3": 1,
+            "Damage:2": 2,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "The basic Gaia",
+          "desc:8": "For this Ritual of Gaia you\u0027ll need a few things: Those pesky Gaia Pylons and a Beacon with a base.\n\nFür das Ritual des Gaia brauchst du ein paar Sachen. Diese Gaia Pylonen und ein Leuchtfeuer mit einer Basis.\n"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "botania:pylon",
+              "Count:3": 4,
+              "OreDict:8": "",
+              "Damage:3": 2
+            },
+            "1:10": {
+              "id:8": "minecraft:beacon",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:choice",
+          "index:3": 0,
+          "choices:9": {
+            "0:10": {
+              "id:8": "botania:bloodpendant",
+              "Count:3": 1,
+              "tag:10": {
+                "brewKey:8": "speed"
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "1:10": {
+              "id:8": "botania:bloodpendant",
+              "Count:3": 1,
+              "tag:10": {
+                "brewKey:8": "strength"
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "2:10": {
+              "id:8": "botania:bloodpendant",
+              "Count:3": 1,
+              "tag:10": {
+                "brewKey:8": "regen"
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          }
+        }
+      }
+    },
+    "36:10": {
+      "questID:3": 49,
+      "preRequisites:11": [
+        48
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "minecraft:end_portal_frame",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "The End",
+          "desc:8": "You know the drill: Place twelve End Portal Frames from the inside in a circle-ish formation around yourself. But be careful: Don\u0027t place them down from the outside, as you can\u0027t rearrange them again later. Again: Place them around yourself from the INSIDE and NOT from the OUTSIDE!\n\nDu wirst 12 Endportalrahmen brauchen und musst sie von innen in einem Kreis aufbauen. Nicht von außen. Aber Achtung, du kannst die Blöcke nicht wieder umbauen. Nochmal: Bau sie um dich herum. Von INNEN und NICHT von AUSSEN!\n"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "minecraft:end_portal_frame",
+              "Count:3": 12,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "minecraft:ender_eye",
+              "Count:3": 12,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          }
+        }
+      }
+    },
+    "37:10": {
+      "questID:3": 50,
+      "preRequisites:11": [
+        48
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "botania:spreader",
+            "Count:3": 1,
+            "Damage:2": 3,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "Gaia Mana Spreader",
+          "desc:8": "Gaia Mana Spreaders are four times as quick in, well, spreading Mana as their normal counterpart. That\u0027s it basically.\n\nGaia Manaverteiler sind viermal schneller als normale Manaverteiler.\n"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "botania:spreader",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 3
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "botania:gaiahead",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          }
+        }
+      }
+    }
+  },
+  "questLines:9": {
+    "0:10": {
+      "quests:9": {
+        "0:10": {
+          "size:3": 24,
+          "x:3": -126,
+          "y:3": 18,
+          "id:3": 0
+        },
+        "1:10": {
+          "size:3": 24,
+          "x:3": 60,
+          "y:3": 18,
+          "id:3": 1
+        },
+        "2:10": {
+          "size:3": 24,
+          "x:3": -60,
+          "y:3": 84,
+          "id:3": 2
+        },
+        "3:10": {
+          "size:3": 24,
+          "x:3": -138,
+          "y:3": 156,
+          "id:3": 3
+        },
+        "4:10": {
+          "size:3": 24,
+          "x:3": 42,
+          "y:3": 84,
+          "id:3": 4
+        },
+        "5:10": {
+          "size:3": 24,
+          "x:3": 12,
+          "y:3": 186,
+          "id:3": 5
+        },
+        "6:10": {
+          "size:3": 24,
+          "x:3": -18,
+          "y:3": 126,
+          "id:3": 46
+        }
+      },
+      "lineID:3": 0,
+      "properties:10": {
+        "betterquesting:10": {
+          "name:8": "Getting started",
+          "bg_image:8": "",
+          "bg_size:3": 256,
+          "desc:8": "Welcome to Garden of Glass by Botania. But not only Garden of Glass - it\u0027s with this Quest Book.\nWe have to start early game things like wood and cobblestone. Do it. Just do it."
+        }
+      },
+      "order:3": 1
+    },
+    "1:10": {
+      "quests:9": {
+        "0:10": {
+          "size:3": 24,
+          "x:3": -54,
+          "y:3": 30,
+          "id:3": 19
+        },
+        "1:10": {
+          "size:3": 24,
+          "x:3": 30,
+          "y:3": 48,
+          "id:3": 20
+        },
+        "2:10": {
+          "size:3": 24,
+          "x:3": 114,
+          "y:3": 84,
+          "id:3": 21
+        },
+        "3:10": {
+          "size:3": 24,
+          "x:3": -12,
+          "y:3": 90,
+          "id:3": 22
+        },
+        "4:10": {
+          "size:3": 24,
+          "x:3": 30,
+          "y:3": 144,
+          "id:3": 23
+        },
+        "5:10": {
+          "size:3": 24,
+          "x:3": 108,
+          "y:3": 180,
+          "id:3": 24
+        },
+        "6:10": {
+          "size:3": 24,
+          "x:3": 54,
+          "y:3": 216,
+          "id:3": 25
+        },
+        "7:10": {
+          "size:3": 24,
+          "x:3": 198,
+          "y:3": 144,
+          "id:3": 43
+        },
+        "8:10": {
+          "size:3": 24,
+          "x:3": -54,
+          "y:3": 144,
+          "id:3": 44
+        },
+        "9:10": {
+          "size:3": 24,
+          "x:3": 114,
+          "y:3": 30,
+          "id:3": 45
+        }
+      },
+      "lineID:3": 1,
+      "properties:10": {
+        "betterquesting:10": {
+          "name:8": "It\u0027s a kind of magic",
+          "bg_image:8": "",
+          "bg_size:3": 256,
+          "desc:8": "We have mana, we have resources, we wanna have more. More magical things. Runes and tools which are repaired by mana. We need dirt, too. Let\u0027s do it."
+        }
+      },
+      "order:3": 2
+    },
+    "2:10": {
+      "quests:9": {
+        "0:10": {
+          "size:3": 24,
+          "x:3": -12,
+          "y:3": 24,
+          "id:3": 26
+        },
+        "1:10": {
+          "size:3": 24,
+          "x:3": -12,
+          "y:3": 66,
+          "id:3": 27
+        },
+        "2:10": {
+          "size:3": 24,
+          "x:3": -12,
+          "y:3": 108,
+          "id:3": 28
+        },
+        "3:10": {
+          "size:3": 24,
+          "x:3": -42,
+          "y:3": 150,
+          "id:3": 29
+        },
+        "4:10": {
+          "size:3": 24,
+          "x:3": 18,
+          "y:3": 150,
+          "id:3": 30
+        }
+      },
+      "lineID:3": 3,
+      "properties:10": {
+        "betterquesting:10": {
+          "name:8": "The End-Bosses",
+          "bg_image:8": "",
+          "bg_size:3": 256,
+          "desc:8": "We have to do many things. To complete these modpack we have to fight against Wither and Gaia and the Ender Dragon. It may be easy, but try it without Draconic Evolution or Blood Magic... It\u0027s much harder."
+        }
+      },
+      "order:3": 4
+    },
+    "3:10": {
+      "quests:9": {
+        "0:10": {
+          "size:3": 24,
+          "x:3": -120,
+          "y:3": 18,
+          "id:3": 31
+        },
+        "1:10": {
+          "size:3": 24,
+          "x:3": -120,
+          "y:3": 54,
+          "id:3": 32
+        },
+        "2:10": {
+          "size:3": 24,
+          "x:3": -120,
+          "y:3": 90,
+          "id:3": 33
+        },
+        "3:10": {
+          "size:3": 24,
+          "x:3": -72,
+          "y:3": 18,
+          "id:3": 34
+        },
+        "4:10": {
+          "size:3": 24,
+          "x:3": -72,
+          "y:3": 54,
+          "id:3": 35
+        },
+        "5:10": {
+          "size:3": 24,
+          "x:3": -72,
+          "y:3": 90,
+          "id:3": 36
+        },
+        "6:10": {
+          "size:3": 24,
+          "x:3": -24,
+          "y:3": 90,
+          "id:3": 37
+        },
+        "7:10": {
+          "size:3": 24,
+          "x:3": -24,
+          "y:3": 54,
+          "id:3": 38
+        },
+        "8:10": {
+          "size:3": 24,
+          "x:3": -24,
+          "y:3": 18,
+          "id:3": 39
+        },
+        "9:10": {
+          "size:3": 24,
+          "x:3": 24,
+          "y:3": 18,
+          "id:3": 40
+        },
+        "10:10": {
+          "size:3": 24,
+          "x:3": 24,
+          "y:3": 54,
+          "id:3": 41
+        },
+        "11:10": {
+          "size:3": 24,
+          "x:3": 24,
+          "y:3": 90,
+          "id:3": 42
+        }
+      },
+      "lineID:3": 4,
+      "properties:10": {
+        "betterquesting:10": {
+          "name:8": "If nothing to do",
+          "bg_image:8": "",
+          "bg_size:3": 256,
+          "desc:8": "That\u0027s the collection of quests which are for time that you can be afk on the world. Then you can have fun in Minecraft and don\u0027t have to find any other activity."
+        }
+      },
+      "order:3": 5
+    },
+    "4:10": {
+      "quests:9": {
+        "0:10": {
+          "size:3": 24,
+          "x:3": -12,
+          "y:3": 102,
+          "id:3": 47
+        }
+      },
+      "lineID:3": 5,
+      "properties:10": {
+        "betterquesting:10": {
+          "name:8": "Updating",
+          "bg_image:8": "",
+          "bg_size:3": 256,
+          "desc:8": "Update your questbook everytime after updating modpack."
+        }
+      },
+      "order:3": 0
+    },
+    "5:10": {
+      "quests:9": {
+        "0:10": {
+          "size:3": 24,
+          "x:3": -12,
+          "y:3": 30,
+          "id:3": 48
+        },
+        "1:10": {
+          "size:3": 24,
+          "x:3": -48,
+          "y:3": 66,
+          "id:3": 49
+        },
+        "2:10": {
+          "size:3": 24,
+          "x:3": 24,
+          "y:3": 66,
+          "id:3": 50
+        }
+      },
+      "lineID:3": 6,
+      "properties:10": {
+        "betterquesting:10": {
+          "name:8": "It\u0027s a little bit hard",
+          "bg_image:8": "",
+          "bg_size:3": 256,
+          "desc:8": "You did so much stuff. But now it\u0027s time to do something harder."
+        }
+      },
+      "order:3": 3
+    }
+  },
+  "questSettings:10": {
+    "betterquesting:10": {
+      "livesdef:3": 3,
+      "home_anchor_y:5": 0.0,
+      "livesmax:3": 10,
+      "home_anchor_x:5": 0.5,
+      "editmode:1": 0,
+      "hardcore:1": 0,
+      "home_image:8": "betterquesting:textures/gui/default_title.png",
+      "home_offset_x:3": -128,
+      "home_offset_y:3": 0
+    }
+  }
+}

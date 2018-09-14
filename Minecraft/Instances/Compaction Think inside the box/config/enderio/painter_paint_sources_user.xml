@@ -1,0 +1,16 @@
+<!--
+See PainterPaintSources_Core.xml for documentation.
+-->
+
+<PainterPaintSources>
+
+  <whitelist>
+   <itemStack modID="compactmachines3" itemName="wallbreakable" add="true" />
+   
+  </whitelist>
+
+  <blacklist>
+
+  </blacklist>
+
+</PainterPaintSources>

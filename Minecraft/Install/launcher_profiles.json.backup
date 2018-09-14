@@ -1,0 +1,32 @@
+{
+  "profiles": {
+    "Modern Skyblock 3 Departed": {
+      "name": "Modern Skyblock 3 Departed",
+      "gameDir": "C:\\Users\\Jolvary\\Documents\\Curse\\Minecraft\\Instances\\Modern Skyblock 3 Departed\\",
+      "lastVersionId": "forge-14.23.4.2750",
+      "javaArgs": "-Xmx6144m -Xms256m -XX:PermSize=256m -Dminecraft.applet.TargetDirectory=\"C:\\Users\\Jolvary\\Documents\\Curse\\Minecraft\\Instances\\Modern Skyblock 3 Departed\" -Dfml.ignorePatchDiscrepancies=true -Dfml.ignoreInvalidMinecraftCertificates=true -Duser.language=en -Duser.country=US",
+      "resolution": {
+        "width": "1024",
+        "height": "768"
+      },
+      "launcherVisibilityOnGameClose": "close launcher when game starts"
+    }
+  },
+  "selectedProfile": "Modern Skyblock 3 Departed",
+  "clientToken": "e08835af-1eb5-48df-93bc-510f43b1116d",
+  "authenticationDatabase": {
+    "c8945350839f4c6d8b0ee99df549f3bc": {
+      "username": "jolvi98@hotmail.com",
+      "accessToken": "e3c8bd990e26456cb240d76d6e4ec059",
+      "userid": "2f162ba97a084d4c8231497da1b75426",
+      "uuid": "c8945350-839f-4c6d-8b0e-e99df549f3bc",
+      "displayName": "jolvary98"
+    }
+  },
+  "selectedUser": "c8945350839f4c6d8b0ee99df549f3bc",
+  "launcherVersion": {
+    "name": "1.6.91",
+    "format": 21,
+    "profilesFormat": 1
+  }
+}

@@ -1,0 +1,24 @@
+[INITIALIZATION][CLIENT][INFO] CraftTweaker: Building registry
+[INITIALIZATION][CLIENT][INFO] CraftTweaker: Successfully built item registry
+[INITIALIZATION][CLIENT][INFO] Loading scripts
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: recipes.zs}
+[INITIALIZATION][CLIENT][INFO] Completed script loading in: 2193ms
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Creative Storage Upgrade with name ct_shaped-1441927190
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Wooden Wrench with name ct_shaped-1880662959
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Ender Shard with name ct_shaped-23756796
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Rocky Princess with name ct_shaped709743670
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Rocky Drone with name ct_shaped-1369815208
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Seeds with name ct_shapeless-1069944969
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Nether Quartz Chicken with name ct_shaped510642317
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Soul Sand Chicken with name ct_shaped-540039831
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Sand Chicken with name ct_shaped-1778580426
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Flint Chicken with name ct_shaped505941503
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Log Chicken with name ct_shaped-1199783910
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Wooden Shears with name ct_shaped-266516126
+[POSTINITIALIZATION][CLIENT][INFO] Adding furnace recipe for <minecraft:prismarine_shard>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <exnihilocreatio:block_end_cake>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <exnihilocreatio:item_material:1>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <extrautils2:teleporter:1>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <extrautils2:teleporter>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <skyresources:endportalcore>
+[SERVER_STARTED][CLIENT][INFO] Fixed the RecipeBook

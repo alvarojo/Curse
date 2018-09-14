@@ -1,0 +1,190 @@
+{
+    "images":
+    {
+        "title":
+        {
+            "image" : "menu:minecraft.png",			
+            "posX" : 240,
+            "posY" : -110,
+            "width" : 512,
+            "height" : 512,
+            "alignment" : "left_center"
+			
+        },
+       
+        "black":
+        {
+            "image" : "menu:blacktransparent.png",
+            "posX" : 50,
+            "posY" : 0,
+            "width" : 100,
+            "height" : 2000,
+            "alignment" : "top_left"
+        }
+    },
+   
+    "buttons":
+    {
+        "singleplayer":
+        {
+            "text" : "menu.singleplayer",
+            "posX" : 55,
+            "posY" : -35,
+            "width" : 90,
+            "height" : 20,
+            "alignment" : "left_center",
+			"texture" : "menu:button2.png",
+			"action" : 
+            {
+                "type" : "openGui",
+                "gui" : "singleplayer"
+            }
+        },
+       
+        "multiplayer":
+        {
+            "text" : "menu.multiplayer",
+			"texture" : "menu:button2.png",
+            "posX" : 55,
+            "posY" : -10,
+            "width" : 90,
+            "height" : 20,
+            "alignment" : "left_center",
+			"action" : 
+            {
+                "type" : "openGui",
+                "gui" : "multiplayer"
+            }
+        },
+       
+        "options":
+        {
+            "text" : "menu.options",
+			"texture" : "menu:button2.png",
+            "posX" : 55,
+            "posY" : 15,
+            "width" : 90,
+            "height" : 20,
+            "alignment" : "left_center",
+			"action" : 
+            {
+                "type" : "openGui",
+                "gui" : "options"
+            }
+			
+        },
+		
+		"serfile":
+        {
+            "text" : "Server File Link",
+			"texture" : "menu:button2.png",
+            "posX" : 55,
+            "posY" : 40,
+            "width" : 90,
+            "height" : 20,
+            "alignment" : "left_center",
+			"hoverText" : "OwO wuts dis",
+			"action" : 
+            {
+                "type" : "openLink",
+                "link" : "https://www.youtube.com/watch?v=IFfLCuHSZ-U"
+            }
+			
+        },
+           
+        "mods":
+        {
+            "text" : "",
+            "posX" : 55,
+            "posY" : -25,
+            "width" : 20,
+            "height" : 20,
+			"hoverText" : "fml.menu.mods",
+            "alignment" : "bottom_left",
+            "texture" : "menu:buttonM.png",
+			"action" : 
+            {
+                "type" : "openGui",
+                "gui" : "mods"
+            }
+			
+        },
+       
+        "quit":
+        {
+            "text" : "",
+            "posX" : 125,
+            "posY" : -25,
+            "width" : 20,
+            "height" : 20,
+            "alignment" : "bottom_left",
+			"hoverText" : "menu.quit",
+            "texture" : "menu:buttonQ.png",
+			"action" : 
+            {
+                "type" : "openLink",
+                "link" : "https://www.youtube.com/watch?v=shrxyHqMAq0"
+            }
+        },
+       
+        "language":
+        {
+            "text" : "",
+            "posX" : 80,
+            "posY" : -25,
+            "width" : 20,
+            "height" : 20,
+            "alignment" : "bottom_left",
+			"hoverText" : "Language",
+			"texture" : "menu:buttonL.png",
+			"action" : 
+            {
+                "type" : "openGui",
+                "gui" : "languages"
+            }
+        }
+    },
+   
+    "labels":
+    {
+       "packTxt":
+        {
+            "text" : "Skybalance 2 v1.iwannadie",
+            "posX" : -132,
+            "posY" : -20,
+            "color" : -1,
+            "alignment" : "bottom_right"
+        },
+		"packTxt2":
+        {
+            "text" : "Forge #forgeversion#, #modsactive# Command Block Mods",
+                  "posX" : -218,
+            "posY" : -10,
+            "color" : -1,
+            "alignment" : "bottom_right",
+			"action" : 
+            {
+                "type" : "refresh"
+            }
+        }
+    },
+   
+    "other":
+    {
+        "background":
+		{
+			"image" : "menu:bg.png",
+			"mode" : "fill"
+
+		},
+		"splash-text":
+        {
+            "posX" : 180,
+            "posY" : 120,
+            "color" : 9830400,
+            "alignment" : "top_center",
+            "texts" : "file:minecraft:texts/splashes.txt"
+        }
+		
+    }
+}

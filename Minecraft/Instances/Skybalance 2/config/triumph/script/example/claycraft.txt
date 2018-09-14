@@ -1,0 +1,21 @@
+//Set the icon item
+setIcon("projecte:item.pe_philosophers_stone")
+
+//Set the title String
+setTitle("I have the power of clay and anime on my side")
+
+//Set the description String
+setDescription("Craft a fookin Philosopher's Clay you fokin doOONKAYY")
+
+//Set the parent advancement. The syntax is "modid:folder/path/to/the/advancement/then/filename"
+setParent("triumph:example/clay1")
+
+//Adds criteria named "crafted" with the trigger type "triumph:player_crafted_item". This function returns the criteria as an object
+criteria = addCriteria("crafted", "triumph:player_crafted_item")
+//Sets the required item for the criteria. This is the item that needs to be crafted. First variable is the item name, second is the metadata and is not required.
+criteria.setItem("projecte:item.pe_philosophers_stone")
+
+//Sets the item reward. A second variable can be added for meta, and a third can be added for stack size
+
+
+//By not setting anything about requirements here, all criteria are automatically required

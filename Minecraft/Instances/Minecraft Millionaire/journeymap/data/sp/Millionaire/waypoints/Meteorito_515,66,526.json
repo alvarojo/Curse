@@ -1,0 +1,17 @@
+{
+  "id": "Meteorito_515,66,526",
+  "name": "Meteorito",
+  "icon": "waypoint-normal.png",
+  "x": 515,
+  "y": 66,
+  "z": 526,
+  "r": 47,
+  "g": 40,
+  "b": 251,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

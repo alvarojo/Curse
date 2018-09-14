@@ -1,0 +1,152 @@
+{
+    "images":
+    {
+        "title":
+        {
+            "image" : "modpack:logo/logo.png",
+            "posX" : -120,
+            "posY" : 15,
+            "width" : 240,
+            "height": 96,
+            "imageWidth": 620,
+            "imageHeight": 248,
+            "alignment" : "top_center"
+        }
+    },
+
+  "buttons": {
+    "singleplayer": {
+      "text": "menu.singleplayer",
+      "posX": -100,
+      "posY": 48,
+      "width": 200,
+      "height": 20,
+      "imageWidth": 312,
+      "imageHeight": 40,
+      "texture": "modpack:buttons/button.png",
+      "normalTextColor": 0,
+      "hoverTextColor": 16777215,
+      "action": {
+        "type": "openGui",
+        "gui": "singleplayer"
+      },
+      "shadow": false
+    },
+
+    "multiplayer": {
+      "text": "menu.multiplayer",
+      "posX": -100,
+      "posY": 72,
+      "width": 200,
+      "height": 20,
+      "imageWidth": 312,
+      "imageHeight": 40,
+      "texture": "modpack:buttons/button.png",
+      "normalTextColor": 0,
+      "hoverTextColor": 16777215,
+      "action": {
+        "type": "openGui",
+        "gui": "multiplayer"
+      },
+      "shadow": false
+    },
+
+    "mods": {
+      "text": "fml.menu.mods",
+      "posX": -100,
+      "posY": 96,
+      "width": 200,
+      "height": 20,
+      "imageWidth": 312,
+      "imageHeight": 40,
+      "texture": "modpack:buttons/button.png",
+      "normalTextColor": 0,
+      "hoverTextColor": 16777215,
+      "action": {
+        "type": "openGui",
+        "gui": "mods"
+      },
+      "shadow": false
+    },
+
+    "options": {
+      "text": "menu.options",
+      "posX": -100,
+      "posY": 132,
+      "width": 98,
+      "height": 20,
+      "imageWidth": 153,
+      "imageHeight": 40,
+      "texture": "modpack:buttons/button2.png",
+      "normalTextColor": 0,
+      "hoverTextColor": 16777215,
+      "action": {
+        "type": "openGui",
+        "gui": "options"
+      },
+      "shadow": false
+    },
+
+    "quit": {
+      "text": "menu.quit",
+      "posX": 2,
+      "posY": 132,
+      "width": 98,
+      "height": 20,
+      "imageWidth": 153,
+      "imageHeight": 40,
+      "texture": "modpack:buttons/button2.png",
+      "normalTextColor": 0,
+      "hoverTextColor": 16777215,
+      "action": {
+        "type": "quit"
+      },
+      "shadow": false
+    },
+
+    "language": {
+      "text": "",
+      "posX": -124,
+      "posY": 132,
+      "width": 20,
+      "height": 20,
+      "imageHeight": 300,
+      "imageWidth": 300,
+      "action": {
+        "type": "openGui",
+        "gui": "languages"
+      },
+      "texture": "modpack:buttons/lang.png"
+    }
+  },
+   
+    "texts":
+    {
+        "mojang":
+        {
+            "text" : "",
+            "posX" : -197,
+            "posY" : -10,
+            "color" : -1,
+            "alignment" : "bottom_right"
+        }
+    },
+
+  "other": {
+
+
+    "splah-text": {
+      "posX": 112,
+      "posY": -60,
+      "color": -256,
+      "alignment": "center",
+      "texts": "file:modpack:logo/splash.txt"
+    },
+
+    "panorama": {
+      "images": "minecraft:textures/gui/title/background/panorama_%c.png",
+      "blur": true,
+      "gradient": false
+    }
+  }
+}

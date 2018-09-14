@@ -1,0 +1,166 @@
+General:
+	Reika.DragonAPI.ModInteract.DeepInteract.FrameBlacklist
+	Annotations: []
+	Modifiers: 1
+	Superclass: class java.lang.Object
+	Interfaces: []
+	Synthetic: false
+
+
+Internal Classes:
+General:
+	Reika.DragonAPI.ModInteract.DeepInteract.FrameBlacklist$1
+	Annotations: []
+	Modifiers: 1000000001000
+	Superclass: class java.lang.Object
+	Interfaces: []
+	Synthetic: true
+
+
+Internal Classes:
+
+
+Constructors:
+
+
+Fields:
+
+
+Methods:
+
+
+General:
+	Reika.DragonAPI.ModInteract.DeepInteract.FrameBlacklist$FrameUsageEvent
+	Annotations: [@cpw.mods.fml.common.eventhandler.Cancelable()]
+	Modifiers: 1001
+	Superclass: class cpw.mods.fml.common.eventhandler.Event
+	Interfaces: []
+	Synthetic: false
+
+
+Internal Classes:
+
+
+Constructors:
+		Annotations: []
+		Modifiers: 1
+		Signature: []
+		Exceptions: []
+	Synthetic: false
+		Annotations: []
+		Modifiers: 1000000000000
+		Signature: [class net.minecraft.world.World, int, int, int, class net.minecraft.block.Block, int, class net.minecraft.tileentity.TileEntity, class Reika.DragonAPI.ModInteract.DeepInteract.FrameBlacklist$1]
+		Exceptions: []
+	Synthetic: true
+		Annotations: []
+		Modifiers: 10
+		Signature: [class net.minecraft.world.World, int, int, int, class net.minecraft.block.Block, int, class net.minecraft.tileentity.TileEntity]
+		Exceptions: []
+	Synthetic: false
+
+
+Fields:
+	world
+		Annotations: []
+		Modifiers: 10001
+		Type: class net.minecraft.world.World
+	Synthetic: false
+	xCoord
+		Annotations: []
+		Modifiers: 10001
+		Type: int
+	Synthetic: false
+	yCoord
+		Annotations: []
+		Modifiers: 10001
+		Type: int
+	Synthetic: false
+	zCoord
+		Annotations: []
+		Modifiers: 10001
+		Type: int
+	Synthetic: false
+	block
+		Annotations: []
+		Modifiers: 10001
+		Type: class net.minecraft.block.Block
+	Synthetic: false
+	metadata
+		Annotations: []
+		Modifiers: 10001
+		Type: int
+	Synthetic: false
+	tile
+		Annotations: []
+		Modifiers: 10001
+		Type: class net.minecraft.tileentity.TileEntity
+	Synthetic: false
+	LISTENER_LIST
+		Annotations: []
+		Modifiers: 1010
+		Type: class cpw.mods.fml.common.eventhandler.ListenerList
+	Synthetic: false
+
+
+Methods:
+	setup		Annotations: []
+		Modifiers: 100
+		Signature: []
+		Exceptions: []
+		Return: void
+	Synthetic: false
+	getListenerList		Annotations: []
+		Modifiers: 1
+		Signature: []
+		Exceptions: []
+		Return: class cpw.mods.fml.common.eventhandler.ListenerList
+	Synthetic: false
+	isCancelable		Annotations: []
+		Modifiers: 1
+		Signature: []
+		Exceptions: []
+		Return: boolean
+	Synthetic: false
+
+
+General:
+	Reika.DragonAPI.ModInteract.DeepInteract.FrameBlacklist$FramezHandler
+	Annotations: [@Reika.DragonAPI.ASM.APIStripper$Strippable(side=NONE, value=[com.amadornes.framez.api.movement.IMovementHandler])]
+	Modifiers: 1
+	Superclass: class java.lang.Object
+	Interfaces: []
+	Synthetic: false
+
+
+Internal Classes:
+
+
+Constructors:
+		Annotations: []
+		Modifiers: 10
+		Signature: [class Reika.DragonAPI.ModInteract.DeepInteract.FrameBlacklist]
+		Exceptions: []
+	Synthetic: false
+		Annotations: []
+		Modifiers: 1000000000000
+		Signature: [class Reika.DragonAPI.ModInteract.DeepInteract.FrameBlacklist, class Reika.DragonAPI.ModInteract.DeepInteract.FrameBlacklist$1]
+		Exceptions: []
+	Synthetic: true
+
+
+Fields:
+	this$0
+		Annotations: []
+		Modifiers: 1000000010000
+		Type: class Reika.DragonAPI.ModInteract.DeepInteract.FrameBlacklist
+	Synthetic: true
+
+
+Methods:
+
+
+
+
+Constructors:
+Fields:
+Methods:

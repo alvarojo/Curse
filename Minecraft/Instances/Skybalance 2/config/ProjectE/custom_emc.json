@@ -1,0 +1,112 @@
+{
+  "entries": [
+    {
+      "item": "claybucket:claybucket|0",
+      "emc": 0
+    },
+    {
+      "item": "claybucket:unfiredclaybucket|0",
+      "emc": 0
+    },
+    {
+      "item": "weeeflowers:blackflower|0",
+      "emc": 69
+    },
+    {
+      "item": "weeeflowers:blueflower|0",
+      "emc": 69
+    },
+    {
+      "item": "weeeflowers:brownflower|0",
+      "emc": 69
+    },
+    {
+      "item": "weeeflowers:cyanflower|0",
+      "emc": 69
+    },
+    {
+      "item": "weeeflowers:darkgrayflower|0",
+      "emc": 69
+    },
+    {
+      "item": "weeeflowers:greenflower|0",
+      "emc": 69
+    },
+    {
+      "item": "weeeflowers:lightblueflower|0",
+      "emc": 69
+    },
+    {
+      "item": "weeeflowers:lightgrayflower|0",
+      "emc": 69
+    },
+    {
+      "item": "weeeflowers:redflower|0",
+      "emc": 69
+    },
+    {
+      "item": "weeeflowers:limeflower|0",
+      "emc": 69
+    },
+    {
+      "item": "weeeflowers:magentaflower|0",
+      "emc": 69
+    },
+    {
+      "item": "weeeflowers:orangeflower|0",
+      "emc": 69
+    },
+    {
+      "item": "weeeflowers:pinkflower|0",
+      "emc": 69
+    },
+    {
+      "item": "weeeflowers:purpleflower|0",
+      "emc": 69
+    },
+    {
+      "item": "weeeflowers:yellowflower|0",
+      "emc": 69
+    },
+    {
+      "item": "weeeflowers:whiteflower|0",
+      "emc": 69
+    },
+    {
+      "item": "enderio:item_material|20",
+      "emc": 666
+    },
+    {
+      "item": "enderio:item_material|5",
+      "emc": 0
+    },
+    {
+      "item": "easypickings:imbuedfire_fire|0",
+      "emc": 616
+    },
+    {
+      "item": "easypickings:imbuedfire_water|0",
+      "emc": 18
+    },
+    {
+      "item": "easypickings:imbuedfire_loss|0",
+      "emc": 46692
+    },
+    {
+      "item": "easypickings:imbuedfire_order|0",
+      "emc": 3
+    },
+    {
+      "item": "easypickings:imbuedfire_earth|0",
+      "emc": 597237
+    },
+    {
+      "item": "easypickings:imbuedfire_air|0",
+      "emc": 78
+    },
+    {
+      "item": "enderio:block_cap_bank|3",
+      "emc": 0
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+bobView:false
+pauseOnLostFocus:false
+mipmapLevels:0
+autoJump:false

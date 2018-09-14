@@ -1,0 +1,17 @@
+{
+  "id": "continuamos_-223,63,2220",
+  "name": "continuamos",
+  "icon": "waypoint-normal.png",
+  "x": -223,
+  "y": 63,
+  "z": 2220,
+  "r": 47,
+  "g": 235,
+  "b": 0,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}
