@@ -1,0 +1,1 @@
+mods.pneumaticcraft.pressurechamber.addRecipe([<forge:bucketfilled>.withTag({FluidName: "pyrotheum", Amount: 1000})], 4.5, [<embers:crystal_ember>, <minecraft:bucket>]);

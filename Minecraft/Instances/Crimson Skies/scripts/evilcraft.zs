@@ -1,0 +1,1 @@
+mods.evilcraft.BloodInfuser.addRecipe(<tconstruct:edible:1>, <liquid:evilcraftblood> * 500, 3, <tconstruct:edible:2>, 100, 10);

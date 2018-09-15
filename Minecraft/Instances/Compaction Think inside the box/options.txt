@@ -6,15 +6,15 @@ gamma:1.0
 saturation:0.0
 renderDistance:12
 guiScale:2
-particles:1
-bobView:false
+particles:0
+bobView:true
 anaglyph3d:false
 maxFps:120
 fboEnable:true
 difficulty:2
-fancyGraphics:false
+fancyGraphics:true
 ao:0
-renderClouds:false
+renderClouds:fast
 resourcePacks:[]
 incompatibleResourcePacks:[]
 lastServer:
@@ -25,9 +25,9 @@ chatLinks:true
 chatLinksPrompt:true
 chatOpacity:1.0
 snooperEnabled:true
-fullscreen:false
-enableVsync:false
-useVbo:false
+fullscreen:true
+enableVsync:true
+useVbo:true
 hideServerAddress:false
 advancedItemTooltips:false
 pauseOnLostFocus:false
@@ -43,9 +43,9 @@ mipmapLevels:0
 forceUnicodeFont:false
 reducedDebugInfo:false
 useNativeTransport:true
-entityShadows:false
+entityShadows:true
 mainHand:right
-attackIndicator:1
+attackIndicator:2
 showSubtitles:false
 realmsNotifications:true
 enableWeakAttacks:false
@@ -108,9 +108,9 @@ key_enderio.keybind.fovminusfast:0
 key_key.xu2.searchforitems:0
 key_key.ftbutilities.warp:0
 key_key.ftbutilities.nbt:0
+key_key.inventorysorter.itemout:-201
 key_key.inventorysorter.sort:-98
 key_key.inventorysorter.itemin:-200
-key_key.inventorysorter.itemout:-201
 key_itemscroller.desc.toggledisable:0
 key_itemscroller.desc.recipe:0
 key_key.open_menu:0
@@ -210,8 +210,8 @@ key_key.skyresources.guide:34
 key_key.craftingGrid:46
 key_Ungrab Mouse:22
 key_key.control:29
-soundCategory_master:1.0
-soundCategory_music:1.0
+soundCategory_master:0.08940397
+soundCategory_music:0.14788732
 soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:1.0

@@ -2,7 +2,7 @@
 [INITIALIZATION][CLIENT][INFO] CraftTweaker: Successfully built item registry
 [INITIALIZATION][CLIENT][INFO] Loading scripts
 [INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: recipes.zs}
-[INITIALIZATION][CLIENT][INFO] Completed script loading in: 2193ms
+[INITIALIZATION][CLIENT][INFO] Completed script loading in: 425ms
 [POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Creative Storage Upgrade with name ct_shaped-1441927190
 [POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Wooden Wrench with name ct_shaped-1880662959
 [POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Ender Shard with name ct_shaped-23756796

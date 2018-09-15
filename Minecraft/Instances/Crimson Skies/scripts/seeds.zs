@@ -1,0 +1,2 @@
+vanilla.seeds.addSeed(<agricraft:agri_seed>.withTag({agri_analyzed: 0 as byte, agri_strength: 1 as byte, agri_gain: 1 as byte, agri_seed: "potato_plant", agri_growth: 1 as byte}) % 1000);
+vanilla.seeds.addSeed(<minecraft:beetroot_seeds> % 1000);

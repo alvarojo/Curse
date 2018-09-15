@@ -1,0 +1,1 @@
+<techreborn:gem:2>.addTooltip("Can be obtained from Sapphire Ore");

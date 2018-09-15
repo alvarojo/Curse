@@ -1,0 +1,1202 @@
+[INITIALIZATION][CLIENT][INFO] CraftTweaker: Building registry
+[INITIALIZATION][CLIENT][INFO] CraftTweaker: Successfully built item registry
+[INITIALIZATION][CLIENT][INFO] Loading scripts
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: aa.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: ae2.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: astral.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: blacksmith workbench.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: botania.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: bwm.zs}
+[INITIALIZATION][CLIENT][ERROR] This operation has been removed, use mods.betterwithmods.Saw.remove(IItemStack[] outputs)
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: calculator.zs}
+[INITIALIZATION][CLIENT][INFO] Removing Atomic recipe ([sonar.core.recipes.RecipeOreStack@6ed3279b, sonar.core.recipes.RecipeOreStack@727b8691, sonar.core.recipes.RecipeOreStack@467a57e3] = [sonar.core.recipes.RecipeItemStack@18dfc56b])
+[INITIALIZATION][CLIENT][INFO] Removing AlgorithmSeparator recipe ([sonar.core.recipes.RecipeOreStack@6f47d614] = [sonar.core.recipes.RecipeItemStack@41269a63, sonar.core.recipes.RecipeItemStack@55f718eb])
+[INITIALIZATION][CLIENT][INFO] Adding Flawless recipe ([1xitem.thermalfoundation.material@167, 1xitem.FiddledewFruit@0, 1xitem.EndDiamond@0, 1xitem.tconstruct.ingots@3] = [1xitem.chorusFruit@0])
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: carpenter workbench.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: chef workbench.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: crafting.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: evilcraft.zs}
+[INITIALIZATION][CLIENT][INFO] Adding 1 BloodInfuser Recipe(s) for BloodInfuser recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@18828e6b, fluidStack=net.minecraftforge.fluids.FluidStack@6e41bfb, chance=0.0); Output: IngredientRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@78e16fb6, chance=0.0); Properties: DurationXpRecipeProperties(duration=100, xp=10.0); 
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: extrautils.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: forestry.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: furnace.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: if.zs}
+[INITIALIZATION][CLIENT][INFO] Removing Laser Drill entry Uranium Ore
+[INITIALIZATION][CLIENT][INFO] Removing Laser Drill entry Yellorite Ore
+[INITIALIZATION][CLIENT][INFO] Removing Laser Drill entry Draconium Ore
+[INITIALIZATION][CLIENT][INFO] Removing Laser Drill entry Redstone Ore
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: immersive.zs}
+[INITIALIZATION][CLIENT][INFO] Removing ArcFurnace Recipe for Draconium Ingot
+[INITIALIZATION][CLIENT][INFO] Adding Blueprint Recipe for Inscriber Calculation Press
+[INITIALIZATION][CLIENT][INFO] Adding Blueprint Recipe for Inscriber Engineering Press
+[INITIALIZATION][CLIENT][INFO] Adding Blueprint Recipe for Inscriber Logic Press
+[INITIALIZATION][CLIENT][INFO] Adding Blueprint Recipe for Inscriber Silicon Press
+[INITIALIZATION][CLIENT][INFO] Removing Alloy Smelter Recipe for Invar Ingot
+[INITIALIZATION][CLIENT][INFO] Removing Alloy Smelter Recipe for Bronze Ingot
+[INITIALIZATION][CLIENT][INFO] Removing Alloy Smelter Recipe for Brass Ingot
+[INITIALIZATION][CLIENT][INFO] Removing Alloy Smelter Recipe for Constantan Ingot
+[INITIALIZATION][CLIENT][INFO] Removing Alloy Smelter Recipe for Electrum Ingot
+[INITIALIZATION][CLIENT][INFO] Adding Alloy Smelter Recipe for Invar Ingot
+[INITIALIZATION][CLIENT][INFO] Adding Alloy Smelter Recipe for Electrum Ingot
+[INITIALIZATION][CLIENT][INFO] Adding Alloy Smelter Recipe for Bronze Ingot
+[INITIALIZATION][CLIENT][INFO] Adding Alloy Smelter Recipe for Brass Ingot
+[INITIALIZATION][CLIENT][INFO] Adding Alloy Smelter Recipe for Constantan Ingot
+[INITIALIZATION][CLIENT][INFO] Adding Alloy Smelter Recipe for Dark Gem
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: inspirations.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: integrateddynamics.zs}
+[INITIALIZATION][CLIENT][INFO] Removing 1 MechanicalDryingBasin Recipe(s) for MechanicalDryingBasin recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@2814bad1, fluidStack=null, chance=0.0); Output: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@3da38489, fluidStack=null, chance=0.0); Properties: DurationRecipeProperties(duration=10); 
+[INITIALIZATION][CLIENT][INFO] Adding 1 MechanicalSqueezer Recipe(s) for MechanicalSqueezer recipe: Input: IngredientRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@5a92a18e, chance=0.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[5xitem.shard_ember@0], chance=0.0), fluidStack=null, chance=0.0); Properties: DurationRecipeProperties(duration=10); 
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: jeweler workbench.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: mage worktable.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: magneticraft.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: mason workbench.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: mekanism.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: oredict.zs}
+[INITIALIZATION][CLIENT][INFO] Adding White Plastic to ore dictionary entry itemPlastic
+[INITIALIZATION][CLIENT][INFO] Adding Block of Manasteel to ore dictionary entry blockManasteel
+[INITIALIZATION][CLIENT][INFO] Adding Block of Terrasteel to ore dictionary entry blockTerrasteel
+[INITIALIZATION][CLIENT][INFO] Adding Block of Elementium to ore dictionary entry blockElementium
+[INITIALIZATION][CLIENT][INFO] Adding Block of Refined Iron to ore dictionary entry blockRefinedIron
+[INITIALIZATION][CLIENT][INFO] Removing Wooden Gear from ore dictionary entry gearWood
+[INITIALIZATION][CLIENT][INFO] Removing Iron Rod from ore dictionary entry stickIron
+[INITIALIZATION][CLIENT][INFO] Removing Steel Rod from ore dictionary entry stickSteel
+[INITIALIZATION][CLIENT][INFO] Adding Enriched Gold Block to ore dictionary entry blockEnrichedGold
+[INITIALIZATION][CLIENT][INFO] Adding Reinforced Iron Block to ore dictionary entry blockReinforcedIron
+[INITIALIZATION][CLIENT][INFO] Adding Redstone Ingot Block to ore dictionary entry blockRedstoneIngot
+[INITIALIZATION][CLIENT][INFO] Adding Redstone Ingot to ore dictionary entry ingotRedstoneIngot
+[INITIALIZATION][CLIENT][INFO] Adding Reinforced Iron Ingot to ore dictionary entry ingotReinforcedIron
+[INITIALIZATION][CLIENT][INFO] Adding Block of Black Quartz to ore dictionary entry blockQuartzBlack
+[INITIALIZATION][CLIENT][INFO] Adding Block of Mana Diamond to ore dictionary entry blockManaDiamond
+[INITIALIZATION][CLIENT][INFO] Adding Block of Dragonstone to ore dictionary entry blockElvenDragonstone
+[INITIALIZATION][CLIENT][INFO] Adding Block of Biotite to ore dictionary entry blockEnderBiotite
+[INITIALIZATION][CLIENT][INFO] Adding Pure Nether Quartz Crystal to ore dictionary entry crystalNetherQuartz
+[INITIALIZATION][CLIENT][INFO] Adding Oak Cauldron to ore dictionary entry blockCauldron
+[INITIALIZATION][CLIENT][INFO] Adding Spruce Cauldron to ore dictionary entry blockCauldron
+[INITIALIZATION][CLIENT][INFO] Adding Birch Cauldron to ore dictionary entry blockCauldron
+[INITIALIZATION][CLIENT][INFO] Adding Jungle Cauldron to ore dictionary entry blockCauldron
+[INITIALIZATION][CLIENT][INFO] Adding Acacia Cauldron to ore dictionary entry blockCauldron
+[INITIALIZATION][CLIENT][INFO] Adding Dark Oak Cauldron to ore dictionary entry blockCauldron
+[INITIALIZATION][CLIENT][INFO] Adding Cobblestone Cauldron to ore dictionary entry blockCauldron
+[INITIALIZATION][CLIENT][INFO] Adding Stone Cauldron to ore dictionary entry blockCauldron
+[INITIALIZATION][CLIENT][INFO] Adding Granite Cauldron to ore dictionary entry blockCauldron
+[INITIALIZATION][CLIENT][INFO] Adding Polished Granite Cauldron to ore dictionary entry blockCauldron
+[INITIALIZATION][CLIENT][INFO] Adding Diorite Cauldron to ore dictionary entry blockCauldron
+[INITIALIZATION][CLIENT][INFO] Adding Polished Diorite Cauldron to ore dictionary entry blockCauldron
+[INITIALIZATION][CLIENT][INFO] Adding Andesite Cauldron to ore dictionary entry blockCauldron
+[INITIALIZATION][CLIENT][INFO] Adding Polished Andesite Cauldron to ore dictionary entry blockCauldron
+[INITIALIZATION][CLIENT][INFO] Adding Raw Fish to ore dictionary entry listAllcookedfish
+[INITIALIZATION][CLIENT][INFO] Adding Raw Salmon to ore dictionary entry listAllcookedfish
+[INITIALIZATION][CLIENT][INFO] Adding Cooked Clownfish to ore dictionary entry listAllcookedfish
+[INITIALIZATION][CLIENT][INFO] Adding Ash to ore dictionary entry dustAsh
+[INITIALIZATION][CLIENT][INFO] Adding Ash to ore dictionary entry dustAshes
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: pneumaticraft.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: rename.zs}
+[INITIALIZATION][CLIENT][INFO] Translating item.industrialforegoing_plastic.name to Plastic Sheet
+[INITIALIZATION][CLIENT][INFO] Translating item.fan.name to Steel Turbine
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: seeds.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: soot.zs}
+[INITIALIZATION][CLIENT][INFO] Adding 1 Alchemy Recipe(s) for soot.recipe.RecipeAlchemyTablet@161f983e
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: tailor workbench.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: thermal.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: tic.zs}
+[INITIALIZATION][CLIENT][INFO] Altering Melting Recipe(s) for <liquid:ender> * 2000
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: tooltips.zs}
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <techreborn:gem:2>: Can be obtained from Sapphire Ore
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: tr.zs}
+[INITIALIZATION][CLIENT][INFO] Adding CHEMICAL_REACTOR_RECIPE recipe for Evil Infused Iron Ingot
+[INITIALIZATION][CLIENT][INFO] Adding CHEMICAL_REACTOR_RECIPE recipe for Slime Ball
+[INITIALIZATION][CLIENT][INFO] Adding BLAST_FURNACE_RECIPE recipe for Graphite Bar
+[INITIALIZATION][CLIENT][INFO] Removing ALLOY_SMELTER_RECIPE recipe for Brass Ingot
+[INITIALIZATION][CLIENT][INFO] Removing ALLOY_SMELTER_RECIPE recipe for Bronze Ingot
+[INITIALIZATION][CLIENT][INFO] Removing ALLOY_SMELTER_RECIPE recipe for Electrum Ingot
+[INITIALIZATION][CLIENT][INFO] Removing ALLOY_SMELTER_RECIPE recipe for Invar Ingot
+[INITIALIZATION][CLIENT][INFO] Adding ALLOY_SMELTER_RECIPE recipe for Invar Ingot
+[INITIALIZATION][CLIENT][INFO] Adding ALLOY_SMELTER_RECIPE recipe for Electrum Ingot
+[INITIALIZATION][CLIENT][INFO] Adding ALLOY_SMELTER_RECIPE recipe for Bronze Ingot
+[INITIALIZATION][CLIENT][INFO] Adding ALLOY_SMELTER_RECIPE recipe for Brass Ingot
+[INITIALIZATION][CLIENT][INFO] Adding ALLOY_SMELTER_RECIPE recipe for Constantan Ingot
+[INITIALIZATION][CLIENT][INFO] Adding ALLOY_SMELTER_RECIPE recipe for Dark Gem
+[INITIALIZATION][CLIENT][INFO] Completed script loading in: 1209ms
+[INITIALIZATION][CLIENT][INFO] Adding CrushingTableRecipe(input=1xtile.gravel@0, output=1xtile.sand@0, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Removing CrushingTableRecipe(input=1xitem.skull@4, output=8xitem.sulphur@0, oreDict=true)
+[POSTINITIALIZATION][CLIENT][INFO] ArtisanWorktables recipe hook queue
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "bigreactors:ludicriteblock"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "extrautils2:unstable_unpack"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "quark:shortcut_stick"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "extrautils2:shortcut_hopper"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "extrautils2:shortcut_stick"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "xreliquary:items/uncrafting/gold_nugget"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "extrautils2:machine_base"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "simplyjetpacks:upgraderecipe5"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "bigreactors:ingotmetals"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "minecraft:paper"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "mekanism:paper"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "betterwithaddons:mulberry_paper"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "actuallyadditions:recipes23"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "immersiveengineering:wooden_devices/crate"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "immersiveengineering:wooden_devices/barrel"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "immersiveengineering:wooden_devices/workbench"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "immersiveengineering:wooden_devices/wallmount"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "immersiveengineering:treated_wood/treated_wood_scaffolding"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "immersiveengineering:treated_wood/treated_wood_fence"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "immersiveengineering:treated_wood/treated_wood"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "betterwithmods:decompress/material.diamond_ingot"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "immersiveengineering:stone_decoration/cokebrick"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "immersiveengineering:stone_decoration/blastbrick"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "immersiveengineering:stone_decoration/alloybrick"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "minecraft:brick_block"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "minecraft:nether_brick"
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Nether Wart with name ct_shapeless1476923319
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Marble with name ct_shapeless-847661242
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Luminous Crafting Table with name ct_shaped139894876
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Resonating Wand with name ct_shaped1992439862
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Redstone Reception Coil with name ct_shaped638117820
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Redstone Transmission Coil with name ct_shaped1080177400
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Redstone Conductance Coil with name ct_shaped285166315
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Atomic Binder with name ct_shaped-363890955
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Metallurgic Infuser with name ct_shaped-1641586770
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Calculator Screen with name ct_shaped1412836086
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Calculator Assembly with name ct_shaped-1413844691
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Resonator with name ct_shaped-881505846
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Advanced Coil with name ct_shaped-2102685482
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Plastic Sheet with name ct_shapeless-309805395
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for TNT with name ct_shapeless901745343
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Gunpowder with name ct_shapeless1818627918
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Niter with name ct_shapeless291880968
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Lens with name ct_shaped353035338
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Atomic Reconstructor with name ct_shaped1616972435
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Iron Furnace with name ct_shaped-963104685
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Leather Strap with name ct_shaped691898839
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Soujourner's Sash with name ct_shaped-996567664
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Tectonic Girdle with name ct_shaped1609949835
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Yellorium Ingot with name ct_shaped2103331315
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Grout with name ct_shapeless499599610
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Torch Lever with name ct_shaped-1888647823
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Iron Casing with name ct_shaped1717260734
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Iron Rod with name ct_shaped-1879260595
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Aluminium Rod with name ct_shaped-2033568487
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Aluminium Rod with name ct_shaped526439096
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Machine Block with name ct_shaped1869526512
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Control Circuit Board with name ct_shaped-743890443
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Item IO Circuit Board with name ct_shaped274663810
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Liquid IO Circuit Board with name ct_shaped148540817
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Squeezer with name ct_shaped1922045117
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Survival Generator with name ct_shaped450339807
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Machine Block with name ct_shaped1850813735
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Miniaturization Field Projector with name ct_shaped-1708518946
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Flux-Infused JetPlate with name ct_shaped-2076690838
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Fluxed Thruster with name ct_shaped-1140315749
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Ultimate Control Circuit with name ct_shaped-1842395009
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Machine Frame with name ct_shaped-670301143
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Draconic Core with name ct_shaped547957425
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Hardened Upgrade Kit with name ct_shaped-150029887
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Reinforced Upgrade Kit with name ct_shaped-1186889595
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Signalum Upgrade Kit with name ct_shaped1663496109
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Resonant Upgrade Kit with name ct_shaped-159361114
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Laser Base with name ct_shaped-558180637
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Basic Machine Frame with name ct_shaped-1522758747
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Tinker's Hammer with name ct_shaped879612752
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Computer Monitor with name ct_shaped2002152158
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for User Interface with name ct_shaped920812181
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Chemical Crystallizer with name ct_shaped987582462
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Atomic Multiplier with name ct_shaped476349439
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Power Cube with name ct_shaped-1805578127
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Dimension Builder with name ct_shaped997925374
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Illuminated Panel with name ct_shaped151161859
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Sooty Marble with name ct_shaped796942731
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Caminite Lever with name ct_shaped1561732883
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Redstone Repeater with name ct_shaped-573848184
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Redstone Comparator with name ct_shaped-1199305214
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Paper with name ct_shapeless-943145806
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Omnidirectional Hopper with name ct_shaped-1605394380
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Mana Fluxfield with name ct_shaped-98540949
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Kinetic Dynamo with name ct_shaped1870894469
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Polished Stone with name ct_shaped-1581883697
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Data Storage Circuit with name ct_shaped-1554883345
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Oak Bookshelf with name ct_shaped-1935844842
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Spruce Bookshelf with name ct_shaped-790137217
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Birch Bookshelf with name ct_shaped1909073938
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Jungle Bookshelf with name ct_shaped-998912027
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Acacia Bookshelf with name ct_shaped1637393930
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Dark Oak Bookshelf with name ct_shaped899015665
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Floating White Flower with name ct_shaped1837748882
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Floating Orange Flower with name ct_shaped-1586661198
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Floating Magenta Flower with name ct_shaped588074322
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Floating Light Blue Flower with name ct_shaped-1532157454
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Floating Yellow Flower with name ct_shaped642578066
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Floating Lime Flower with name ct_shaped-1477653710
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Floating Pink Flower with name ct_shaped697081810
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Floating Gray Flower with name ct_shaped-1423149966
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Floating Light Gray Flower with name ct_shaped751585554
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Floating Cyan Flower with name ct_shaped-1368646222
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Floating Purple Flower with name ct_shaped-554517094
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Floating Blue Flower with name ct_shaped10139224
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Floating Brown Flower with name ct_shaped574795542
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Floating Green Flower with name ct_shaped1139451860
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Floating Red Flower with name ct_shaped1704108178
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Floating Black Flower with name ct_shaped-2026202800
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Upgrade Speed (Ultimate) with name ct_shaped-1771183966
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Silky Jewel with name ct_shaped-1919629528
+[POSTINITIALIZATION][CLIENT][INFO] Removing furnace recipes for: <techreborn:ingot:19>
+[POSTINITIALIZATION][CLIENT][INFO] 1 recipes removed for: <techreborn:ingot:19>
+[POSTINITIALIZATION][CLIENT][INFO] Removing furnace recipes for: <industrialforegoing:plastic>
+[POSTINITIALIZATION][CLIENT][INFO] 1 recipes removed for: <industrialforegoing:plastic>
+[POSTINITIALIZATION][CLIENT][INFO] Removing furnace recipes for: <minecraft:coal:1>
+[POSTINITIALIZATION][CLIENT][INFO] 9 recipes removed for: <minecraft:coal:1>
+[POSTINITIALIZATION][CLIENT][INFO] Removing furnace recipes for: <draconicevolution:draconium_ingot>
+[POSTINITIALIZATION][CLIENT][INFO] 2 recipes removed for: <draconicevolution:draconium_ingot>
+[POSTINITIALIZATION][CLIENT][INFO] Removing furnace recipes for: <ore:ingotIron>
+[POSTINITIALIZATION][CLIENT][INFO] 11 recipes removed for: <ore:ingotIron>
+[POSTINITIALIZATION][CLIENT][INFO] Removing furnace recipes for: <ore:ingotGold>
+[POSTINITIALIZATION][CLIENT][INFO] 10 recipes removed for: <ore:ingotGold>
+[POSTINITIALIZATION][CLIENT][INFO] Removing furnace recipes for: <ore:ingotTin>
+[POSTINITIALIZATION][CLIENT][INFO] 13 recipes removed for: <ore:ingotTin>
+[POSTINITIALIZATION][CLIENT][INFO] Removing furnace recipes for: <ore:ingotLead>
+[POSTINITIALIZATION][CLIENT][INFO] 12 recipes removed for: <ore:ingotLead>
+[POSTINITIALIZATION][CLIENT][INFO] Removing furnace recipes for: <ore:ingotCopper>
+[POSTINITIALIZATION][CLIENT][INFO] 16 recipes removed for: <ore:ingotCopper>
+[POSTINITIALIZATION][CLIENT][INFO] Removing furnace recipes for: <ore:ingotSilver>
+[POSTINITIALIZATION][CLIENT][INFO] 10 recipes removed for: <ore:ingotSilver>
+[POSTINITIALIZATION][CLIENT][INFO] Removing furnace recipes for: <ore:ingotTungsten>
+[POSTINITIALIZATION][CLIENT][INFO] 4 recipes removed for: <ore:ingotTungsten>
+[POSTINITIALIZATION][CLIENT][INFO] Removing furnace recipes for: <ore:ingotCobalt>
+[POSTINITIALIZATION][CLIENT][INFO] 5 recipes removed for: <ore:ingotCobalt>
+[POSTINITIALIZATION][CLIENT][INFO] Removing furnace recipes for: <ore:ingotAluminium>
+[POSTINITIALIZATION][CLIENT][INFO] 3 recipes removed for: <ore:ingotAluminium>
+[POSTINITIALIZATION][CLIENT][INFO] Removing furnace recipes for: <ore:ingotNickel>
+[POSTINITIALIZATION][CLIENT][INFO] 9 recipes removed for: <ore:ingotNickel>
+[POSTINITIALIZATION][CLIENT][INFO] Removing furnace recipes for: <ore:ingotMithril>
+[POSTINITIALIZATION][CLIENT][INFO] 5 recipes removed for: <ore:ingotMithril>
+[POSTINITIALIZATION][CLIENT][INFO] Removing furnace recipes for: <ore:ingotOsmium>
+[POSTINITIALIZATION][CLIENT][INFO] 5 recipes removed for: <ore:ingotOsmium>
+[POSTINITIALIZATION][CLIENT][INFO] Removing furnace recipes for: <ore:ingotZinc>
+[POSTINITIALIZATION][CLIENT][INFO] 4 recipes removed for: <ore:ingotZinc>
+[POSTINITIALIZATION][CLIENT][INFO] Removing furnace recipes for: <appliedenergistics2:material:5>
+[POSTINITIALIZATION][CLIENT][INFO] 1 recipes removed for: <appliedenergistics2:material:5>
+[POSTINITIALIZATION][CLIENT][INFO] Removing furnace recipes for: <minecraft:brick>
+[POSTINITIALIZATION][CLIENT][INFO] 1 recipes removed for: <minecraft:brick>
+[POSTINITIALIZATION][CLIENT][INFO] Removing furnace recipes for: <draconicevolution:nugget>
+[POSTINITIALIZATION][CLIENT][INFO] 0 recipes removed for: <draconicevolution:nugget>
+[POSTINITIALIZATION][CLIENT][INFO] Removing furnace recipes for: <bigreactors:ingotmetals:2>
+[POSTINITIALIZATION][CLIENT][INFO] 3 recipes removed for: <bigreactors:ingotmetals:2>
+[POSTINITIALIZATION][CLIENT][INFO] Adding furnace recipe for <magneticraft:chunks:1>
+[POSTINITIALIZATION][CLIENT][INFO] Adding furnace recipe for <magneticraft:chunks>
+[POSTINITIALIZATION][CLIENT][INFO] Adding furnace recipe for <magneticraft:chunks:2>
+[POSTINITIALIZATION][CLIENT][INFO] Adding furnace recipe for <magneticraft:chunks:3>
+[POSTINITIALIZATION][CLIENT][INFO] Adding furnace recipe for <magneticraft:chunks:4>
+[POSTINITIALIZATION][CLIENT][INFO] Adding furnace recipe for <magneticraft:chunks:5>
+[POSTINITIALIZATION][CLIENT][INFO] Adding furnace recipe for <magneticraft:chunks:7>
+[POSTINITIALIZATION][CLIENT][INFO] Adding furnace recipe for <magneticraft:chunks:9>
+[POSTINITIALIZATION][CLIENT][INFO] Adding furnace recipe for <magneticraft:chunks:10>
+[POSTINITIALIZATION][CLIENT][INFO] Adding furnace recipe for <magneticraft:chunks:11>
+[POSTINITIALIZATION][CLIENT][INFO] Adding furnace recipe for <magneticraft:chunks:12>
+[POSTINITIALIZATION][CLIENT][INFO] Adding furnace recipe for <magneticraft:chunks:13>
+[POSTINITIALIZATION][CLIENT][INFO] Adding furnace recipe for <magneticraft:chunks:14>
+[POSTINITIALIZATION][CLIENT][INFO] Adding furnace recipe for <magneticraft:rocky_chunks:1>
+[POSTINITIALIZATION][CLIENT][INFO] Adding furnace recipe for <magneticraft:rocky_chunks>
+[POSTINITIALIZATION][CLIENT][INFO] Adding furnace recipe for <magneticraft:rocky_chunks:2>
+[POSTINITIALIZATION][CLIENT][INFO] Adding furnace recipe for <magneticraft:rocky_chunks:3>
+[POSTINITIALIZATION][CLIENT][INFO] Adding furnace recipe for <magneticraft:rocky_chunks:4>
+[POSTINITIALIZATION][CLIENT][INFO] Adding furnace recipe for <magneticraft:rocky_chunks:5>
+[POSTINITIALIZATION][CLIENT][INFO] Adding furnace recipe for <magneticraft:rocky_chunks:7>
+[POSTINITIALIZATION][CLIENT][INFO] Adding furnace recipe for <magneticraft:rocky_chunks:9>
+[POSTINITIALIZATION][CLIENT][INFO] Adding furnace recipe for <magneticraft:rocky_chunks:10>
+[POSTINITIALIZATION][CLIENT][INFO] Adding furnace recipe for <magneticraft:rocky_chunks:11>
+[POSTINITIALIZATION][CLIENT][INFO] Adding furnace recipe for <magneticraft:rocky_chunks:12>
+[POSTINITIALIZATION][CLIENT][INFO] Adding furnace recipe for <magneticraft:rocky_chunks:13>
+[POSTINITIALIZATION][CLIENT][INFO] Adding furnace recipe for <magneticraft:rocky_chunks:14>
+[POSTINITIALIZATION][CLIENT][INFO] Adding furnace recipe for <magneticraft:dusts:1>
+[POSTINITIALIZATION][CLIENT][INFO] Adding furnace recipe for <magneticraft:dusts>
+[POSTINITIALIZATION][CLIENT][INFO] Adding furnace recipe for <magneticraft:dusts:2>
+[POSTINITIALIZATION][CLIENT][INFO] Adding furnace recipe for <magneticraft:dusts:3>
+[POSTINITIALIZATION][CLIENT][INFO] Adding furnace recipe for <magneticraft:dusts:4>
+[POSTINITIALIZATION][CLIENT][INFO] Adding furnace recipe for <magneticraft:dusts:5>
+[POSTINITIALIZATION][CLIENT][INFO] Adding furnace recipe for <magneticraft:dusts:7>
+[POSTINITIALIZATION][CLIENT][INFO] Adding furnace recipe for <magneticraft:dusts:9>
+[POSTINITIALIZATION][CLIENT][INFO] Adding furnace recipe for <magneticraft:dusts:10>
+[POSTINITIALIZATION][CLIENT][INFO] Adding furnace recipe for <magneticraft:dusts:11>
+[POSTINITIALIZATION][CLIENT][INFO] Adding furnace recipe for <magneticraft:dusts:12>
+[POSTINITIALIZATION][CLIENT][INFO] Adding furnace recipe for <magneticraft:dusts:13>
+[POSTINITIALIZATION][CLIENT][INFO] Adding furnace recipe for <magneticraft:dusts:14>
+[POSTINITIALIZATION][CLIENT][INFO] Adding seed entry <agricraft:agri_seed>.withTag({agri_analyzed: 0 as byte, agri_strength: 1 as byte, agri_gain: 1 as byte, agri_seed: "potato_plant", agri_growth: 1 as byte})
+[POSTINITIALIZATION][CLIENT][INFO] Adding seed entry <minecraft:beetroot_seeds>
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "blacksmith"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "carpenter"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "chef"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "chef"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "chef"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "chef"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "chef"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "chef"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "chef"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "chef"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "chef"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "chef"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "chef"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "chef"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "chef"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "chef"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "chef"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "chef"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "chef"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "chef"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "chef"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "chef"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "chef"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "chef"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "chef"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "jeweler"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "jeweler"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "jeweler"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "jeweler"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "jeweler"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "jeweler"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "jeweler"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "jeweler"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "jeweler"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "jeweler"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "jeweler"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "jeweler"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "jeweler"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "jeweler"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "jeweler"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "jeweler"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "jeweler"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "jeweler"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "jeweler"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "jeweler"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "jeweler"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "jeweler"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "jeweler"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "jeweler"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "jeweler"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "jeweler"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "jeweler"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "jeweler"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "jeweler"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "jeweler"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "jeweler"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "jeweler"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "jeweler"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "jeweler"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "jeweler"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "jeweler"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "jeweler"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "jeweler"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "jeweler"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "jeweler"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "jeweler"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "jeweler"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "jeweler"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "jeweler"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "jeweler"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "jeweler"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "jeweler"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "jeweler"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "jeweler"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "jeweler"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "jeweler"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "jeweler"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "jeweler"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "jeweler"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "jeweler"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "jeweler"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "jeweler"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "jeweler"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "jeweler"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "jeweler"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "jeweler"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "jeweler"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "jeweler"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "jeweler"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "jeweler"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "jeweler"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "jeweler"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "jeweler"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "jeweler"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "jeweler"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "jeweler"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "jeweler"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "jeweler"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "jeweler"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "jeweler"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "jeweler"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "jeweler"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "jeweler"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "jeweler"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "jeweler"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "jeweler"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "jeweler"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "jeweler"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "jeweler"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "jeweler"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "jeweler"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "jeweler"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "jeweler"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "jeweler"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "jeweler"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "jeweler"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "jeweler"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "jeweler"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "jeweler"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "jeweler"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "jeweler"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "jeweler"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "jeweler"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "jeweler"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "jeweler"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "jeweler"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "jeweler"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "jeweler"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "jeweler"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "jeweler"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "jeweler"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "jeweler"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "jeweler"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "jeweler"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "jeweler"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "jeweler"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "jeweler"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "jeweler"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "mage"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "mage"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "mage"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "mage"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "mage"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "mage"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "mage"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "mage"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "mage"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "mage"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "mage"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "mage"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "mage"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "mage"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "mage"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "mage"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "mage"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "mage"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "mage"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "mage"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "mage"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "mage"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "mage"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "mage"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "mage"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "mage"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "mason"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "mason"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "mason"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "mason"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "mason"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "mason"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "mason"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "mason"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "mason"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "mason"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "mason"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "mason"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "mason"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "mason"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "mason"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "mason"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "mason"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "mason"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "mason"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "mason"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "mason"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "mason"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "mason"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "mason"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "mason"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "mason"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "mason"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "mason"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "mason"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "mason"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "mason"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "mason"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "tailor"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "tailor"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "tailor"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "tailor"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "tailor"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "tailor"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "tailor"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "tailor"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "tailor"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "tailor"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "tailor"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "tailor"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "tailor"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "tailor"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "tailor"
+[POSTINITIALIZATION][CLIENT][INFO] Altering RecipeWorktable Recipe(s) for "tailor"
+[POSTINITIALIZATION][CLIENT][INFO] Removing Inscriber Entry for Printed Silicon
+[POSTINITIALIZATION][CLIENT][INFO] Adding Inscriber Entry for Printed Silicon
+[POSTINITIALIZATION][CLIENT][INFO] Removing Inscriber Entry for Inscriber Calculation Press
+[POSTINITIALIZATION][CLIENT][INFO] Removing Inscriber Entry for Inscriber Engineering Press
+[POSTINITIALIZATION][CLIENT][INFO] Removing Inscriber Entry for Inscriber Logic Press
+[POSTINITIALIZATION][CLIENT][INFO] Removing Inscriber Entry for Inscriber Silicon Press
+[POSTINITIALIZATION][CLIENT][INFO] Removing 0 Mekanism Metallurgic Infuser Recipe(s) for Unknown item
+[POSTINITIALIZATION][CLIENT][INFO] Removing 0 Mekanism Metallurgic Infuser Recipe(s) for Unknown item
+[POSTINITIALIZATION][CLIENT][INFO] Removing 0 Mekanism Metallurgic Infuser Recipe(s) for Unknown item
+[POSTINITIALIZATION][CLIENT][INFO] Removing 0 Mekanism Metallurgic Infuser Recipe(s) for Unknown item
+[POSTINITIALIZATION][CLIENT][INFO] Removing 0 Mekanism Metallurgic Infuser Recipe(s) for Unknown item
+[POSTINITIALIZATION][CLIENT][INFO] Removing 0 Mekanism Metallurgic Infuser Recipe(s) for Unknown item
+[POSTINITIALIZATION][CLIENT][INFO] Removing 0 Mekanism Crusher Recipe(s) for Unknown item
+[POSTINITIALIZATION][CLIENT][INFO] Adding 0 Mekanism Metallurgic Infuser Recipe(s) for Unknown item
+[POSTINITIALIZATION][CLIENT][INFO] Adding 0 Mekanism Metallurgic Infuser Recipe(s) for Unknown item
+[POSTINITIALIZATION][CLIENT][INFO] Adding 0 Mekanism Metallurgic Infuser Recipe(s) for Unknown item
+[POSTINITIALIZATION][CLIENT][INFO] Adding 0 Mekanism Metallurgic Infuser Recipe(s) for Unknown item
+[POSTINITIALIZATION][CLIENT][INFO] Adding 0 Mekanism Metallurgic Infuser Recipe(s) for Unknown item
+[POSTINITIALIZATION][CLIENT][INFO] Adding 0 Mekanism Metallurgic Infuser Recipe(s) for Unknown item
+[POSTINITIALIZATION][CLIENT][INFO] Adding 0 Mekanism Metallurgic Infuser Recipe(s) for Unknown item
+[POSTINITIALIZATION][CLIENT][INFO] Adding 0 Mekanism Metallurgic Infuser Recipe(s) for Unknown item
+[POSTINITIALIZATION][CLIENT][INFO] Adding 0 Mekanism Reaction Recipe(s) for Unknown item
+[POSTINITIALIZATION][CLIENT][INFO] Adding 1 PneumaticCraft Pressure Chamber recipe(s)
+[AVAILABLE][CLIENT][INFO] Removing 0 Empowerer Recipe(s) for Unknown item
+[AVAILABLE][CLIENT][INFO] Removing 0 Empowerer Recipe(s) for Unknown item
+[AVAILABLE][CLIENT][INFO] Removing 0 Empowerer Recipe(s) for Unknown item
+[AVAILABLE][CLIENT][INFO] Removing 0 Empowerer Recipe(s) for Unknown item
+[AVAILABLE][CLIENT][INFO] Removing 0 Empowerer Recipe(s) for Unknown item
+[AVAILABLE][CLIENT][INFO] Removing 0 Empowerer Recipe(s) for Unknown item
+[AVAILABLE][CLIENT][INFO] Removing 0 Empowerer Recipe(s) for Unknown item
+[AVAILABLE][CLIENT][INFO] Removing 0 Empowerer Recipe(s) for Unknown item
+[AVAILABLE][CLIENT][INFO] Removing 0 Empowerer Recipe(s) for Unknown item
+[AVAILABLE][CLIENT][INFO] Removing 0 Empowerer Recipe(s) for Unknown item
+[AVAILABLE][CLIENT][INFO] Removing 0 Empowerer Recipe(s) for Unknown item
+[AVAILABLE][CLIENT][INFO] Removing 0 Empowerer Recipe(s) for Unknown item
+[AVAILABLE][CLIENT][INFO] Removing 0 MiningLens Recipe(s) for Unknown item
+[AVAILABLE][CLIENT][INFO] Removing 0 MiningLens Recipe(s) for Unknown item
+[AVAILABLE][CLIENT][INFO] Removing 0 MiningLens Recipe(s) for Unknown item
+[AVAILABLE][CLIENT][INFO] Removing 0 MiningLens Recipe(s) for Unknown item
+[AVAILABLE][CLIENT][INFO] Removing 0 MiningLens Recipe(s) for Unknown item
+[AVAILABLE][CLIENT][INFO] Removing 0 MiningLens Recipe(s) for Unknown item
+[AVAILABLE][CLIENT][INFO] Removing 0 MiningLens Recipe(s) for Unknown item
+[AVAILABLE][CLIENT][INFO] Attempting to remove apothecary recipe for [<botania:specialflower>.withTag({type: "orechid"})]
+[AVAILABLE][CLIENT][INFO] Removing 1 Botania Petal Recipe(s) for <botania:specialflower>.withTag({type: "orechid"})
+[AVAILABLE][CLIENT][INFO] Attempting to remove apothecary recipe for [<botania:specialflower>.withTag({type: "orechidIgnem"})]
+[AVAILABLE][CLIENT][INFO] Removing 1 Botania Petal Recipe(s) for <botania:specialflower>.withTag({type: "orechidIgnem"})
+[AVAILABLE][CLIENT][INFO] Attempting to remove apothecary recipe for [<minecraft:skull:3>]
+[AVAILABLE][CLIENT][INFO] Removing 1 Botania Petal Recipe(s) for <minecraft:skull:3>.withTag({SkullOwner: "Vazkii"})
+[AVAILABLE][CLIENT][INFO] Attempting to remove mana infusion recipe for [<minecraft:gunpowder>]
+[AVAILABLE][CLIENT][INFO] Removing 1 Botania Mana Infusion Recipe(s) for <minecraft:gunpowder>
+[AVAILABLE][CLIENT][INFO] Attempting to remove mana infusion recipe for [<botania:manaresource>]
+[AVAILABLE][CLIENT][INFO] Removing 1 Botania Mana Infusion Recipe(s) for <botania:manaresource>
+[AVAILABLE][CLIENT][INFO] Attempting to remove mana infusion recipe for [<minecraft:redstone>]
+[AVAILABLE][CLIENT][INFO] Removing 2 Botania Mana Infusion Recipe(s) for <minecraft:redstone>, <minecraft:redstone> * 2
+[AVAILABLE][CLIENT][INFO] Altering RedstoneFurnace Recipe(s) for <draconicevolution:draconium_dust>
+[AVAILABLE][CLIENT][INFO] Altering RedstoneFurnace Recipe(s) for <draconicevolution:draconium_ore>
+[AVAILABLE][CLIENT][INFO] Altering InductionSmelter Recipe(s) for <draconicevolution:draconium_dust> and <minecraft:sand>
+[AVAILABLE][CLIENT][INFO] Altering InductionSmelter Recipe(s) for <draconicevolution:draconium_ore> and <minecraft:sand>
+[AVAILABLE][CLIENT][INFO] Altering InductionSmelter Recipe(s) for <draconicevolution:draconium_ore> and <thermalfoundation:material:866>
+[AVAILABLE][CLIENT][INFO] Altering InductionSmelter Recipe(s) for <draconicevolution:draconium_ore> and <thermalfoundation:material:865>
+[AVAILABLE][CLIENT][INFO] Altering RedstoneFurnace Recipe(s) for <minecraft:iron_ingot>
+[AVAILABLE][CLIENT][INFO] Altering RedstoneFurnace Recipe(s) for <industrialforegoing:dryrubber>
+[AVAILABLE][CLIENT][INFO] Altering RedstoneFurnace Recipe(s) for <appliedenergistics2:material:2>
+[AVAILABLE][CLIENT][INFO] Altering RedstoneFurnace Recipe(s) for <industrialforegoing:dryrubber>
+[AVAILABLE][CLIENT][INFO] Altering RedstoneFurnace Recipe(s) for <thermalfoundation:material:801>
+[AVAILABLE][CLIENT][INFO] Altering RedstoneFurnace Recipe(s) for <minecraft:log>
+[AVAILABLE][CLIENT][INFO] Altering RedstoneFurnace Recipe(s) for <minecraft:clay_ball>
+[AVAILABLE][CLIENT][INFO] Altering RedstoneFurnace Recipe(s) for <minecraft:coal>
+[AVAILABLE][CLIENT][INFO] Altering RedstoneFurnace Recipe(s) for <minecraft:coal:1>
+[AVAILABLE][CLIENT][INFO] Adding 1 Empowerer Recipe(s) for <actuallyadditions:item_crystal_empowered>
+[AVAILABLE][CLIENT][INFO] Adding 1 Empowerer Recipe(s) for <actuallyadditions:item_crystal_empowered:1>
+[AVAILABLE][CLIENT][INFO] Adding 1 Empowerer Recipe(s) for <actuallyadditions:item_crystal_empowered:2>
+[AVAILABLE][CLIENT][INFO] Adding 1 Empowerer Recipe(s) for <actuallyadditions:item_crystal_empowered:3>
+[AVAILABLE][CLIENT][INFO] Adding 1 Empowerer Recipe(s) for <actuallyadditions:item_crystal_empowered:4>
+[AVAILABLE][CLIENT][INFO] Adding 1 Empowerer Recipe(s) for <actuallyadditions:item_crystal_empowered:5>
+[AVAILABLE][CLIENT][INFO] Adding 1 Empowerer Recipe(s) for <actuallyadditions:block_crystal_empowered>
+[AVAILABLE][CLIENT][INFO] Adding 1 Empowerer Recipe(s) for <actuallyadditions:block_crystal_empowered:1>
+[AVAILABLE][CLIENT][INFO] Adding 1 Empowerer Recipe(s) for <actuallyadditions:block_crystal_empowered:2>
+[AVAILABLE][CLIENT][INFO] Adding 1 Empowerer Recipe(s) for <actuallyadditions:block_crystal_empowered:3>
+[AVAILABLE][CLIENT][INFO] Adding 1 Empowerer Recipe(s) for <actuallyadditions:block_crystal_empowered:4>
+[AVAILABLE][CLIENT][INFO] Adding 1 Empowerer Recipe(s) for <actuallyadditions:block_crystal_empowered:5>
+[AVAILABLE][CLIENT][INFO] Adding 1 Atomic Reconstructor Recipe(s) for <libvulpes:structuremachine>
+[AVAILABLE][CLIENT][INFO] Removing 0 Atomic Reconstructor Recipe(s) for Unknown item
+[AVAILABLE][CLIENT][INFO] Removing 0 Atomic Reconstructor Recipe(s) for Unknown item
+[AVAILABLE][CLIENT][INFO] Removing 0 Atomic Reconstructor Recipe(s) for Unknown item
+[AVAILABLE][CLIENT][INFO] Removing 0 Atomic Reconstructor Recipe(s) for Unknown item
+[AVAILABLE][CLIENT][INFO] Removing 0 Atomic Reconstructor Recipe(s) for Unknown item
+[AVAILABLE][CLIENT][INFO] Removing 0 Atomic Reconstructor Recipe(s) for Unknown item
+[AVAILABLE][CLIENT][INFO] Removing 0 Atomic Reconstructor Recipe(s) for Unknown item
+[AVAILABLE][CLIENT][INFO] Removing 0 Atomic Reconstructor Recipe(s) for Unknown item
+[AVAILABLE][CLIENT][INFO] Removing 0 Atomic Reconstructor Recipe(s) for Unknown item
+[AVAILABLE][CLIENT][INFO] Removing 0 Atomic Reconstructor Recipe(s) for Unknown item
+[AVAILABLE][CLIENT][INFO] Removing 0 Atomic Reconstructor Recipe(s) for Unknown item
+[AVAILABLE][CLIENT][INFO] Removing 0 Atomic Reconstructor Recipe(s) for Unknown item
+[AVAILABLE][CLIENT][INFO] Adding 1 Atomic Reconstructor Recipe(s) for <actuallyadditions:item_crystal>
+[AVAILABLE][CLIENT][INFO] Adding 1 Atomic Reconstructor Recipe(s) for <actuallyadditions:item_crystal:1>
+[AVAILABLE][CLIENT][INFO] Adding 1 Atomic Reconstructor Recipe(s) for <actuallyadditions:item_crystal:2>
+[AVAILABLE][CLIENT][INFO] Adding 1 Atomic Reconstructor Recipe(s) for <actuallyadditions:item_crystal:3>
+[AVAILABLE][CLIENT][INFO] Adding 1 Atomic Reconstructor Recipe(s) for <actuallyadditions:item_crystal:4>
+[AVAILABLE][CLIENT][INFO] Adding 1 Atomic Reconstructor Recipe(s) for <actuallyadditions:item_crystal:5>
+[AVAILABLE][CLIENT][INFO] Adding 1 Atomic Reconstructor Recipe(s) for <actuallyadditions:block_crystal>
+[AVAILABLE][CLIENT][INFO] Adding 1 Atomic Reconstructor Recipe(s) for <actuallyadditions:block_crystal:1>
+[AVAILABLE][CLIENT][INFO] Adding 1 Atomic Reconstructor Recipe(s) for <actuallyadditions:block_crystal:2>
+[AVAILABLE][CLIENT][INFO] Adding 1 Atomic Reconstructor Recipe(s) for <actuallyadditions:block_crystal:3>
+[AVAILABLE][CLIENT][INFO] Adding 1 Atomic Reconstructor Recipe(s) for <actuallyadditions:block_crystal:4>
+[AVAILABLE][CLIENT][INFO] Adding 1 Atomic Reconstructor Recipe(s) for <actuallyadditions:block_crystal:5>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania PureDaisy Recipe(s) for <astralsorcery:blockcustomsandore>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania PureDaisy Recipe(s) for <astralsorcery:blockcustomore>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania PureDaisy Recipe(s) for <minecraft:gravel>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania PureDaisy Recipe(s) for <artisanworktables:worktable>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Mana Infusion Recipe(s) for <actuallyadditions:item_rice_seed>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Mana Infusion Recipe(s) for <actuallyadditions:item_flax_seed>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Mana Infusion Recipe(s) for <actuallyadditions:item_canola_seed>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Mana Infusion Recipe(s) for <actuallyadditions:item_coffee_seed>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Mana Infusion Recipe(s) for <integrateddynamics:menril_sapling>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Mana Infusion Recipe(s) for <botania:manaresource>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Mana Infusion Recipe(s) for <botania:storage>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Mana Infusion Recipe(s) for <minecraft:gunpowder> * 2
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Eleven Trade Recipe(s) for [<forestry:apatite>]
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Eleven Trade Recipe(s) for [<artisanworktables:workstation>]
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Eleven Trade Recipe(s) for [<artisanworktables:workstation:1>]
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Eleven Trade Recipe(s) for [<artisanworktables:workstation:2>]
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Eleven Trade Recipe(s) for [<artisanworktables:workstation:3>]
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Eleven Trade Recipe(s) for [<artisanworktables:workstation:4>]
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Eleven Trade Recipe(s) for [<artisanworktables:workstation:7>]
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Eleven Trade Recipe(s) for [<artisanworktables:workstation:11>]
+[AVAILABLE][CLIENT][INFO] Altering Add Anvil Shaped Recipe Recipe(s) for Steel Casing
+[AVAILABLE][CLIENT][INFO] Altering Add Anvil Shaped Recipe Recipe(s) for Steel Casing
+[AVAILABLE][CLIENT][INFO] Altering Add Anvil Shaped Recipe Recipe(s) for Steel Casing
+[AVAILABLE][CLIENT][INFO] Adding 1 Cauldron Recipe(s) for Pumpkin Stew
+[AVAILABLE][CLIENT][INFO] Adding 1 Kiln Recipe(s) for Gold Ingot
+[AVAILABLE][CLIENT][INFO] Adding 1 Kiln Recipe(s) for Iron Ingot
+[AVAILABLE][CLIENT][INFO] Adding 1 Kiln Recipe(s) for Silver Ingot
+[AVAILABLE][CLIENT][INFO] Adding 1 Kiln Recipe(s) for Lead Ingot
+[AVAILABLE][CLIENT][INFO] Adding 1 Kiln Recipe(s) for Tin Ingot
+[AVAILABLE][CLIENT][INFO] Adding 1 Kiln Recipe(s) for Copper Ingot
+[AVAILABLE][CLIENT][INFO] Adding 1 Kiln Recipe(s) for Aluminum Ingot
+[AVAILABLE][CLIENT][INFO] Adding 1 Kiln Recipe(s) for Nickel Ingot
+[AVAILABLE][CLIENT][INFO] Adding 1 Kiln Recipe(s) for Tungsten Ingot
+[AVAILABLE][CLIENT][INFO] Altering Resonator Recipe(s) for <minecraft:redstone_ore>
+[AVAILABLE][CLIENT][INFO] Altering Forestry Still Recipe(s) for <liquid:oil>
+[AVAILABLE][CLIENT][INFO] Altering Forestry Carpenter Recipe(s) for Blutonium Ingot
+[AVAILABLE][CLIENT][INFO] Altering Cauldron Dyeing Recipe(s) for <minecraft:stained_hardened_clay>
+[AVAILABLE][CLIENT][INFO] Altering Cauldron Dyeing Recipe(s) for <minecraft:stained_hardened_clay:1>
+[AVAILABLE][CLIENT][INFO] Altering Cauldron Dyeing Recipe(s) for <minecraft:stained_hardened_clay:2>
+[AVAILABLE][CLIENT][INFO] Altering Cauldron Dyeing Recipe(s) for <minecraft:stained_hardened_clay:3>
+[AVAILABLE][CLIENT][INFO] Altering Cauldron Dyeing Recipe(s) for <minecraft:stained_hardened_clay:4>
+[AVAILABLE][CLIENT][INFO] Altering Cauldron Dyeing Recipe(s) for <minecraft:stained_hardened_clay:5>
+[AVAILABLE][CLIENT][INFO] Altering Cauldron Dyeing Recipe(s) for <minecraft:stained_hardened_clay:6>
+[AVAILABLE][CLIENT][INFO] Altering Cauldron Dyeing Recipe(s) for <minecraft:stained_hardened_clay:7>
+[AVAILABLE][CLIENT][INFO] Altering Cauldron Dyeing Recipe(s) for <minecraft:stained_hardened_clay:8>
+[AVAILABLE][CLIENT][INFO] Altering Cauldron Dyeing Recipe(s) for <minecraft:stained_hardened_clay:9>
+[AVAILABLE][CLIENT][INFO] Altering Cauldron Dyeing Recipe(s) for <minecraft:stained_hardened_clay:10>
+[AVAILABLE][CLIENT][INFO] Altering Cauldron Dyeing Recipe(s) for <minecraft:stained_hardened_clay:11>
+[AVAILABLE][CLIENT][INFO] Altering Cauldron Dyeing Recipe(s) for <minecraft:stained_hardened_clay:12>
+[AVAILABLE][CLIENT][INFO] Altering Cauldron Dyeing Recipe(s) for <minecraft:stained_hardened_clay:13>
+[AVAILABLE][CLIENT][INFO] Altering Cauldron Dyeing Recipe(s) for <minecraft:stained_hardened_clay:14>
+[AVAILABLE][CLIENT][INFO] Altering Cauldron Dyeing Recipe(s) for <minecraft:stained_hardened_clay:15>
+[AVAILABLE][CLIENT][INFO] Altering Cauldron Dyeing Recipe(s) for <minecraft:stained_hardened_clay>
+[AVAILABLE][CLIENT][INFO] Altering Cauldron Dyeing Recipe(s) for <minecraft:stained_hardened_clay:1>
+[AVAILABLE][CLIENT][INFO] Altering Cauldron Dyeing Recipe(s) for <minecraft:stained_hardened_clay:2>
+[AVAILABLE][CLIENT][INFO] Altering Cauldron Dyeing Recipe(s) for <minecraft:stained_hardened_clay:3>
+[AVAILABLE][CLIENT][INFO] Altering Cauldron Dyeing Recipe(s) for <minecraft:stained_hardened_clay:4>
+[AVAILABLE][CLIENT][INFO] Altering Cauldron Dyeing Recipe(s) for <minecraft:stained_hardened_clay:5>
+[AVAILABLE][CLIENT][INFO] Altering Cauldron Dyeing Recipe(s) for <minecraft:stained_hardened_clay:6>
+[AVAILABLE][CLIENT][INFO] Altering Cauldron Dyeing Recipe(s) for <minecraft:stained_hardened_clay:7>
+[AVAILABLE][CLIENT][INFO] Altering Cauldron Dyeing Recipe(s) for <minecraft:stained_hardened_clay:8>
+[AVAILABLE][CLIENT][INFO] Altering Cauldron Dyeing Recipe(s) for <minecraft:stained_hardened_clay:9>
+[AVAILABLE][CLIENT][INFO] Altering Cauldron Dyeing Recipe(s) for <minecraft:stained_hardened_clay:10>
+[AVAILABLE][CLIENT][INFO] Altering Cauldron Dyeing Recipe(s) for <minecraft:stained_hardened_clay:11>
+[AVAILABLE][CLIENT][INFO] Altering Cauldron Dyeing Recipe(s) for <minecraft:stained_hardened_clay:12>
+[AVAILABLE][CLIENT][INFO] Altering Cauldron Dyeing Recipe(s) for <minecraft:stained_hardened_clay:13>
+[AVAILABLE][CLIENT][INFO] Altering Cauldron Dyeing Recipe(s) for <minecraft:stained_hardened_clay:14>
+[AVAILABLE][CLIENT][INFO] Altering Cauldron Dyeing Recipe(s) for <minecraft:stained_hardened_clay:15>
+[AVAILABLE][CLIENT][INFO] Altering Cauldron Fluid Recipe(s) for <minecraft:hardened_clay>
+[AVAILABLE][CLIENT][INFO] Altering Cauldron Fluid Recipe(s) for <actuallyadditions:item_food>
+[AVAILABLE][CLIENT][INFO] Altering Cauldron Fluid Recipe(s) for <betterwithmods:raw_scrambled_egg> * 2
+[AVAILABLE][CLIENT][INFO] Altering Cauldron Fluid Recipe(s) for <immersiveengineering:treated_wood>
+[AVAILABLE][CLIENT][INFO] Altering Casting Recipe(s) for <extrautils2:ingredients:12>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <extrautils2:crafter>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <extrautils2:analogcrafter>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <minecraft:end_portal_frame>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <embers:ember_bore>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <embers:cinder_plinth>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <industrialforegoing:latex_processing_unit>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <industrialforegoing:tree_fluid_extractor>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <extrautils2:teleporter:*>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <extrautils2:quarryproxy>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <extrautils2:quarry>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <flyringbaublemod:flyingring:*>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <embers:breaker>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <integrateddynamics:coal_generator>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <tinker_io:ore_crusher>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <tinker_io:upg:6>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <appliedenergistics2:tiny_tnt>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <appliedenergistics2:material:40>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <immersiveengineering:material:1>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <immersiveengineering:material:2>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <immersiveengineering:metal_device1:3>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <simplyjetpacks:metaitemmods:13>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <simplyjetpacks:metaitemmods:14>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <mekanism:controlcircuit:1>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <mekanism:controlcircuit:2>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <extrautils2:machine>.withTag({Type: "extrautils2:enchanter"})
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <libvulpes:coalgenerator>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <actuallyadditions:block_miner>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <immersiveengineering:metal_device1:13>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <appliedenergistics2:quartz_growth_accelerator>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <appliedenergistics2:molecular_assembler>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <extracells:fluidcrafter>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <extracells:fluidfiller>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <actuallyadditions:item_food:9>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <actuallyadditions:item_food:8>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <actuallyadditions:item_food:12>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <actuallyadditions:item_food:14>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <botania:fertilizer>
+[SERVER_STARTED][CLIENT][INFO] Fixed the RecipeBook

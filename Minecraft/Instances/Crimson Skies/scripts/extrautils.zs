@@ -1,0 +1,1 @@
+mods.extrautils2.Resonator.add(<minecraft:redstone_ore>, <minecraft:stone>, 1500);

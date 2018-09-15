@@ -1,0 +1,1 @@
+mods.embers.Alchemy.add(<draconicevolution:draconium_ingot>,[<tconstruct:ingots:2>,<draconicevolution:draconium_dust>,<draconicevolution:draconium_dust>,<draconicevolution:draconium_dust>,<draconicevolution:draconium_dust>],1 to 32,16 to 48,32 to 64,48 to 80,64 to 96);
