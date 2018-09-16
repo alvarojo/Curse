@@ -1187,15 +1187,15 @@
     },
     "done": true
   },
-  "tombstone:tutorial/root": {
-    "criteria": {
-      "auto": "2018-09-15 18:53:44 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_the_recipe": "2018-09-15 18:53:41 +0200"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/root": {
+    "criteria": {
+      "auto": "2018-09-15 18:53:44 +0200"
     },
     "done": true
   },

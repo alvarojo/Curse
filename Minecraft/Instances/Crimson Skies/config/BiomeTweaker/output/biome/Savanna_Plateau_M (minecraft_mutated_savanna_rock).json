@@ -22,10 +22,10 @@
   "Dictionary Types": [
     "HILLS",
     "RARE",
-    "HOT",
-    "SPARSE",
     "SAVANNA",
-    "DRY"
+    "HOT",
+    "DRY",
+    "SPARSE"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [

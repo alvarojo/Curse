@@ -23,8 +23,8 @@
     "CONIFEROUS",
     "HILLS",
     "COLD",
-    "FOREST",
-    "SNOWY"
+    "SNOWY",
+    "FOREST"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [

@@ -154,7 +154,7 @@
 			<fogColor>1.0,1.0,1.0</fogColor>
 			<skyColor>0.0,0.9043232,1.0</skyColor>
 			<gravitationalMultiplier>128</gravitationalMultiplier>
-			<orbitalDistance>204</orbitalDistance>
+			<orbitalDistance>200</orbitalDistance>
 			<orbitalPhi>-5</orbitalPhi>
 			<rotationalPeriod>11444</rotationalPeriod>
 			<atmosphereDensity>21</atmosphereDensity>
@@ -502,18 +502,6 @@
 				<biomeIds>minecraft:ice_flats</biomeIds>
 			</planet>
 		</planet>
-		<planet name="Sol-39" DIMID="39">
-			<isKnown>false</isKnown>
-			<fogColor>1.0,1.0,1.0</fogColor>
-			<skyColor>0.8,0.85498405,0.0</skyColor>
-			<gravitationalMultiplier>130</gravitationalMultiplier>
-			<orbitalDistance>96</orbitalDistance>
-			<orbitalPhi>2</orbitalPhi>
-			<rotationalPeriod>10923</rotationalPeriod>
-			<atmosphereDensity>177</atmosphereDensity>
-			<biomeIds>advancedrocketry:hotdryrock</biomeIds>
-			<oceanBlock>minecraft:lava</oceanBlock>
-		</planet>
 		<planet name="Sol-55" DIMID="55">
 			<isKnown>false</isKnown>
 			<fogColor>1.0,1.0,1.0</fogColor>
@@ -523,6 +511,18 @@
 			<orbitalPhi>-4</orbitalPhi>
 			<rotationalPeriod>35217</rotationalPeriod>
 			<atmosphereDensity>200</atmosphereDensity>
+			<biomeIds>advancedrocketry:hotdryrock</biomeIds>
+			<oceanBlock>minecraft:lava</oceanBlock>
+		</planet>
+		<planet name="Sol-39" DIMID="39">
+			<isKnown>false</isKnown>
+			<fogColor>1.0,1.0,1.0</fogColor>
+			<skyColor>0.8,0.85498405,0.0</skyColor>
+			<gravitationalMultiplier>130</gravitationalMultiplier>
+			<orbitalDistance>96</orbitalDistance>
+			<orbitalPhi>2</orbitalPhi>
+			<rotationalPeriod>10923</rotationalPeriod>
+			<atmosphereDensity>177</atmosphereDensity>
 			<biomeIds>advancedrocketry:hotdryrock</biomeIds>
 			<oceanBlock>minecraft:lava</oceanBlock>
 		</planet>
@@ -811,7 +811,7 @@
 			<isKnown>false</isKnown>
 			<fogColor>1.0,1.0,1.0</fogColor>
 			<skyColor>0.8,0.51880217,0.0</skyColor>
-			<gravitationalMultiplier>105</gravitationalMultiplier>
+			<gravitationalMultiplier>104</gravitationalMultiplier>
 			<orbitalDistance>93</orbitalDistance>
 			<orbitalPhi>-4</orbitalPhi>
 			<rotationalPeriod>20150</rotationalPeriod>

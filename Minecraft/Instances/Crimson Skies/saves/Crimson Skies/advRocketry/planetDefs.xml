@@ -1,5 +1,17 @@
 <galaxy>
 	<star name="Sol" temp="100" x="0" y="0" size="1.0" numPlanets="0" numGasGiants="0">
+		<planet name="Sol-16" DIMID="16">
+			<isKnown>false</isKnown>
+			<fogColor>1.0,1.0,1.0</fogColor>
+			<skyColor>0.8,0.96999186,0.24996889</skyColor>
+			<gravitationalMultiplier>130</gravitationalMultiplier>
+			<orbitalDistance>79</orbitalDistance>
+			<orbitalPhi>-2</orbitalPhi>
+			<rotationalPeriod>10923</rotationalPeriod>
+			<atmosphereDensity>130</atmosphereDensity>
+			<biomeIds>minecraft:savanna_rock,minecraft:mutated_desert,minecraft:desert,minecraft:jungle_hills,minecraft:frozen_ocean,advancedrocketry:deepswamp,advancedrocketry:stormland</biomeIds>
+			<oceanBlock>minecraft:lava</oceanBlock>
+		</planet>
 		<planet name="Earth" DIMID="0" dimMapping="">
 			<isKnown>true</isKnown>
 			<fogColor>1.0,1.0,1.0</fogColor>
@@ -20,18 +32,6 @@
 				<atmosphereDensity>0</atmosphereDensity>
 				<biomeIds>advancedrocketry:moon,advancedrocketry:moondark</biomeIds>
 			</planet>
-		</planet>
-		<planet name="Sol-16" DIMID="16">
-			<isKnown>false</isKnown>
-			<fogColor>1.0,1.0,1.0</fogColor>
-			<skyColor>0.8,0.96999186,0.24996889</skyColor>
-			<gravitationalMultiplier>130</gravitationalMultiplier>
-			<orbitalDistance>79</orbitalDistance>
-			<orbitalPhi>-2</orbitalPhi>
-			<rotationalPeriod>10923</rotationalPeriod>
-			<atmosphereDensity>130</atmosphereDensity>
-			<biomeIds>minecraft:savanna_rock,minecraft:mutated_desert,minecraft:desert,minecraft:jungle_hills,minecraft:frozen_ocean,advancedrocketry:deepswamp,advancedrocketry:stormland</biomeIds>
-			<oceanBlock>minecraft:lava</oceanBlock>
 		</planet>
 		<planet name="Sol-17" DIMID="17">
 			<isKnown>false</isKnown>
@@ -294,7 +294,7 @@
 			<isKnown>false</isKnown>
 			<fogColor>1.0,1.0,1.0</fogColor>
 			<skyColor>0.8,0.71806777,1.0</skyColor>
-			<gravitationalMultiplier>117</gravitationalMultiplier>
+			<gravitationalMultiplier>116</gravitationalMultiplier>
 			<orbitalDistance>102</orbitalDistance>
 			<orbitalPhi>-4</orbitalPhi>
 			<rotationalPeriod>14607</rotationalPeriod>
