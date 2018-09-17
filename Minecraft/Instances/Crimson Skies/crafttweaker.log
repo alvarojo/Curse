@@ -9,14 +9,14 @@
 [INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: bwm.zs}
 [INITIALIZATION][CLIENT][ERROR] This operation has been removed, use mods.betterwithmods.Saw.remove(IItemStack[] outputs)
 [INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: calculator.zs}
-[INITIALIZATION][CLIENT][INFO] Removing Atomic recipe ([sonar.core.recipes.RecipeOreStack@790bb04d, sonar.core.recipes.RecipeOreStack@4e6a2352, sonar.core.recipes.RecipeOreStack@48247c32] = [sonar.core.recipes.RecipeItemStack@75dcc742])
-[INITIALIZATION][CLIENT][INFO] Removing AlgorithmSeparator recipe ([sonar.core.recipes.RecipeOreStack@51f1986c] = [sonar.core.recipes.RecipeItemStack@4e1e41b3, sonar.core.recipes.RecipeItemStack@25b061ae])
+[INITIALIZATION][CLIENT][INFO] Removing Atomic recipe ([sonar.core.recipes.RecipeOreStack@4f1d0c48, sonar.core.recipes.RecipeOreStack@63e5d4c4, sonar.core.recipes.RecipeOreStack@613206c3] = [sonar.core.recipes.RecipeItemStack@50b9c133])
+[INITIALIZATION][CLIENT][INFO] Removing AlgorithmSeparator recipe ([sonar.core.recipes.RecipeOreStack@7761e820] = [sonar.core.recipes.RecipeItemStack@3aef51fc, sonar.core.recipes.RecipeItemStack@4b1a5c7c])
 [INITIALIZATION][CLIENT][INFO] Adding Flawless recipe ([1xitem.thermalfoundation.material@167, 1xitem.FiddledewFruit@0, 1xitem.EndDiamond@0, 1xitem.tconstruct.ingots@3] = [1xitem.chorusFruit@0])
 [INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: carpenter workbench.zs}
 [INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: chef workbench.zs}
 [INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: crafting.zs}
 [INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: evilcraft.zs}
-[INITIALIZATION][CLIENT][INFO] Adding 1 BloodInfuser Recipe(s) for BloodInfuser recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@49c36b5b, fluidStack=net.minecraftforge.fluids.FluidStack@3bfde000, chance=0.0); Output: IngredientRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@71415a5e, chance=0.0); Properties: DurationXpRecipeProperties(duration=100, xp=10.0); 
+[INITIALIZATION][CLIENT][INFO] Adding 1 BloodInfuser Recipe(s) for BloodInfuser recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@329c4584, fluidStack=net.minecraftforge.fluids.FluidStack@801abf66, chance=0.0); Output: IngredientRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@2b341a52, chance=0.0); Properties: DurationXpRecipeProperties(duration=100, xp=10.0); 
 [INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: extrautils.zs}
 [INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: forestry.zs}
 [INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: furnace.zs}
@@ -44,8 +44,8 @@
 [INITIALIZATION][CLIENT][INFO] Adding Alloy Smelter Recipe for Dark Gem
 [INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: inspirations.zs}
 [INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: integrateddynamics.zs}
-[INITIALIZATION][CLIENT][INFO] Removing 1 MechanicalDryingBasin Recipe(s) for MechanicalDryingBasin recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@f6213b3, fluidStack=null, chance=0.0); Output: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@75fb9582, fluidStack=null, chance=0.0); Properties: DurationRecipeProperties(duration=10); 
-[INITIALIZATION][CLIENT][INFO] Adding 1 MechanicalSqueezer Recipe(s) for MechanicalSqueezer recipe: Input: IngredientRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@2f416136, chance=0.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[5xitem.shard_ember@0], chance=0.0), fluidStack=null, chance=0.0); Properties: DurationRecipeProperties(duration=10); 
+[INITIALIZATION][CLIENT][INFO] Removing 1 MechanicalDryingBasin Recipe(s) for MechanicalDryingBasin recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@55754004, fluidStack=null, chance=0.0); Output: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@649f258b, fluidStack=null, chance=0.0); Properties: DurationRecipeProperties(duration=10); 
+[INITIALIZATION][CLIENT][INFO] Adding 1 MechanicalSqueezer Recipe(s) for MechanicalSqueezer recipe: Input: IngredientRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@25b061ae, chance=0.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[5xitem.shard_ember@0], chance=0.0), fluidStack=null, chance=0.0); Properties: DurationRecipeProperties(duration=10); 
 [INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: jeweler workbench.zs}
 [INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: mage worktable.zs}
 [INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: magneticraft.zs}
@@ -95,7 +95,7 @@
 [INITIALIZATION][CLIENT][INFO] Translating item.fan.name to Steel Turbine
 [INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: seeds.zs}
 [INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: soot.zs}
-[INITIALIZATION][CLIENT][INFO] Adding 1 Alchemy Recipe(s) for soot.recipe.RecipeAlchemyTablet@53583f03
+[INITIALIZATION][CLIENT][INFO] Adding 1 Alchemy Recipe(s) for soot.recipe.RecipeAlchemyTablet@35ba8e8c
 [INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: tailor workbench.zs}
 [INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: thermal.zs}
 [INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: tic.zs}
@@ -116,7 +116,7 @@
 [INITIALIZATION][CLIENT][INFO] Adding ALLOY_SMELTER_RECIPE recipe for Brass Ingot
 [INITIALIZATION][CLIENT][INFO] Adding ALLOY_SMELTER_RECIPE recipe for Constantan Ingot
 [INITIALIZATION][CLIENT][INFO] Adding ALLOY_SMELTER_RECIPE recipe for Dark Gem
-[INITIALIZATION][CLIENT][INFO] Completed script loading in: 2324ms
+[INITIALIZATION][CLIENT][INFO] Completed script loading in: 932ms
 [INITIALIZATION][CLIENT][INFO] Adding CrushingTableRecipe(input=1xtile.gravel@0, output=1xtile.sand@0, oreDict=true)
 [INITIALIZATION][CLIENT][INFO] Removing CrushingTableRecipe(input=1xitem.skull@4, output=8xitem.sulphur@0, oreDict=true)
 [POSTINITIALIZATION][CLIENT][INFO] ArtisanWorktables recipe hook queue

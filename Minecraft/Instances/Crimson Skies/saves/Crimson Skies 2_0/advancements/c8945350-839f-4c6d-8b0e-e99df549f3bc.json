@@ -101,6 +101,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2018-09-17 13:51:32 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_the_recipe": "2018-09-15 19:10:38 +0200"
@@ -212,6 +218,13 @@
   "minecraft:recipes/decorations/black_bed_from_white_bed": {
     "criteria": {
       "has_the_recipe": "2018-09-15 19:10:38 +0200"
+    },
+    "done": true
+  },
+  "techreborn:root": {
+    "criteria": {
+      "ore2_in_inventory": "2018-09-16 20:48:46 +0200",
+      "ore_in_inventory": "2018-09-16 20:48:46 +0200"
     },
     "done": true
   },
@@ -480,6 +493,12 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2018-09-17 13:52:19 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_stained_glass_pane": {
     "criteria": {
       "has_the_recipe": "2018-09-15 19:10:38 +0200"
@@ -612,6 +631,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2018-09-16 23:04:21 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_carpet": {
     "criteria": {
       "has_the_recipe": "2018-09-15 19:10:38 +0200"
@@ -702,6 +727,12 @@
     },
     "done": true
   },
+  "evilcraft:cannibal": {
+    "criteria": {
+      "criteria_0": "2018-09-17 15:20:03 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed_from_white_bed": {
     "criteria": {
       "has_the_recipe": "2018-09-15 19:10:38 +0200"
@@ -744,6 +775,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2018-09-17 13:50:32 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_stained_glass_pane": {
     "criteria": {
       "has_the_recipe": "2018-09-15 19:10:38 +0200"
@@ -758,8 +795,10 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "wither_skeleton": "2018-09-17 13:51:52 +0200",
       "zombie_villager": "2018-09-15 23:57:40 +0200",
       "skeleton": "2018-09-15 20:09:51 +0200",
+      "blaze": "2018-09-17 13:52:29 +0200",
       "zombie": "2018-09-15 20:00:38 +0200",
       "creeper": "2018-09-15 20:09:44 +0200",
       "enderman": "2018-09-16 00:39:35 +0200"
@@ -769,6 +808,12 @@
   "minecraft:recipes/decorations/end_crystal": {
     "criteria": {
       "has_the_recipe": "2018-09-15 19:10:38 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2018-09-17 13:51:32 +0200"
     },
     "done": true
   },
@@ -868,6 +913,12 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2018-09-17 17:33:22 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_bed": {
     "criteria": {
       "has_the_recipe": "2018-09-15 19:10:38 +0200"
@@ -949,6 +1000,12 @@
   "minecraft:recipes/decorations/light_blue_stained_glass_pane": {
     "criteria": {
       "has_the_recipe": "2018-09-15 19:10:38 +0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2018-09-17 13:51:34 +0200"
     },
     "done": true
   },
@@ -1312,6 +1369,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2018-09-17 13:55:13 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_block": {
     "criteria": {
       "has_the_recipe": "2018-09-15 19:10:38 +0200"
@@ -1609,6 +1672,12 @@
   "minecraft:recipes/building_blocks/acacia_stairs": {
     "criteria": {
       "has_the_recipe": "2018-09-15 19:10:38 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2018-09-16 20:39:04 +0200"
     },
     "done": true
   },
