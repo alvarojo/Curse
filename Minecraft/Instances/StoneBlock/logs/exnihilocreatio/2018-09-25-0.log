@@ -1,0 +1,12 @@
+[12:22:48] [ERROR] Number error in json: randomthings:spectreleaf:*
+[12:22:48] [ERROR] Compost JSON Entry for randomthings:spectreleaf:* already exists, skipping.
+[12:22:49] [ERROR] Compost Entry for excompressum:wood_chippings with meta 0 already exists, skipping.
+[12:23:37] [INFO] ModConfig Loaded: true
+[12:23:37] [INFO] JEI: Compost Recipe Pages Loaded:         2
+[12:23:37] [INFO] JEI: Fluid Block Transform Recipes Loaded:       23
+[12:23:37] [INFO] JEI: Fluid On Top Recipes Loaded:       2
+[12:23:37] [INFO] JEI: Fluid Transform Recipes Loaded:    2
+[12:23:37] [INFO] JEI: Hammer Recipes Loaded:             32
+[12:23:37] [INFO] JEI: Heat Sources Loaded:             11
+[12:23:37] [INFO] JEI: Sieve Recipes Loaded:              25
+[12:23:37] [INFO] JEI: Stone Crucible Recipes Loaded:       1
